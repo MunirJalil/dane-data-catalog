@@ -141,11 +141,18 @@ python -m dane_catalog.cli catalog --source socrata --full-sweep
 ```
 
 If your IP range is blocked by the CDNs (common for datacenter IPs), use a
-read-through proxy and/or a free Socrata app token:
+read-through proxy and/or a free Socrata app token (global options go
+before the subcommand):
 
 ```bash
-python -m dane_catalog.cli catalog --full-sweep --proxy rotate --app-token "$SOCRATA_APP_TOKEN"
+python -m dane_catalog.cli --proxy rotate --app-token "$SOCRATA_APP_TOKEN" catalog --full-sweep
 ```
+
+> **Note on `microdatos.dane.gov.co`:** its WAF blocks datacenter IPs
+> (cloud providers, GitHub Actions runners, public CORS proxies) with
+> HTTP 401/403. Rebuilding the microdata side works from Colombian
+> residential ISPs; otherwise the committed catalog snapshot is used as-is.
+> The datos.gov.co side refreshes without restrictions.
 
 ## Repository layout
 

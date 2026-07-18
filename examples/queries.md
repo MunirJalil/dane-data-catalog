@@ -78,8 +78,8 @@ python -m dane_catalog.cli study 643 --resources | jq '.data_files[] | {filename
 # full rebuild (scans the whole datos.gov.co portal)
 python -m dane_catalog.cli catalog --full-sweep
 
-# behind a blocked IP
-python -m dane_catalog.cli catalog --full-sweep --proxy rotate --app-token "$SOCRATA_APP_TOKEN"
+# behind a blocked IP (global options go before the subcommand)
+python -m dane_catalog.cli --proxy rotate --app-token "$SOCRATA_APP_TOKEN" catalog --full-sweep
 
 # refresh only one side
 python -m dane_catalog.cli catalog --source microdata

@@ -28,15 +28,22 @@ jobs:
         env:
           SOCRATA_APP_TOKEN: ${{ secrets.SOCRATA_APP_TOKEN }}
         run: |
-          python -m dane_catalog.cli catalog --source socrata --full-sweep \
-            --app-token "$SOCRATA_APP_TOKEN" \
-            || python -m dane_catalog.cli catalog --source socrata --full-sweep --proxy rotate \
+          python -m dane_catalog.cli --app-token "$SOCRATA_APP_TOKEN" \
+            catalog --source socrata --full-sweep \
+            || python -m dane_catalog.cli --proxy rotate \
+            catalog --source socrata --full-sweep \
             || echo "::warning::datos.gov.co rebuild failed; keeping previous files"
 
-      - name: Rebuild microdata studies
+      # Best-effort: microdatos.dane.gov.co blocks datacenter IPs (including
+      # GitHub runners) with HTTP 401/403, so this step usually falls through
+      # to the warning and the committed microdata snapshot is kept. To
+      # refresh studies, run the CLI from a residential connection and PR
+      # the result.
+      - name: Rebuild microdata studies (best effort)
         run: |
           python -m dane_catalog.cli catalog --source microdata \
-            || python -m dane_catalog.cli catalog --source microdata --proxy rotate \
+            || python -m dane_catalog.cli --proxy rotate \
+            catalog --source microdata \
             || echo "::warning::microdatos rebuild failed; keeping previous files"
 
       - name: Commit changes
