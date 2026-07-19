@@ -182,7 +182,9 @@ rebuilds each source independently every Monday 06:00 UTC (and on demand),
 and commits any changes to `catalog/`. Add a `SOCRATA_APP_TOKEN`
 ([free](https://www.datos.gov.co/profile/edit/developer_settings)) as a repo
 secret for higher rate limits; without it the workflow falls back to proxy
-rotation.
+rotation. As a safety guard, a rebuild that returns zero records for a
+source exits with an error instead of overwriting the committed snapshot —
+so a blocked or malfunctioning upstream can never shrink the catalog.
 
 ## License
 

@@ -82,9 +82,26 @@ class MicrodataCatalog:
         page = 1
         while True:
             data = self.search_raw(page=page)
-            result = data.get("result", {})
-            rows = result.get("rows", [])
+            # A blocked/request-limited upstream (or a failing CORS proxy)
+            # can answer HTTP 200 with a JSON error body instead of the
+            # expected ``{"result": {...}}`` envelope. Treat a missing
+            # envelope as a hard failure rather than "no more pages",
+            # otherwise callers would mistake it for an empty catalog.
+            if not isinstance(data, dict) or "result" not in data:
+                raise RuntimeError(
+                    "Unexpected response from the microdatos API on page "
+                    f"{page} (no 'result' envelope). The upstream may be "
+                    f"blocking this IP range. Body starts: {str(data)[:200]}"
+                )
+            result = data.get("result") or {}
+            rows = result.get("rows") or []
             if not rows:
+                if page == 1 and int(result.get("found") or result.get("total") or 0) > 0:
+                    raise RuntimeError(
+                        "Microdatos API reports studies exist but returned "
+                        "no rows on page 1; refusing to treat this as an "
+                        "empty catalog."
+                    )
                 break
             for row in rows:
                 yield normalize(row)

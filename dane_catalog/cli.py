@@ -57,6 +57,13 @@ def cmd_catalog(args) -> None:
 
     if args.source == "all":
         catalog = cat_mod.build(http, full_sweep=args.full_sweep)
+        if not catalog["datasets"] and not catalog["studies"]:
+            print(
+                "error: both sources returned zero records; refusing to "
+                "save an empty catalog",
+                file=sys.stderr,
+            )
+            sys.exit(1)
     else:
         # Partial rebuild: refresh one source, keep the other from the
         # existing catalog files if present.
@@ -70,9 +77,25 @@ def cmd_catalog(args) -> None:
         datasets = existing.get("datasets", [])
         studies = existing.get("studies", [])
         if args.source == "socrata":
-            datasets = cat_mod.build_datasets(http, full_sweep=args.full_sweep)
+            fresh = cat_mod.build_datasets(http, full_sweep=args.full_sweep)
+            if not fresh and datasets:
+                print(
+                    "error: rebuild returned 0 datasets; keeping existing "
+                    "catalog files",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            datasets = fresh
         else:
-            studies = cat_mod.build_studies(http)
+            fresh = cat_mod.build_studies(http)
+            if not fresh and studies:
+                print(
+                    "error: rebuild returned 0 studies; keeping existing "
+                    "catalog files",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            studies = fresh
         catalog = cat_mod.wrap(datasets, studies)
 
     written = cat_mod.save(catalog, outdir)
