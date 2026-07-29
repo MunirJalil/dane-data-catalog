@@ -55,6 +55,15 @@ jobs:
             --out catalog/gdp_quarterly_nominal.csv \
             || echo "::warning::GDP refresh failed; keeping previous file"
 
+      # Short-term economic indicators (OECD KEI mirrors DANE/BanRep
+      # series; not geo-blocked). The command exits non-zero if any
+      # indicator fails, so a partial file is never committed.
+      - name: Refresh macro indicators
+        run: |
+          python -m dane_catalog.cli macro all \
+            --out catalog/macro_indicators.csv \
+            || echo "::warning::macro refresh failed; keeping previous file"
+
       - name: Commit changes
         run: |
           git config user.name "dane-catalog-bot"

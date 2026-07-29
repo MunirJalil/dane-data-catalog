@@ -14,6 +14,7 @@ import sys
 from pathlib import Path
 
 from . import catalog as cat_mod
+from . import economics
 from . import national_accounts
 from .search import get as get_record
 from .search import search as run_search
@@ -221,6 +222,69 @@ def cmd_gdp(args) -> None:
     _emit(out, "json")
 
 
+def cmd_macro(args) -> None:
+    ident = args.indicator
+    if ident in (None, "list"):
+        out = {
+            "source": economics.SOURCE_NOTE,
+            "count": len(economics.INDICATORS),
+            "indicators": economics.list_indicators(),
+        }
+        if args.format == "table":
+            print(f"# {out['count']} monthly indicators (OECD KEI mirror of DANE/BanRep series)")
+            for i in out["indicators"]:
+                print(f"{i['id']:<24} {i['name'][:52]:<52} [{i['unit']}]")
+            return
+        _emit(out, "json")
+        return
+
+    if ident == "all":
+        result = economics.fetch_all(start=args.start, end=args.end)
+        failed = {k: v[0].get("error") for k, v in result.items() if v and "error" in v[0]}
+        empty = [k for k, v in result.items() if not v]
+        if failed or empty:
+            for k, e in {**{k: e for k, e in failed.items()}, **{k: "no data" for k in empty}}.items():
+                print(f"error: indicator {k!r}: {e}", file=sys.stderr)
+            print("error: refusing to write an incomplete macro file", file=sys.stderr)
+            sys.exit(1)
+        rows = [r for v in result.values() for r in v]
+        rows.sort(key=lambda r: (r["indicator"], r["period"]))
+        out = {
+            "source": economics.SOURCE_NOTE,
+            "count_indicators": len(result),
+            "count_rows": len(rows),
+            "series": rows,
+        }
+    else:
+        rows = economics.fetch_indicator(ident, start=args.start, end=args.end)
+        out = {
+            "source": economics.SOURCE_NOTE,
+            "indicator": ident,
+            "name": economics.INDICATORS[ident]["name"],
+            "count": len(rows),
+            "series": rows,
+        }
+
+    if args.out:
+        path = Path(args.out)
+        flat = out["series"]
+        if path.suffix == ".csv":
+            fields = ["indicator", "period", "value", "unit"]
+            with path.open("w", newline="", encoding="utf-8") as fh:
+                writer = csv.DictWriter(fh, fieldnames=fields)
+                writer.writeheader()
+                writer.writerows([{k: r.get(k, "") for k in fields} for r in flat])
+        else:
+            path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"wrote {path}", file=sys.stderr)
+        return
+    if args.format == "table":
+        for r in out["series"]:
+            print(f"{r['indicator']:<24} {r['period']}  {r['value']:>18,.4f}  [{r['unit']}]")
+        return
+    _emit(out, "json")
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="dane-catalog",
@@ -330,6 +394,24 @@ def build_parser() -> argparse.ArgumentParser:
     g.add_argument("--end", help="last quarter, e.g. 2026-Q1")
     g.add_argument("--out", help="write series to .json or .csv instead of stdout")
     g.set_defaults(func=cmd_gdp)
+
+    mc = sub.add_parser(
+        "macro",
+        help="monthly economic indicators: IPC/inflation, industrial "
+        "production, retail sales, unemployment, confidence, trade, TRM "
+        "(DANE/BanRep series via OECD KEI)",
+    )
+    mc.add_argument(
+        "indicator",
+        nargs="?",
+        default=None,
+        help="indicator id (see `macro list`), 'all' for every indicator, "
+        "or omit to list available indicators",
+    )
+    mc.add_argument("--start", help="first month, e.g. 2019-01")
+    mc.add_argument("--end", help="last month, e.g. 2026-06")
+    mc.add_argument("--out", help="write series to .json or .csv instead of stdout")
+    mc.set_defaults(func=cmd_macro)
 
     return p
 

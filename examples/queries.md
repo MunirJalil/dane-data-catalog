@@ -93,6 +93,29 @@ python -m dane_catalog.cli gdp \
         | map({year: .[0].y, gdp_millions_cop: ([.[].v] | add)})'
 ```
 
+## Monthly economic indicators (via OECD KEI)
+
+```bash
+# registry: ids, names, sources, units
+python -m dane_catalog.cli macro list
+python -m dane_catalog.cli macro list | jq '.indicators[].id'
+
+# one indicator
+python -m dane_catalog.cli macro ipc --start 2018-01
+python -m dane_catalog.cli macro desempleo | jq '.series[-1]'
+
+# trade balance from the two series
+python -m dane_catalog.cli macro exportaciones --start 2025-01 > /tmp/ex.json
+python -m dane_catalog.cli macro importaciones --start 2025-01 > /tmp/im.json
+jq -n --slurpfile e /tmp/ex.json --slurpfile i /tmp/im.json \
+  '($e[0].series | map({(.period): .value}) | add) as $ex
+   | ($i[0].series | map({(.period): .value}) | add) as $im
+   | ($ex | keys[]) as $p | {period: $p, balance_musd: ($ex[$p] - $im[$p])}'
+
+# full tidy export for analysis
+python -m dane_catalog.cli macro all --out macro_indicators.csv
+```
+
 ## Rebuild the catalog yourself
 
 ```bash

@@ -139,6 +139,40 @@ and 2026-Q1 nominal YoY growth is 5.9 % (DANE technical bulletin,
 [`catalog/gdp_quarterly_nominal.csv`](catalog/gdp_quarterly_nominal.csv)
 and refreshed weekly.
 
+## Monthly economic indicators (coyuntura económica)
+
+The rest of DANE's headline economic statistics — inflation, industrial
+production, retail sales, unemployment, consumer and business
+confidence, foreign trade — are published the same way as GDP: press
+releases and Excel files behind the DANE WAF. The `macro` command
+fetches the same official series from the OECD Key Economic Indicators
+(KEI) database, to which Colombia reports as an OECD member:
+
+```bash
+# what is available
+python -m dane_catalog.cli macro list
+
+# inflation, latest reading
+python -m dane_catalog.cli macro inflacion | jq '.series[-1]'
+
+# unemployment since 2019, table view
+python -m dane_catalog.cli --format table macro desempleo --start 2019-01
+
+# everything at once, tidy CSV (indicator, period, value, unit)
+python -m dane_catalog.cli macro all --out macro_indicators.csv
+```
+
+Twelve monthly series are registered: `ipc`, `inflacion`,
+`produccion_industrial` (EMM), `ventas_comercio` (CMMC), `desempleo` and
+`empleo` (GEIH), `confianza_consumidor` (ICC), `confianza_empresarial`,
+`exportaciones`/`importaciones` (goods, USD), `trm` (Banco de la
+República) and `construccion`. The combined snapshot is committed as
+[`catalog/macro_indicators.csv`](catalog/macro_indicators.csv) and
+refreshed weekly. Notable gaps: the producer-price index (IPP) is not
+included because the OECD series for Colombia stopped in 2022-12, and
+the ISE (DANE's monthly GDP proxy) is not reported to the OECD — both
+remain DANE-website-only for now.
+
 ## Python API
 
 ```python
@@ -160,6 +194,12 @@ detail = MicrodataCatalog(http).study_detail("643")
 from dane_catalog import national_accounts
 gdp = national_accounts.with_yoy(national_accounts.quarterly_gdp(prices="current"))
 latest = gdp[-1]   # {'quarter': '2026-Q1', 'value': 472759713.3, 'yoy_pct': 5.9, ...}
+
+# monthly economic indicators (via OECD KEI)
+from dane_catalog import economics
+print(economics.list_indicators())
+ipc = economics.fetch_indicator("ipc", start="2020-01")
+desempleo = economics.fetch_indicator("desempleo")
 ```
 
 ## Rebuilding the catalog
@@ -190,12 +230,13 @@ python -m dane_catalog.cli --proxy rotate --app-token "$SOCRATA_APP_TOKEN" catal
 ## Repository layout
 
 ```
-dane_catalog/          # the package (client, socrata, microdata, national_accounts, catalog, search, cli)
+dane_catalog/          # the package (client, socrata, microdata, national_accounts, economics, catalog, search, cli)
 catalog/               # generated catalog files (auto-updated weekly)
   dane_catalog_full.json   # everything, one file
   dane_datasets.json/csv   # datos.gov.co datasets only
   dane_microdata.json/csv  # microdata studies only
   gdp_quarterly_nominal.csv # quarterly nominal GDP (via OECD QNA)
+  macro_indicators.csv     # 12 monthly economic indicators (via OECD KEI)
 examples/              # runnable examples
 .github/workflows/     # weekly auto-refresh
 ```
