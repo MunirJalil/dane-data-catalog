@@ -72,6 +72,27 @@ python -m dane_catalog.cli study 643
 python -m dane_catalog.cli study 643 --resources | jq '.data_files[] | {filename, file_type, size}'
 ```
 
+## Quarterly GDP (national accounts, via OECD QNA)
+
+```bash
+# nominal GDP since 2015, with YoY growth
+python -m dane_catalog.cli gdp --start 2015-Q1
+
+# just the latest quarter
+python -m dane_catalog.cli gdp | jq '.series[-1]'
+
+# real GDP (chained volume, 2015 reference year), seasonally adjusted
+python -m dane_catalog.cli gdp --prices constant --sa | jq '.series[-4:]'
+
+# export for a spreadsheet
+python -m dane_catalog.cli gdp --out gdp_nominal.csv
+
+# annual totals from the quarterly series
+python -m dane_catalog.cli gdp \
+  | jq '[.series[] | {y: .quarter[:4], v: .value}] | group_by(.y)
+        | map({year: .[0].y, gdp_millions_cop: ([.[].v] | add)})'
+```
+
 ## Rebuild the catalog yourself
 
 ```bash

@@ -14,6 +14,7 @@ import sys
 from pathlib import Path
 
 from . import catalog as cat_mod
+from . import national_accounts
 from .search import get as get_record
 from .search import search as run_search
 from .search import stats as catalog_stats
@@ -178,6 +179,48 @@ def cmd_study(args) -> None:
     _emit(out, args.format)
 
 
+def cmd_gdp(args) -> None:
+    adjustment = "Y" if args.sa else "N"
+    rows = national_accounts.with_yoy(
+        national_accounts.quarterly_gdp(
+            prices=args.prices,
+            adjustment=adjustment,
+            start=args.start,
+            end=args.end,
+        )
+    )
+    out = {
+        "source": national_accounts.SOURCE_NOTE,
+        "prices": args.prices,
+        "adjustment": "seasonally adjusted" if args.sa else "original",
+        "count": len(rows),
+        "series": rows,
+    }
+    if args.out:
+        path = Path(args.out)
+        if path.suffix == ".csv":
+            with path.open("w", newline="", encoding="utf-8") as fh:
+                writer = csv.DictWriter(
+                    fh, fieldnames=["quarter", "value", "yoy_pct", "prices", "adjustment", "unit"]
+                )
+                writer.writeheader()
+                writer.writerows(rows)
+        else:
+            path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"wrote {path}", file=sys.stderr)
+        return
+    if args.format == "table":
+        print(
+            f"# Colombia quarterly GDP ({'nominal' if args.prices == 'current' else 'real, chained 2015'},"
+            f" {'SA' if args.sa else 'original series'}), millions of COP"
+        )
+        for r in rows:
+            yoy = f"{r['yoy_pct']:+.1f}%" if r["yoy_pct"] is not None else "     "
+            print(f"{r['quarter']}  {r['value']:>16,.0f}  YoY {yoy}")
+        return
+    _emit(out, "json")
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="dane-catalog",
@@ -266,6 +309,27 @@ def build_parser() -> argparse.ArgumentParser:
     m.add_argument("id", help="numeric study id, e.g. 643 (CNPV 2018)")
     m.add_argument("--resources", action="store_true", help="include file list")
     m.set_defaults(func=cmd_study)
+
+    g = sub.add_parser(
+        "gdp",
+        help="Colombia quarterly GDP (DANE national accounts via OECD QNA)",
+    )
+    g.add_argument(
+        "--prices",
+        choices=["current", "constant"],
+        default="current",
+        help="current = nominal (precios corrientes); constant = real, "
+        "chained volume, reference year 2015 (default: current)",
+    )
+    g.add_argument(
+        "--sa",
+        action="store_true",
+        help="seasonally and calendar adjusted series (default: original)",
+    )
+    g.add_argument("--start", help="first quarter, e.g. 2015-Q1")
+    g.add_argument("--end", help="last quarter, e.g. 2026-Q1")
+    g.add_argument("--out", help="write series to .json or .csv instead of stdout")
+    g.set_defaults(func=cmd_gdp)
 
     return p
 

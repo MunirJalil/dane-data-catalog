@@ -111,6 +111,34 @@ python -m dane_catalog.cli fetch vcjz-niiq \
 python -m dane_catalog.cli study 643 --resources
 ```
 
+## Quarterly GDP (national accounts)
+
+DANE publishes quarterly GDP only as Excel annexes on dane.gov.co — no
+API, and the site blocks datacenter IPs. The `gdp` command fetches the
+same official DANE figures from the OECD Quarterly National Accounts
+database (to which DANE reports), which has a free SDMX REST API:
+
+```bash
+# nominal GDP (precios corrientes), original series, millions of COP
+python -m dane_catalog.cli gdp
+
+# real GDP (chained volume, reference year 2015), seasonally adjusted
+python -m dane_catalog.cli gdp --prices constant --sa
+
+# a window, table view, CSV export
+python -m dane_catalog.cli --format table gdp --start 2019-Q1
+python -m dane_catalog.cli gdp --start 2005-Q1 --out gdp_nominal.csv
+```
+
+Each row carries `quarter`, `value` (millions of COP) and `yoy_pct`.
+Coverage: 2005-Q1 to the latest quarter DANE has published (currently
+2026-Q1). Verified against DANE's own publications: the 2025 annual
+total is 1,852,670,034 million COP (DANE: 1.852.670 miles de millones)
+and 2026-Q1 nominal YoY growth is 5.9 % (DANE technical bulletin,
+15/05/2026). The latest snapshot is also committed as
+[`catalog/gdp_quarterly_nominal.csv`](catalog/gdp_quarterly_nominal.csv)
+and refreshed weekly.
+
 ## Python API
 
 ```python
@@ -127,6 +155,11 @@ from dane_catalog import HttpClient, SocrataCatalog, MicrodataCatalog
 http = HttpClient()
 rows = SocrataCatalog(http).query("vcjz-niiq", limit=10)
 detail = MicrodataCatalog(http).study_detail("643")
+
+# quarterly GDP (DANE national accounts via OECD QNA)
+from dane_catalog import national_accounts
+gdp = national_accounts.with_yoy(national_accounts.quarterly_gdp(prices="current"))
+latest = gdp[-1]   # {'quarter': '2026-Q1', 'value': 472759713.3, 'yoy_pct': 5.9, ...}
 ```
 
 ## Rebuilding the catalog
@@ -157,11 +190,12 @@ python -m dane_catalog.cli --proxy rotate --app-token "$SOCRATA_APP_TOKEN" catal
 ## Repository layout
 
 ```
-dane_catalog/          # the package (client, socrata, microdata, catalog, search, cli)
+dane_catalog/          # the package (client, socrata, microdata, national_accounts, catalog, search, cli)
 catalog/               # generated catalog files (auto-updated weekly)
   dane_catalog_full.json   # everything, one file
   dane_datasets.json/csv   # datos.gov.co datasets only
   dane_microdata.json/csv  # microdata studies only
+  gdp_quarterly_nominal.csv # quarterly nominal GDP (via OECD QNA)
 examples/              # runnable examples
 .github/workflows/     # weekly auto-refresh
 ```

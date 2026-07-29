@@ -46,6 +46,15 @@ jobs:
             catalog --source microdata \
             || echo "::warning::microdatos rebuild failed; keeping previous files"
 
+      # National accounts: the OECD QNA database carries DANE's official
+      # quarterly GDP figures and is not geo-blocked, so this refreshes
+      # reliably from runners.
+      - name: Refresh quarterly nominal GDP
+        run: |
+          python -m dane_catalog.cli gdp \
+            --out catalog/gdp_quarterly_nominal.csv \
+            || echo "::warning::GDP refresh failed; keeping previous file"
+
       - name: Commit changes
         run: |
           git config user.name "dane-catalog-bot"
