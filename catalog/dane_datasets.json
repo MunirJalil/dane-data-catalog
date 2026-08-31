@@ -7,9 +7,9 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "codigo",
+   "municipio",
    "departamento",
-   "municipio"
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Gobernación de Guainía, Guainía",
@@ -20,22 +20,16 @@
   "created_at": "2016-07-14T02:37:52.000Z",
   "updated_at": "2026-05-18T17:51:57.000Z",
   "data_updated_at": "2025-01-24T20:44:32.000Z",
-  "page_views_total": 186162,
-  "download_count": 255585,
+  "page_views_total": 186995,
+  "download_count": 257053,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/gdxc-w37w",
   "api_endpoint": "https://www.datos.gov.co/resource/gdxc-w37w.json",
   "csv_download": "https://www.datos.gov.co/api/views/gdxc-w37w/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "nom_mpio",
-    "name": "Nombre Municipio",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "latitud",
-    "name": "Latitud",
+    "field": "dpto",
+    "name": "Nombre Departamento",
     "type": "Text",
     "description": ""
    },
@@ -46,26 +40,32 @@
     "description": ""
    },
    {
+    "field": "tipo_municipio",
+    "name": "Tipo: Municipio / Isla / Área no municipalizada",
+    "type": "Text",
+    "description": ""
+   },
+   {
     "field": "cod_mpio",
     "name": "Código Municipio",
     "type": "Text",
     "description": ""
    },
    {
+    "field": "latitud",
+    "name": "Latitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "nom_mpio",
+    "name": "Nombre Municipio",
+    "type": "Text",
+    "description": ""
+   },
+   {
     "field": "cod_dpto",
     "name": "Código Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "dpto",
-    "name": "Nombre Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "tipo_municipio",
-    "name": "Tipo: Municipio / Isla / Área no municipalizada",
     "type": "Text",
     "description": ""
    }
@@ -79,13 +79,13 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
+   "departamento",
    "codigo",
-   "cabeceras municipales",
-   "areas no municipalizadas",
    "centro poblado",
-   "divipola",
    "municipios",
-   "departamento"
+   "areas no municipalizadas",
+   "cabeceras municipales",
+   "divipola"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -96,22 +96,22 @@
   "created_at": "2020-06-11T15:39:41.000Z",
   "updated_at": "2026-05-18T16:41:13.000Z",
   "data_updated_at": "2025-01-24T21:14:58.000Z",
-  "page_views_total": 17655,
-  "download_count": 3439,
+  "page_views_total": 17811,
+  "download_count": 3488,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/xaxy-8nri",
   "api_endpoint": "https://www.datos.gov.co/resource/xaxy-8nri.json",
   "csv_download": "https://www.datos.gov.co/api/views/xaxy-8nri/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "longitud",
-    "name": "longitud",
+    "field": "latitud",
+    "name": "Latitud",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "codigo_municipio",
-    "name": "Codigo Municipio",
+    "field": "codigo_centro_poblado",
+    "name": "Código Centro Poblado",
     "type": "Text",
     "description": ""
    },
@@ -122,8 +122,8 @@
     "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
    },
    {
-    "field": "codigo_centro_poblado",
-    "name": "Código Centro Poblado",
+    "field": "longitud",
+    "name": "longitud",
     "type": "Text",
     "description": ""
    },
@@ -134,20 +134,20 @@
     "description": ""
    },
    {
-    "field": "codigo_departamento",
-    "name": "Código Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
     "field": "nombre_centro_poblado",
     "name": "Nombre Centro Poblado",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "latitud",
-    "name": "Latitud",
+    "field": "codigo_municipio",
+    "name": "Codigo Municipio",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "codigo_departamento",
+    "name": "Código Departamento",
     "type": "Text",
     "description": ""
    },
@@ -167,8 +167,8 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "departamento",
    "divipola",
+   "departamento",
    "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
@@ -180,8 +180,8 @@
   "created_at": "2020-06-12T13:11:24.000Z",
   "updated_at": "2026-05-18T16:40:42.000Z",
   "data_updated_at": "2025-01-23T21:56:46.000Z",
-  "page_views_total": 19694,
-  "download_count": 1623,
+  "page_views_total": 19905,
+  "download_count": 1671,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/vcjz-niiq",
   "api_endpoint": "https://www.datos.gov.co/resource/vcjz-niiq.json",
@@ -194,12 +194,6 @@
     "description": ""
    },
    {
-    "field": "codigo_departamento",
-    "name": "Código Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
     "field": "longitud",
     "name": "longitud",
     "type": "Text",
@@ -208,6 +202,12 @@
    {
     "field": "latitud",
     "name": "Latitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "codigo_departamento",
+    "name": "Código Departamento",
     "type": "Text",
     "description": ""
    }
