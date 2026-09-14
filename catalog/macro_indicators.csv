@@ -295,6 +295,7 @@ confianza_consumidor,2026-03,19.3,"balance, seasonally adjusted"
 confianza_consumidor,2026-04,13.7,"balance, seasonally adjusted"
 confianza_consumidor,2026-05,17.8,"balance, seasonally adjusted"
 confianza_consumidor,2026-06,24.3,"balance, seasonally adjusted"
+confianza_consumidor,2026-07,20.7,"balance, seasonally adjusted"
 confianza_empresarial,1980-01,9.04888226230816,"balance, seasonally adjusted"
 confianza_empresarial,1980-02,9.33424893239444,"balance, seasonally adjusted"
 confianza_empresarial,1980-03,6.93115246695894,"balance, seasonally adjusted"
@@ -1340,474 +1341,476 @@ construccion,2026-03,130.854943069369,"index (2015=100), seasonally adjusted"
 construccion,2026-04,83.5408174222914,"index (2015=100), seasonally adjusted"
 construccion,2026-05,76.16010374648799,"index (2015=100), seasonally adjusted"
 construccion,2026-06,60.49743297633629,"index (2015=100), seasonally adjusted"
-desempleo,2007-01,11.6849192220292,"% of labour force, seasonally adjusted"
-desempleo,2007-02,11.64216187555,"% of labour force, seasonally adjusted"
-desempleo,2007-03,11.8347021646169,"% of labour force, seasonally adjusted"
-desempleo,2007-04,10.850303727765,"% of labour force, seasonally adjusted"
-desempleo,2007-05,11.7116191543159,"% of labour force, seasonally adjusted"
-desempleo,2007-06,11.4329981671072,"% of labour force, seasonally adjusted"
-desempleo,2007-07,10.9262495387718,"% of labour force, seasonally adjusted"
-desempleo,2007-08,11.1573877773644,"% of labour force, seasonally adjusted"
-desempleo,2007-09,11.3783777579163,"% of labour force, seasonally adjusted"
-desempleo,2007-10,11.4093506594485,"% of labour force, seasonally adjusted"
-desempleo,2007-11,10.7005243023769,"% of labour force, seasonally adjusted"
-desempleo,2007-12,10.6790029003192,"% of labour force, seasonally adjusted"
-desempleo,2008-01,10.8639275789504,"% of labour force, seasonally adjusted"
-desempleo,2008-02,10.990813417654,"% of labour force, seasonally adjusted"
-desempleo,2008-03,11.1387556168596,"% of labour force, seasonally adjusted"
-desempleo,2008-04,11.088444720409,"% of labour force, seasonally adjusted"
-desempleo,2008-05,10.7940586595601,"% of labour force, seasonally adjusted"
-desempleo,2008-06,11.6444437529534,"% of labour force, seasonally adjusted"
-desempleo,2008-07,11.7343298571071,"% of labour force, seasonally adjusted"
-desempleo,2008-08,11.7042074301443,"% of labour force, seasonally adjusted"
-desempleo,2008-09,11.5384122499453,"% of labour force, seasonally adjusted"
-desempleo,2008-10,11.3542468227599,"% of labour force, seasonally adjusted"
-desempleo,2008-11,12.2458489051554,"% of labour force, seasonally adjusted"
-desempleo,2008-12,11.5543554545983,"% of labour force, seasonally adjusted"
-desempleo,2009-01,11.8323529201423,"% of labour force, seasonally adjusted"
-desempleo,2009-02,11.4855708632934,"% of labour force, seasonally adjusted"
-desempleo,2009-03,11.9438251220258,"% of labour force, seasonally adjusted"
-desempleo,2009-04,12.0752698106819,"% of labour force, seasonally adjusted"
-desempleo,2009-05,11.712688709009,"% of labour force, seasonally adjusted"
-desempleo,2009-06,11.8335278088971,"% of labour force, seasonally adjusted"
-desempleo,2009-07,12.3280747325808,"% of labour force, seasonally adjusted"
-desempleo,2009-08,12.2124039830873,"% of labour force, seasonally adjusted"
-desempleo,2009-09,12.9807143773994,"% of labour force, seasonally adjusted"
-desempleo,2009-10,13.0483919904672,"% of labour force, seasonally adjusted"
-desempleo,2009-11,12.773267260199,"% of labour force, seasonally adjusted"
-desempleo,2009-12,12.0982079248184,"% of labour force, seasonally adjusted"
-desempleo,2010-01,12.2118984399717,"% of labour force, seasonally adjusted"
-desempleo,2010-02,11.4137853639239,"% of labour force, seasonally adjusted"
-desempleo,2010-03,11.7321165519324,"% of labour force, seasonally adjusted"
-desempleo,2010-04,12.3821635884744,"% of labour force, seasonally adjusted"
-desempleo,2010-05,12.213622352208,"% of labour force, seasonally adjusted"
-desempleo,2010-06,12.2530314895284,"% of labour force, seasonally adjusted"
-desempleo,2010-07,12.3505750697187,"% of labour force, seasonally adjusted"
-desempleo,2010-08,11.6625411669362,"% of labour force, seasonally adjusted"
-desempleo,2010-09,11.379164944361,"% of labour force, seasonally adjusted"
-desempleo,2010-10,11.6282726252228,"% of labour force, seasonally adjusted"
-desempleo,2010-11,12.2906012187538,"% of labour force, seasonally adjusted"
-desempleo,2010-12,11.9541039841789,"% of labour force, seasonally adjusted"
-desempleo,2011-01,11.3777326790347,"% of labour force, seasonally adjusted"
-desempleo,2011-02,11.7342501961378,"% of labour force, seasonally adjusted"
-desempleo,2011-03,10.7117424343839,"% of labour force, seasonally adjusted"
-desempleo,2011-04,11.1821926793354,"% of labour force, seasonally adjusted"
-desempleo,2011-05,11.4700613957875,"% of labour force, seasonally adjusted"
-desempleo,2011-06,11.284953418083,"% of labour force, seasonally adjusted"
-desempleo,2011-07,11.2201500086828,"% of labour force, seasonally adjusted"
-desempleo,2011-08,10.6492269765687,"% of labour force, seasonally adjusted"
-desempleo,2011-09,10.3746275023957,"% of labour force, seasonally adjusted"
-desempleo,2011-10,10.390040655761,"% of labour force, seasonally adjusted"
-desempleo,2011-11,10.665378229059,"% of labour force, seasonally adjusted"
-desempleo,2011-12,10.668349345511,"% of labour force, seasonally adjusted"
-desempleo,2012-01,10.3977845753376,"% of labour force, seasonally adjusted"
-desempleo,2012-02,10.6906657055229,"% of labour force, seasonally adjusted"
-desempleo,2012-03,10.1951418379972,"% of labour force, seasonally adjusted"
-desempleo,2012-04,10.9127228261452,"% of labour force, seasonally adjusted"
-desempleo,2012-05,10.8609176365361,"% of labour force, seasonally adjusted"
-desempleo,2012-06,10.4367699043408,"% of labour force, seasonally adjusted"
-desempleo,2012-07,10.6355750675742,"% of labour force, seasonally adjusted"
-desempleo,2012-08,10.1523213267312,"% of labour force, seasonally adjusted"
-desempleo,2012-09,10.5281762704646,"% of labour force, seasonally adjusted"
-desempleo,2012-10,10.1321365803778,"% of labour force, seasonally adjusted"
-desempleo,2012-11,10.600076282386,"% of labour force, seasonally adjusted"
-desempleo,2012-12,10.464358704704,"% of labour force, seasonally adjusted"
-desempleo,2013-01,9.96397134939398,"% of labour force, seasonally adjusted"
-desempleo,2013-02,10.5710041006686,"% of labour force, seasonally adjusted"
-desempleo,2013-03,10.0149717534571,"% of labour force, seasonally adjusted"
-desempleo,2013-04,10.2619074163002,"% of labour force, seasonally adjusted"
-desempleo,2013-05,9.66120048213441,"% of labour force, seasonally adjusted"
-desempleo,2013-06,9.68395545470972,"% of labour force, seasonally adjusted"
-desempleo,2013-07,9.68609702825428,"% of labour force, seasonally adjusted"
-desempleo,2013-08,9.79743410088788,"% of labour force, seasonally adjusted"
-desempleo,2013-09,9.49641987924617,"% of labour force, seasonally adjusted"
-desempleo,2013-10,8.95873450615551,"% of labour force, seasonally adjusted"
-desempleo,2013-11,9.66829722367666,"% of labour force, seasonally adjusted"
-desempleo,2013-12,9.05991592404146,"% of labour force, seasonally adjusted"
-desempleo,2014-01,9.23630667259715,"% of labour force, seasonally adjusted"
-desempleo,2014-02,9.68381602845156,"% of labour force, seasonally adjusted"
-desempleo,2014-03,9.42581569692224,"% of labour force, seasonally adjusted"
-desempleo,2014-04,9.08734557523758,"% of labour force, seasonally adjusted"
-desempleo,2014-05,8.86065604263331,"% of labour force, seasonally adjusted"
-desempleo,2014-06,9.53806734845017,"% of labour force, seasonally adjusted"
-desempleo,2014-07,9.17499838497091,"% of labour force, seasonally adjusted"
-desempleo,2014-08,9.21757267529335,"% of labour force, seasonally adjusted"
-desempleo,2014-09,8.84791736234207,"% of labour force, seasonally adjusted"
-desempleo,2014-10,8.82891851572743,"% of labour force, seasonally adjusted"
-desempleo,2014-11,9.01136122022371,"% of labour force, seasonally adjusted"
-desempleo,2014-12,9.42645053596529,"% of labour force, seasonally adjusted"
-desempleo,2015-01,8.83127091810789,"% of labour force, seasonally adjusted"
-desempleo,2015-02,8.86285917527024,"% of labour force, seasonally adjusted"
-desempleo,2015-03,8.63897684326059,"% of labour force, seasonally adjusted"
-desempleo,2015-04,9.45952326151178,"% of labour force, seasonally adjusted"
-desempleo,2015-05,8.96085006673785,"% of labour force, seasonally adjusted"
-desempleo,2015-06,8.56647665723343,"% of labour force, seasonally adjusted"
-desempleo,2015-07,8.69027130413532,"% of labour force, seasonally adjusted"
-desempleo,2015-08,9.29239328310617,"% of labour force, seasonally adjusted"
-desempleo,2015-09,9.29138516751732,"% of labour force, seasonally adjusted"
-desempleo,2015-10,9.14932183974747,"% of labour force, seasonally adjusted"
-desempleo,2015-11,8.42200530178597,"% of labour force, seasonally adjusted"
-desempleo,2015-12,9.12741816824174,"% of labour force, seasonally adjusted"
-desempleo,2016-01,9.59790983488482,"% of labour force, seasonally adjusted"
-desempleo,2016-02,8.9556294666438,"% of labour force, seasonally adjusted"
-desempleo,2016-03,9.85845176730163,"% of labour force, seasonally adjusted"
-desempleo,2016-04,9.02385540702473,"% of labour force, seasonally adjusted"
-desempleo,2016-05,8.91378672782662,"% of labour force, seasonally adjusted"
-desempleo,2016-06,9.24044508866369,"% of labour force, seasonally adjusted"
-desempleo,2016-07,9.60083291334656,"% of labour force, seasonally adjusted"
-desempleo,2016-08,9.18004006202238,"% of labour force, seasonally adjusted"
-desempleo,2016-09,9.0097830488063,"% of labour force, seasonally adjusted"
-desempleo,2016-10,9.2495361542262,"% of labour force, seasonally adjusted"
-desempleo,2016-11,8.63168441621628,"% of labour force, seasonally adjusted"
-desempleo,2016-12,9.36530873849338,"% of labour force, seasonally adjusted"
-desempleo,2017-01,9.35545750366923,"% of labour force, seasonally adjusted"
-desempleo,2017-02,9.33797925083236,"% of labour force, seasonally adjusted"
-desempleo,2017-03,9.25909263496348,"% of labour force, seasonally adjusted"
-desempleo,2017-04,8.78599120251688,"% of labour force, seasonally adjusted"
-desempleo,2017-05,9.42000749426951,"% of labour force, seasonally adjusted"
-desempleo,2017-06,8.95247052226432,"% of labour force, seasonally adjusted"
-desempleo,2017-07,9.29760435768683,"% of labour force, seasonally adjusted"
-desempleo,2017-08,9.37084701403518,"% of labour force, seasonally adjusted"
-desempleo,2017-09,9.64149580003734,"% of labour force, seasonally adjusted"
-desempleo,2017-10,9.29043911197154,"% of labour force, seasonally adjusted"
-desempleo,2017-11,9.61768538926944,"% of labour force, seasonally adjusted"
-desempleo,2017-12,9.12243655072971,"% of labour force, seasonally adjusted"
-desempleo,2018-01,9.44182913535048,"% of labour force, seasonally adjusted"
-desempleo,2018-02,9.56576852273223,"% of labour force, seasonally adjusted"
-desempleo,2018-03,9.06359554508239,"% of labour force, seasonally adjusted"
-desempleo,2018-04,9.30116063668297,"% of labour force, seasonally adjusted"
-desempleo,2018-05,9.4885965654999,"% of labour force, seasonally adjusted"
-desempleo,2018-06,9.21347634266269,"% of labour force, seasonally adjusted"
-desempleo,2018-07,9.36157435621523,"% of labour force, seasonally adjusted"
-desempleo,2018-08,9.23567967473262,"% of labour force, seasonally adjusted"
-desempleo,2018-09,9.68969773278365,"% of labour force, seasonally adjusted"
-desempleo,2018-10,9.85961171759275,"% of labour force, seasonally adjusted"
-desempleo,2018-11,9.84787318329906,"% of labour force, seasonally adjusted"
-desempleo,2018-12,10.1844068129534,"% of labour force, seasonally adjusted"
-desempleo,2019-01,10.1794770891537,"% of labour force, seasonally adjusted"
-desempleo,2019-02,10.3767721743017,"% of labour force, seasonally adjusted"
-desempleo,2019-03,10.3610203500255,"% of labour force, seasonally adjusted"
-desempleo,2019-04,10.1596563165164,"% of labour force, seasonally adjusted"
-desempleo,2019-05,10.3832061082619,"% of labour force, seasonally adjusted"
-desempleo,2019-06,9.55426148079978,"% of labour force, seasonally adjusted"
-desempleo,2019-07,10.5208195350571,"% of labour force, seasonally adjusted"
-desempleo,2019-08,10.9166719715234,"% of labour force, seasonally adjusted"
-desempleo,2019-09,10.8097035861383,"% of labour force, seasonally adjusted"
-desempleo,2019-10,10.5937679295436,"% of labour force, seasonally adjusted"
-desempleo,2019-11,10.4486220505914,"% of labour force, seasonally adjusted"
-desempleo,2019-12,10.0645364678008,"% of labour force, seasonally adjusted"
-desempleo,2020-01,10.3680186000603,"% of labour force, seasonally adjusted"
-desempleo,2020-02,10.8840149446101,"% of labour force, seasonally adjusted"
-desempleo,2020-03,12.0624171225375,"% of labour force, seasonally adjusted"
-desempleo,2020-04,19.3887819446221,"% of labour force, seasonally adjusted"
-desempleo,2020-05,20.6756334023115,"% of labour force, seasonally adjusted"
-desempleo,2020-06,19.7962586888833,"% of labour force, seasonally adjusted"
-desempleo,2020-07,19.4583442033784,"% of labour force, seasonally adjusted"
-desempleo,2020-08,16.8172666689323,"% of labour force, seasonally adjusted"
-desempleo,2020-09,16.1059034964558,"% of labour force, seasonally adjusted"
-desempleo,2020-10,15.7621607800157,"% of labour force, seasonally adjusted"
-desempleo,2020-11,14.9795879700644,"% of labour force, seasonally adjusted"
-desempleo,2020-12,14.0094836686097,"% of labour force, seasonally adjusted"
-desempleo,2021-01,14.3779204777843,"% of labour force, seasonally adjusted"
-desempleo,2021-02,14.1270910818542,"% of labour force, seasonally adjusted"
-desempleo,2021-03,14.3055697104025,"% of labour force, seasonally adjusted"
-desempleo,2021-04,15.4403261634065,"% of labour force, seasonally adjusted"
-desempleo,2021-05,15.1367298465682,"% of labour force, seasonally adjusted"
-desempleo,2021-06,15.1048460770007,"% of labour force, seasonally adjusted"
-desempleo,2021-07,12.9281499862254,"% of labour force, seasonally adjusted"
-desempleo,2021-08,13.2281863310696,"% of labour force, seasonally adjusted"
-desempleo,2021-09,12.6126687011903,"% of labour force, seasonally adjusted"
-desempleo,2021-10,13.1829899842728,"% of labour force, seasonally adjusted"
-desempleo,2021-11,13.2659804597485,"% of labour force, seasonally adjusted"
-desempleo,2021-12,11.9041642906065,"% of labour force, seasonally adjusted"
-desempleo,2022-01,11.979391517069,"% of labour force, seasonally adjusted"
-desempleo,2022-02,11.7148020808674,"% of labour force, seasonally adjusted"
-desempleo,2022-03,11.79088373913,"% of labour force, seasonally adjusted"
-desempleo,2022-04,11.1350499346165,"% of labour force, seasonally adjusted"
-desempleo,2022-05,10.6217244099611,"% of labour force, seasonally adjusted"
-desempleo,2022-06,11.6016700267248,"% of labour force, seasonally adjusted"
-desempleo,2022-07,10.8952177795848,"% of labour force, seasonally adjusted"
-desempleo,2022-08,10.9380617400329,"% of labour force, seasonally adjusted"
-desempleo,2022-09,11.3275272771673,"% of labour force, seasonally adjusted"
-desempleo,2022-10,10.6341766405672,"% of labour force, seasonally adjusted"
-desempleo,2022-11,10.9239789823804,"% of labour force, seasonally adjusted"
-desempleo,2022-12,10.9667870180842,"% of labour force, seasonally adjusted"
-desempleo,2023-01,11.1406857639939,"% of labour force, seasonally adjusted"
-desempleo,2023-02,10.2547423469822,"% of labour force, seasonally adjusted"
-desempleo,2023-03,9.73340992073685,"% of labour force, seasonally adjusted"
-desempleo,2023-04,10.6682363250959,"% of labour force, seasonally adjusted"
-desempleo,2023-05,10.4495277278808,"% of labour force, seasonally adjusted"
-desempleo,2023-06,9.62904278261737,"% of labour force, seasonally adjusted"
-desempleo,2023-07,9.52112698640943,"% of labour force, seasonally adjusted"
-desempleo,2023-08,9.57233263296998,"% of labour force, seasonally adjusted"
-desempleo,2023-09,9.77664892491209,"% of labour force, seasonally adjusted"
-desempleo,2023-10,10.0902597750506,"% of labour force, seasonally adjusted"
-desempleo,2023-11,10.3869015439856,"% of labour force, seasonally adjusted"
-desempleo,2023-12,10.6892581943221,"% of labour force, seasonally adjusted"
-desempleo,2024-01,10.2689496723619,"% of labour force, seasonally adjusted"
-desempleo,2024-02,10.5600058101924,"% of labour force, seasonally adjusted"
-desempleo,2024-03,10.9480094012534,"% of labour force, seasonally adjusted"
-desempleo,2024-04,10.5792960627212,"% of labour force, seasonally adjusted"
-desempleo,2024-05,10.2729900656761,"% of labour force, seasonally adjusted"
-desempleo,2024-06,10.5831346678084,"% of labour force, seasonally adjusted"
-desempleo,2024-07,9.88542308276054,"% of labour force, seasonally adjusted"
-desempleo,2024-08,9.9706016697223,"% of labour force, seasonally adjusted"
-desempleo,2024-09,9.67637326630525,"% of labour force, seasonally adjusted"
-desempleo,2024-10,9.97591505641039,"% of labour force, seasonally adjusted"
-desempleo,2024-11,9.45655754171596,"% of labour force, seasonally adjusted"
-desempleo,2024-12,9.73559079559126,"% of labour force, seasonally adjusted"
-desempleo,2025-01,9.42713010541036,"% of labour force, seasonally adjusted"
-desempleo,2025-02,9.34340398582588,"% of labour force, seasonally adjusted"
-desempleo,2025-03,9.33112981709762,"% of labour force, seasonally adjusted"
-desempleo,2025-04,8.73391238436955,"% of labour force, seasonally adjusted"
-desempleo,2025-05,9.03520867752299,"% of labour force, seasonally adjusted"
-desempleo,2025-06,8.83431082214299,"% of labour force, seasonally adjusted"
-desempleo,2025-07,8.82677754030043,"% of labour force, seasonally adjusted"
-desempleo,2025-08,8.88614928998463,"% of labour force, seasonally adjusted"
-desempleo,2025-09,8.65828512813319,"% of labour force, seasonally adjusted"
-desempleo,2025-10,8.96271910584944,"% of labour force, seasonally adjusted"
-desempleo,2025-11,8.16120006346051,"% of labour force, seasonally adjusted"
-desempleo,2025-12,8.52839992978068,"% of labour force, seasonally adjusted"
-desempleo,2026-01,8.78876891419317,"% of labour force, seasonally adjusted"
-desempleo,2026-02,8.35779301603211,"% of labour force, seasonally adjusted"
-desempleo,2026-03,8.53372666694562,"% of labour force, seasonally adjusted"
-desempleo,2026-04,8.73160735378499,"% of labour force, seasonally adjusted"
-desempleo,2026-05,8.02184334613393,"% of labour force, seasonally adjusted"
-desempleo,2026-06,8.29605526738738,"% of labour force, seasonally adjusted"
-empleo,2007-01,16235.1311110241,"thousands of persons, seasonally adjusted"
-empleo,2007-02,16513.8184661915,"thousands of persons, seasonally adjusted"
-empleo,2007-03,16255.262643417002,"thousands of persons, seasonally adjusted"
-empleo,2007-04,16726.2426680497,"thousands of persons, seasonally adjusted"
-empleo,2007-05,16413.3086192745,"thousands of persons, seasonally adjusted"
-empleo,2007-06,16621.2340932759,"thousands of persons, seasonally adjusted"
-empleo,2007-07,16683.0342442656,"thousands of persons, seasonally adjusted"
-empleo,2007-08,16686.2658534519,"thousands of persons, seasonally adjusted"
-empleo,2007-09,16774.938604887902,"thousands of persons, seasonally adjusted"
-empleo,2007-10,17032.384485575098,"thousands of persons, seasonally adjusted"
-empleo,2007-11,17124.3068867329,"thousands of persons, seasonally adjusted"
-empleo,2007-12,16791.826823854,"thousands of persons, seasonally adjusted"
-empleo,2008-01,16927.9618803907,"thousands of persons, seasonally adjusted"
-empleo,2008-02,17096.5419404786,"thousands of persons, seasonally adjusted"
-empleo,2008-03,17223.464734367502,"thousands of persons, seasonally adjusted"
-empleo,2008-04,17177.6523902595,"thousands of persons, seasonally adjusted"
-empleo,2008-05,17151.626957944198,"thousands of persons, seasonally adjusted"
-empleo,2008-06,16631.5985410849,"thousands of persons, seasonally adjusted"
-empleo,2008-07,17024.2752506844,"thousands of persons, seasonally adjusted"
-empleo,2008-08,17002.244089949203,"thousands of persons, seasonally adjusted"
-empleo,2008-09,17115.5540783061,"thousands of persons, seasonally adjusted"
-empleo,2008-10,16667.0291608981,"thousands of persons, seasonally adjusted"
-empleo,2008-11,16559.6484684132,"thousands of persons, seasonally adjusted"
-empleo,2008-12,17154.807007223597,"thousands of persons, seasonally adjusted"
-empleo,2009-01,17238.0194021353,"thousands of persons, seasonally adjusted"
-empleo,2009-02,17492.9057878815,"thousands of persons, seasonally adjusted"
-empleo,2009-03,17713.3671783153,"thousands of persons, seasonally adjusted"
-empleo,2009-04,17838.252759762,"thousands of persons, seasonally adjusted"
-empleo,2009-05,17996.596028985798,"thousands of persons, seasonally adjusted"
-empleo,2009-06,18023.40834886,"thousands of persons, seasonally adjusted"
-empleo,2009-07,18054.4652594271,"thousands of persons, seasonally adjusted"
-empleo,2009-08,17782.8392846817,"thousands of persons, seasonally adjusted"
-empleo,2009-09,17746.091478935497,"thousands of persons, seasonally adjusted"
-empleo,2009-10,18122.4986283542,"thousands of persons, seasonally adjusted"
-empleo,2009-11,18276.553638177702,"thousands of persons, seasonally adjusted"
-empleo,2009-12,18384.0882044838,"thousands of persons, seasonally adjusted"
-empleo,2010-01,18333.0430871188,"thousands of persons, seasonally adjusted"
-empleo,2010-02,18519.810396745903,"thousands of persons, seasonally adjusted"
-empleo,2010-03,18294.170742523802,"thousands of persons, seasonally adjusted"
-empleo,2010-04,18491.0607540755,"thousands of persons, seasonally adjusted"
-empleo,2010-05,18330.1249412338,"thousands of persons, seasonally adjusted"
-empleo,2010-06,18572.2581642822,"thousands of persons, seasonally adjusted"
-empleo,2010-07,18547.4452269217,"thousands of persons, seasonally adjusted"
-empleo,2010-08,18735.4760059375,"thousands of persons, seasonally adjusted"
-empleo,2010-09,19042.268138076903,"thousands of persons, seasonally adjusted"
-empleo,2010-10,18744.2910793931,"thousands of persons, seasonally adjusted"
-empleo,2010-11,18878.7247387877,"thousands of persons, seasonally adjusted"
-empleo,2010-12,18842.4322249031,"thousands of persons, seasonally adjusted"
-empleo,2011-01,19097.1148058881,"thousands of persons, seasonally adjusted"
-empleo,2011-02,18810.410969269302,"thousands of persons, seasonally adjusted"
-empleo,2011-03,19177.3727598875,"thousands of persons, seasonally adjusted"
-empleo,2011-04,18945.4342222762,"thousands of persons, seasonally adjusted"
-empleo,2011-05,19146.0570783188,"thousands of persons, seasonally adjusted"
-empleo,2011-06,19137.1638219395,"thousands of persons, seasonally adjusted"
-empleo,2011-07,19308.962733992,"thousands of persons, seasonally adjusted"
-empleo,2011-08,19260.2007031563,"thousands of persons, seasonally adjusted"
-empleo,2011-09,19675.8414609213,"thousands of persons, seasonally adjusted"
-empleo,2011-10,19955.554553855098,"thousands of persons, seasonally adjusted"
-empleo,2011-11,19916.8571978263,"thousands of persons, seasonally adjusted"
-empleo,2011-12,19774.4311926697,"thousands of persons, seasonally adjusted"
-empleo,2012-01,19942.547807393403,"thousands of persons, seasonally adjusted"
-empleo,2012-02,19939.760202998703,"thousands of persons, seasonally adjusted"
-empleo,2012-03,20127.7226564574,"thousands of persons, seasonally adjusted"
-empleo,2012-04,19830.7506309746,"thousands of persons, seasonally adjusted"
-empleo,2012-05,19994.6391507706,"thousands of persons, seasonally adjusted"
-empleo,2012-06,20271.6303135508,"thousands of persons, seasonally adjusted"
-empleo,2012-07,19945.3382028542,"thousands of persons, seasonally adjusted"
-empleo,2012-08,20183.785410417,"thousands of persons, seasonally adjusted"
-empleo,2012-09,19878.4416545016,"thousands of persons, seasonally adjusted"
-empleo,2012-10,19980.0745862378,"thousands of persons, seasonally adjusted"
-empleo,2012-11,19933.7508712368,"thousands of persons, seasonally adjusted"
-empleo,2012-12,20173.5200126068,"thousands of persons, seasonally adjusted"
-empleo,2013-01,20295.639293281303,"thousands of persons, seasonally adjusted"
-empleo,2013-02,20034.0625614365,"thousands of persons, seasonally adjusted"
-empleo,2013-03,20001.3432548983,"thousands of persons, seasonally adjusted"
-empleo,2013-04,20017.7805686311,"thousands of persons, seasonally adjusted"
-empleo,2013-05,20517.9667437128,"thousands of persons, seasonally adjusted"
-empleo,2013-06,20257.662241910202,"thousands of persons, seasonally adjusted"
-empleo,2013-07,20547.1248178324,"thousands of persons, seasonally adjusted"
-empleo,2013-08,20537.8228663602,"thousands of persons, seasonally adjusted"
-empleo,2013-09,20485.870855666002,"thousands of persons, seasonally adjusted"
-empleo,2013-10,20650.6249482506,"thousands of persons, seasonally adjusted"
-empleo,2013-11,20416.5305516528,"thousands of persons, seasonally adjusted"
-empleo,2013-12,20684.6302963676,"thousands of persons, seasonally adjusted"
-empleo,2014-01,20701.0989501355,"thousands of persons, seasonally adjusted"
-empleo,2014-02,20453.9998926718,"thousands of persons, seasonally adjusted"
-empleo,2014-03,20518.542157158503,"thousands of persons, seasonally adjusted"
-empleo,2014-04,20683.8560534252,"thousands of persons, seasonally adjusted"
-empleo,2014-05,20784.6900529253,"thousands of persons, seasonally adjusted"
-empleo,2014-06,20736.911551687597,"thousands of persons, seasonally adjusted"
-empleo,2014-07,20736.038778875998,"thousands of persons, seasonally adjusted"
-empleo,2014-08,20969.7256562312,"thousands of persons, seasonally adjusted"
-empleo,2014-09,21047.5768841612,"thousands of persons, seasonally adjusted"
-empleo,2014-10,21140.770967973298,"thousands of persons, seasonally adjusted"
-empleo,2014-11,21086.8700047019,"thousands of persons, seasonally adjusted"
-empleo,2014-12,20817.0665500523,"thousands of persons, seasonally adjusted"
-empleo,2015-01,21091.817630372498,"thousands of persons, seasonally adjusted"
-empleo,2015-02,21077.1326839642,"thousands of persons, seasonally adjusted"
-empleo,2015-03,21194.8523325767,"thousands of persons, seasonally adjusted"
-empleo,2015-04,21193.1495906366,"thousands of persons, seasonally adjusted"
-empleo,2015-05,21271.819811306203,"thousands of persons, seasonally adjusted"
-empleo,2015-06,21275.590412057103,"thousands of persons, seasonally adjusted"
-empleo,2015-07,21346.8813511757,"thousands of persons, seasonally adjusted"
-empleo,2015-08,21315.5667253399,"thousands of persons, seasonally adjusted"
-empleo,2015-09,21325.7790975079,"thousands of persons, seasonally adjusted"
-empleo,2015-10,21500.134461208898,"thousands of persons, seasonally adjusted"
-empleo,2015-11,21681.3676687941,"thousands of persons, seasonally adjusted"
-empleo,2015-12,21468.9532350603,"thousands of persons, seasonally adjusted"
-empleo,2016-01,21478.4868550365,"thousands of persons, seasonally adjusted"
-empleo,2016-02,21488.0069906702,"thousands of persons, seasonally adjusted"
-empleo,2016-03,21108.3082968011,"thousands of persons, seasonally adjusted"
-empleo,2016-04,21564.269264810802,"thousands of persons, seasonally adjusted"
-empleo,2016-05,21366.6974851711,"thousands of persons, seasonally adjusted"
-empleo,2016-06,21547.2637171534,"thousands of persons, seasonally adjusted"
-empleo,2016-07,21293.546971277,"thousands of persons, seasonally adjusted"
-empleo,2016-08,21554.905578526003,"thousands of persons, seasonally adjusted"
-empleo,2016-09,21533.1349664112,"thousands of persons, seasonally adjusted"
-empleo,2016-10,21660.7219556798,"thousands of persons, seasonally adjusted"
-empleo,2016-11,21825.074631746298,"thousands of persons, seasonally adjusted"
-empleo,2016-12,21641.3762867165,"thousands of persons, seasonally adjusted"
-empleo,2017-01,21703.3252414331,"thousands of persons, seasonally adjusted"
-empleo,2017-02,21659.789287552598,"thousands of persons, seasonally adjusted"
-empleo,2017-03,21592.349182674698,"thousands of persons, seasonally adjusted"
-empleo,2017-04,21944.349791613502,"thousands of persons, seasonally adjusted"
-empleo,2017-05,21732.673006161203,"thousands of persons, seasonally adjusted"
-empleo,2017-06,22130.636139760798,"thousands of persons, seasonally adjusted"
-empleo,2017-07,21810.143070389502,"thousands of persons, seasonally adjusted"
-empleo,2017-08,21897.6121372774,"thousands of persons, seasonally adjusted"
-empleo,2017-09,21749.4663443631,"thousands of persons, seasonally adjusted"
-empleo,2017-10,21861.3260489463,"thousands of persons, seasonally adjusted"
-empleo,2017-11,21884.135182321803,"thousands of persons, seasonally adjusted"
-empleo,2017-12,21961.883567506,"thousands of persons, seasonally adjusted"
-empleo,2018-01,21880.939158475998,"thousands of persons, seasonally adjusted"
-empleo,2018-02,21700.940153137697,"thousands of persons, seasonally adjusted"
-empleo,2018-03,21925.7481192936,"thousands of persons, seasonally adjusted"
-empleo,2018-04,22142.4268167037,"thousands of persons, seasonally adjusted"
-empleo,2018-05,22091.3819245999,"thousands of persons, seasonally adjusted"
-empleo,2018-06,22229.8425773846,"thousands of persons, seasonally adjusted"
-empleo,2018-07,22177.2217769779,"thousands of persons, seasonally adjusted"
-empleo,2018-08,22331.0981662006,"thousands of persons, seasonally adjusted"
-empleo,2018-09,22295.581322326103,"thousands of persons, seasonally adjusted"
-empleo,2018-10,22062.619888801,"thousands of persons, seasonally adjusted"
-empleo,2018-11,21850.746613709598,"thousands of persons, seasonally adjusted"
-empleo,2018-12,22430.354482389303,"thousands of persons, seasonally adjusted"
-empleo,2019-01,22157.5303256397,"thousands of persons, seasonally adjusted"
-empleo,2019-02,22199.6085817807,"thousands of persons, seasonally adjusted"
-empleo,2019-03,22185.7499192996,"thousands of persons, seasonally adjusted"
-empleo,2019-04,21884.7239409109,"thousands of persons, seasonally adjusted"
-empleo,2019-05,22147.0321073501,"thousands of persons, seasonally adjusted"
-empleo,2019-06,22534.6762778127,"thousands of persons, seasonally adjusted"
-empleo,2019-07,22169.2786686289,"thousands of persons, seasonally adjusted"
-empleo,2019-08,22019.4575991182,"thousands of persons, seasonally adjusted"
-empleo,2019-09,22174.690079367803,"thousands of persons, seasonally adjusted"
-empleo,2019-10,22347.3668625659,"thousands of persons, seasonally adjusted"
-empleo,2019-11,22537.282858935698,"thousands of persons, seasonally adjusted"
-empleo,2019-12,22492.5717785898,"thousands of persons, seasonally adjusted"
-empleo,2020-01,22362.682925694702,"thousands of persons, seasonally adjusted"
-empleo,2020-02,22248.396809344198,"thousands of persons, seasonally adjusted"
-empleo,2020-03,20767.527691462597,"thousands of persons, seasonally adjusted"
-empleo,2020-04,16747.4867767796,"thousands of persons, seasonally adjusted"
-empleo,2020-05,17559.2354374501,"thousands of persons, seasonally adjusted"
-empleo,2020-06,18541.2350076997,"thousands of persons, seasonally adjusted"
-empleo,2020-07,18373.9528708863,"thousands of persons, seasonally adjusted"
-empleo,2020-08,19817.4562741349,"thousands of persons, seasonally adjusted"
-empleo,2020-09,20313.798535416397,"thousands of persons, seasonally adjusted"
-empleo,2020-10,20937.967049631498,"thousands of persons, seasonally adjusted"
-empleo,2020-11,21049.2950841906,"thousands of persons, seasonally adjusted"
-empleo,2020-12,21283.7705373095,"thousands of persons, seasonally adjusted"
-empleo,2021-01,19793.465928353202,"thousands of persons, seasonally adjusted"
-empleo,2021-02,20339.3170564044,"thousands of persons, seasonally adjusted"
-empleo,2021-03,20191.4069513421,"thousands of persons, seasonally adjusted"
-empleo,2021-04,19750.4341221132,"thousands of persons, seasonally adjusted"
-empleo,2021-05,20036.4956719179,"thousands of persons, seasonally adjusted"
-empleo,2021-06,20040.0525405403,"thousands of persons, seasonally adjusted"
-empleo,2021-07,20498.6401860613,"thousands of persons, seasonally adjusted"
-empleo,2021-08,20575.440995618297,"thousands of persons, seasonally adjusted"
-empleo,2021-09,20646.2686121874,"thousands of persons, seasonally adjusted"
-empleo,2021-10,20655.866576217,"thousands of persons, seasonally adjusted"
-empleo,2021-11,20923.8535339263,"thousands of persons, seasonally adjusted"
-empleo,2021-12,21249.656825318703,"thousands of persons, seasonally adjusted"
-empleo,2022-01,21409.7012760365,"thousands of persons, seasonally adjusted"
-empleo,2022-02,21840.3465023412,"thousands of persons, seasonally adjusted"
-empleo,2022-03,21762.793432952003,"thousands of persons, seasonally adjusted"
-empleo,2022-04,21959.6104145485,"thousands of persons, seasonally adjusted"
-empleo,2022-05,22220.0927837141,"thousands of persons, seasonally adjusted"
-empleo,2022-06,21995.743916128198,"thousands of persons, seasonally adjusted"
-empleo,2022-07,22095.5656159819,"thousands of persons, seasonally adjusted"
-empleo,2022-08,22128.062555026798,"thousands of persons, seasonally adjusted"
-empleo,2022-09,22344.621854447498,"thousands of persons, seasonally adjusted"
-empleo,2022-10,22225.9806814154,"thousands of persons, seasonally adjusted"
-empleo,2022-11,22155.9436784137,"thousands of persons, seasonally adjusted"
-empleo,2022-12,22247.6972889942,"thousands of persons, seasonally adjusted"
-empleo,2023-01,22244.0866042974,"thousands of persons, seasonally adjusted"
-empleo,2023-02,22408.4529626654,"thousands of persons, seasonally adjusted"
-empleo,2023-03,22870.3536614212,"thousands of persons, seasonally adjusted"
-empleo,2023-04,22758.872429379702,"thousands of persons, seasonally adjusted"
-empleo,2023-05,22603.505459248598,"thousands of persons, seasonally adjusted"
-empleo,2023-06,23026.4909976468,"thousands of persons, seasonally adjusted"
-empleo,2023-07,23181.695530409997,"thousands of persons, seasonally adjusted"
-empleo,2023-08,23099.6041255479,"thousands of persons, seasonally adjusted"
-empleo,2023-09,23051.6038696711,"thousands of persons, seasonally adjusted"
-empleo,2023-10,22724.9891624778,"thousands of persons, seasonally adjusted"
-empleo,2023-11,22843.851535107402,"thousands of persons, seasonally adjusted"
-empleo,2023-12,22647.2176621269,"thousands of persons, seasonally adjusted"
-empleo,2024-01,22794.2409650645,"thousands of persons, seasonally adjusted"
-empleo,2024-02,22671.1422121081,"thousands of persons, seasonally adjusted"
-empleo,2024-03,22709.1297370833,"thousands of persons, seasonally adjusted"
-empleo,2024-04,22893.1019339335,"thousands of persons, seasonally adjusted"
-empleo,2024-05,23072.361838116198,"thousands of persons, seasonally adjusted"
-empleo,2024-06,22899.9098942402,"thousands of persons, seasonally adjusted"
-empleo,2024-07,23180.7328160359,"thousands of persons, seasonally adjusted"
-empleo,2024-08,23352.7393857151,"thousands of persons, seasonally adjusted"
-empleo,2024-09,23159.4437016458,"thousands of persons, seasonally adjusted"
-empleo,2024-10,23053.9787743628,"thousands of persons, seasonally adjusted"
-empleo,2024-11,23248.118771520498,"thousands of persons, seasonally adjusted"
-empleo,2024-12,23397.6139701741,"thousands of persons, seasonally adjusted"
-empleo,2025-01,23676.041902237503,"thousands of persons, seasonally adjusted"
-empleo,2025-02,23635.1363768492,"thousands of persons, seasonally adjusted"
-empleo,2025-03,23752.2871866558,"thousands of persons, seasonally adjusted"
-empleo,2025-04,23612.8008887965,"thousands of persons, seasonally adjusted"
-empleo,2025-05,23677.258740112,"thousands of persons, seasonally adjusted"
-empleo,2025-06,23727.7680891462,"thousands of persons, seasonally adjusted"
-empleo,2025-07,23936.810250610797,"thousands of persons, seasonally adjusted"
-empleo,2025-08,23760.105780217,"thousands of persons, seasonally adjusted"
-empleo,2025-09,23872.6470589778,"thousands of persons, seasonally adjusted"
-empleo,2025-10,24039.2402891629,"thousands of persons, seasonally adjusted"
-empleo,2025-11,24235.3716733433,"thousands of persons, seasonally adjusted"
-empleo,2025-12,24003.7377638908,"thousands of persons, seasonally adjusted"
-empleo,2026-01,24007.4884523734,"thousands of persons, seasonally adjusted"
-empleo,2026-02,24257.5916679316,"thousands of persons, seasonally adjusted"
-empleo,2026-03,24399.1335829698,"thousands of persons, seasonally adjusted"
-empleo,2026-04,24316.8017491654,"thousands of persons, seasonally adjusted"
-empleo,2026-05,24634.6709785942,"thousands of persons, seasonally adjusted"
-empleo,2026-06,24425.938607513403,"thousands of persons, seasonally adjusted"
+desempleo,2007-01,11.688622990839,"% of labour force, seasonally adjusted"
+desempleo,2007-02,11.6421155885592,"% of labour force, seasonally adjusted"
+desempleo,2007-03,11.8340216369818,"% of labour force, seasonally adjusted"
+desempleo,2007-04,10.8569189083407,"% of labour force, seasonally adjusted"
+desempleo,2007-05,11.7125299985882,"% of labour force, seasonally adjusted"
+desempleo,2007-06,11.4327837883479,"% of labour force, seasonally adjusted"
+desempleo,2007-07,10.9246264454384,"% of labour force, seasonally adjusted"
+desempleo,2007-08,11.1535609257641,"% of labour force, seasonally adjusted"
+desempleo,2007-09,11.3757296556358,"% of labour force, seasonally adjusted"
+desempleo,2007-10,11.4101562975364,"% of labour force, seasonally adjusted"
+desempleo,2007-11,10.696485941959,"% of labour force, seasonally adjusted"
+desempleo,2007-12,10.6801167572209,"% of labour force, seasonally adjusted"
+desempleo,2008-01,10.867505871503,"% of labour force, seasonally adjusted"
+desempleo,2008-02,10.990625131694,"% of labour force, seasonally adjusted"
+desempleo,2008-03,11.138881430407,"% of labour force, seasonally adjusted"
+desempleo,2008-04,11.0936916512398,"% of labour force, seasonally adjusted"
+desempleo,2008-05,10.7943159160566,"% of labour force, seasonally adjusted"
+desempleo,2008-06,11.6438336326269,"% of labour force, seasonally adjusted"
+desempleo,2008-07,11.7317020487527,"% of labour force, seasonally adjusted"
+desempleo,2008-08,11.7012615311932,"% of labour force, seasonally adjusted"
+desempleo,2008-09,11.5364278946129,"% of labour force, seasonally adjusted"
+desempleo,2008-10,11.3565430594345,"% of labour force, seasonally adjusted"
+desempleo,2008-11,12.2413439170235,"% of labour force, seasonally adjusted"
+desempleo,2008-12,11.5553591424835,"% of labour force, seasonally adjusted"
+desempleo,2009-01,11.8364239278025,"% of labour force, seasonally adjusted"
+desempleo,2009-02,11.4859360901889,"% of labour force, seasonally adjusted"
+desempleo,2009-03,11.9454492758906,"% of labour force, seasonally adjusted"
+desempleo,2009-04,12.0788206417054,"% of labour force, seasonally adjusted"
+desempleo,2009-05,11.7128444831039,"% of labour force, seasonally adjusted"
+desempleo,2009-06,11.8324800188537,"% of labour force, seasonally adjusted"
+desempleo,2009-07,12.3254545212681,"% of labour force, seasonally adjusted"
+desempleo,2009-08,12.2104563434706,"% of labour force, seasonally adjusted"
+desempleo,2009-09,12.9792112913615,"% of labour force, seasonally adjusted"
+desempleo,2009-10,13.0515174862412,"% of labour force, seasonally adjusted"
+desempleo,2009-11,12.7669458769589,"% of labour force, seasonally adjusted"
+desempleo,2009-12,12.0991683528985,"% of labour force, seasonally adjusted"
+desempleo,2010-01,12.215838063803,"% of labour force, seasonally adjusted"
+desempleo,2010-02,11.4141199990765,"% of labour force, seasonally adjusted"
+desempleo,2010-03,11.7350310700382,"% of labour force, seasonally adjusted"
+desempleo,2010-04,12.3839839796054,"% of labour force, seasonally adjusted"
+desempleo,2010-05,12.2135891174531,"% of labour force, seasonally adjusted"
+desempleo,2010-06,12.2514421103431,"% of labour force, seasonally adjusted"
+desempleo,2010-07,12.3488311808236,"% of labour force, seasonally adjusted"
+desempleo,2010-08,11.6611344961605,"% of labour force, seasonally adjusted"
+desempleo,2010-09,11.3781100044754,"% of labour force, seasonally adjusted"
+desempleo,2010-10,11.6314048044666,"% of labour force, seasonally adjusted"
+desempleo,2010-11,12.2834729286618,"% of labour force, seasonally adjusted"
+desempleo,2010-12,11.955217331134,"% of labour force, seasonally adjusted"
+desempleo,2011-01,11.3815202209851,"% of labour force, seasonally adjusted"
+desempleo,2011-02,11.7340285236441,"% of labour force, seasonally adjusted"
+desempleo,2011-03,10.7143400145303,"% of labour force, seasonally adjusted"
+desempleo,2011-04,11.1824805717797,"% of labour force, seasonally adjusted"
+desempleo,2011-05,11.4692784585457,"% of labour force, seasonally adjusted"
+desempleo,2011-06,11.2826505289369,"% of labour force, seasonally adjusted"
+desempleo,2011-07,11.2197358211327,"% of labour force, seasonally adjusted"
+desempleo,2011-08,10.6480434961352,"% of labour force, seasonally adjusted"
+desempleo,2011-09,10.3741869199085,"% of labour force, seasonally adjusted"
+desempleo,2011-10,10.3932438611109,"% of labour force, seasonally adjusted"
+desempleo,2011-11,10.6599218874391,"% of labour force, seasonally adjusted"
+desempleo,2011-12,10.6694554239634,"% of labour force, seasonally adjusted"
+desempleo,2012-01,10.4014457370149,"% of labour force, seasonally adjusted"
+desempleo,2012-02,10.6900093864351,"% of labour force, seasonally adjusted"
+desempleo,2012-03,10.1965928966372,"% of labour force, seasonally adjusted"
+desempleo,2012-04,10.9115302357777,"% of labour force, seasonally adjusted"
+desempleo,2012-05,10.859745919782,"% of labour force, seasonally adjusted"
+desempleo,2012-06,10.4338132830899,"% of labour force, seasonally adjusted"
+desempleo,2012-07,10.6363769592689,"% of labour force, seasonally adjusted"
+desempleo,2012-08,10.1509926317644,"% of labour force, seasonally adjusted"
+desempleo,2012-09,10.5283411971802,"% of labour force, seasonally adjusted"
+desempleo,2012-10,10.1358013350695,"% of labour force, seasonally adjusted"
+desempleo,2012-11,10.5965199053812,"% of labour force, seasonally adjusted"
+desempleo,2012-12,10.4655977307088,"% of labour force, seasonally adjusted"
+desempleo,2013-01,9.96778112576763,"% of labour force, seasonally adjusted"
+desempleo,2013-02,10.570501336077,"% of labour force, seasonally adjusted"
+desempleo,2013-03,10.0152696005565,"% of labour force, seasonally adjusted"
+desempleo,2013-04,10.2598889102871,"% of labour force, seasonally adjusted"
+desempleo,2013-05,9.66023272942489,"% of labour force, seasonally adjusted"
+desempleo,2013-06,9.68094461655819,"% of labour force, seasonally adjusted"
+desempleo,2013-07,9.68808362361128,"% of labour force, seasonally adjusted"
+desempleo,2013-08,9.79538455265559,"% of labour force, seasonally adjusted"
+desempleo,2013-09,9.49620303460024,"% of labour force, seasonally adjusted"
+desempleo,2013-10,8.96162120986328,"% of labour force, seasonally adjusted"
+desempleo,2013-11,9.6664872239271,"% of labour force, seasonally adjusted"
+desempleo,2013-12,9.06130644843219,"% of labour force, seasonally adjusted"
+desempleo,2014-01,9.23960286132441,"% of labour force, seasonally adjusted"
+desempleo,2014-02,9.6834228205193,"% of labour force, seasonally adjusted"
+desempleo,2014-03,9.42508490513557,"% of labour force, seasonally adjusted"
+desempleo,2014-04,9.08511564914733,"% of labour force, seasonally adjusted"
+desempleo,2014-05,8.85972131002936,"% of labour force, seasonally adjusted"
+desempleo,2014-06,9.53536185043421,"% of labour force, seasonally adjusted"
+desempleo,2014-07,9.17815737029564,"% of labour force, seasonally adjusted"
+desempleo,2014-08,9.21562525912423,"% of labour force, seasonally adjusted"
+desempleo,2014-09,8.84705169561272,"% of labour force, seasonally adjusted"
+desempleo,2014-10,8.83094440793485,"% of labour force, seasonally adjusted"
+desempleo,2014-11,9.01099873119803,"% of labour force, seasonally adjusted"
+desempleo,2014-12,9.42824940275237,"% of labour force, seasonally adjusted"
+desempleo,2015-01,8.83368227882109,"% of labour force, seasonally adjusted"
+desempleo,2015-02,8.86248281224207,"% of labour force, seasonally adjusted"
+desempleo,2015-03,8.63745762326515,"% of labour force, seasonally adjusted"
+desempleo,2015-04,9.45712415508048,"% of labour force, seasonally adjusted"
+desempleo,2015-05,8.95927027492167,"% of labour force, seasonally adjusted"
+desempleo,2015-06,8.5644732298002,"% of labour force, seasonally adjusted"
+desempleo,2015-07,8.69497453634507,"% of labour force, seasonally adjusted"
+desempleo,2015-08,9.2912089275973,"% of labour force, seasonally adjusted"
+desempleo,2015-09,9.29001190471125,"% of labour force, seasonally adjusted"
+desempleo,2015-10,9.15026370735612,"% of labour force, seasonally adjusted"
+desempleo,2015-11,8.42281341022438,"% of labour force, seasonally adjusted"
+desempleo,2015-12,9.12889625029633,"% of labour force, seasonally adjusted"
+desempleo,2016-01,9.59920229404796,"% of labour force, seasonally adjusted"
+desempleo,2016-02,8.95493844302715,"% of labour force, seasonally adjusted"
+desempleo,2016-03,9.85590895211678,"% of labour force, seasonally adjusted"
+desempleo,2016-04,9.02177783715804,"% of labour force, seasonally adjusted"
+desempleo,2016-05,8.91137322820815,"% of labour force, seasonally adjusted"
+desempleo,2016-06,9.23885740365303,"% of labour force, seasonally adjusted"
+desempleo,2016-07,9.60754820626976,"% of labour force, seasonally adjusted"
+desempleo,2016-08,9.17987497181394,"% of labour force, seasonally adjusted"
+desempleo,2016-09,9.00863837422149,"% of labour force, seasonally adjusted"
+desempleo,2016-10,9.24931510129114,"% of labour force, seasonally adjusted"
+desempleo,2016-11,8.63334795551123,"% of labour force, seasonally adjusted"
+desempleo,2016-12,9.36651067066231,"% of labour force, seasonally adjusted"
+desempleo,2017-01,9.35568690798148,"% of labour force, seasonally adjusted"
+desempleo,2017-02,9.33702982987029,"% of labour force, seasonally adjusted"
+desempleo,2017-03,9.25649116690866,"% of labour force, seasonally adjusted"
+desempleo,2017-04,8.78405047625176,"% of labour force, seasonally adjusted"
+desempleo,2017-05,9.41672221855428,"% of labour force, seasonally adjusted"
+desempleo,2017-06,8.9511742706237,"% of labour force, seasonally adjusted"
+desempleo,2017-07,9.30561963817754,"% of labour force, seasonally adjusted"
+desempleo,2017-08,9.37144225772892,"% of labour force, seasonally adjusted"
+desempleo,2017-09,9.6407604659892,"% of labour force, seasonally adjusted"
+desempleo,2017-10,9.28933694080435,"% of labour force, seasonally adjusted"
+desempleo,2017-11,9.62010236227052,"% of labour force, seasonally adjusted"
+desempleo,2017-12,9.12318143228639,"% of labour force, seasonally adjusted"
+desempleo,2018-01,9.44076736940206,"% of labour force, seasonally adjusted"
+desempleo,2018-02,9.56470818224608,"% of labour force, seasonally adjusted"
+desempleo,2018-03,9.06085209213001,"% of labour force, seasonally adjusted"
+desempleo,2018-04,9.29933418093882,"% of labour force, seasonally adjusted"
+desempleo,2018-05,9.48461727078108,"% of labour force, seasonally adjusted"
+desempleo,2018-06,9.21248586972997,"% of labour force, seasonally adjusted"
+desempleo,2018-07,9.37059760695136,"% of labour force, seasonally adjusted"
+desempleo,2018-08,9.23711563387856,"% of labour force, seasonally adjusted"
+desempleo,2018-09,9.68956695096199,"% of labour force, seasonally adjusted"
+desempleo,2018-10,9.85780873819053,"% of labour force, seasonally adjusted"
+desempleo,2018-11,9.85063155402139,"% of labour force, seasonally adjusted"
+desempleo,2018-12,10.1848720886377,"% of labour force, seasonally adjusted"
+desempleo,2019-01,10.1767990499084,"% of labour force, seasonally adjusted"
+desempleo,2019-02,10.3752044846263,"% of labour force, seasonally adjusted"
+desempleo,2019-03,10.3576906159755,"% of labour force, seasonally adjusted"
+desempleo,2019-04,10.1581927630526,"% of labour force, seasonally adjusted"
+desempleo,2019-05,10.3782625885738,"% of labour force, seasonally adjusted"
+desempleo,2019-06,9.55317298360731,"% of labour force, seasonally adjusted"
+desempleo,2019-07,10.5318776243605,"% of labour force, seasonally adjusted"
+desempleo,2019-08,10.919865343408,"% of labour force, seasonally adjusted"
+desempleo,2019-09,10.810548278035,"% of labour force, seasonally adjusted"
+desempleo,2019-10,10.5914282395321,"% of labour force, seasonally adjusted"
+desempleo,2019-11,10.4511952634046,"% of labour force, seasonally adjusted"
+desempleo,2019-12,10.06424024577,"% of labour force, seasonally adjusted"
+desempleo,2020-01,10.3634993482706,"% of labour force, seasonally adjusted"
+desempleo,2020-02,10.881617736455,"% of labour force, seasonally adjusted"
+desempleo,2020-03,12.058709820557,"% of labour force, seasonally adjusted"
+desempleo,2020-04,19.3848868637991,"% of labour force, seasonally adjusted"
+desempleo,2020-05,20.6659926527419,"% of labour force, seasonally adjusted"
+desempleo,2020-06,19.7935460408247,"% of labour force, seasonally adjusted"
+desempleo,2020-07,19.4791599766747,"% of labour force, seasonally adjusted"
+desempleo,2020-08,16.8235537965491,"% of labour force, seasonally adjusted"
+desempleo,2020-09,16.1089477406629,"% of labour force, seasonally adjusted"
+desempleo,2020-10,15.7591850753286,"% of labour force, seasonally adjusted"
+desempleo,2020-11,14.9827608695648,"% of labour force, seasonally adjusted"
+desempleo,2020-12,14.0076052697465,"% of labour force, seasonally adjusted"
+desempleo,2021-01,14.3694244790872,"% of labour force, seasonally adjusted"
+desempleo,2021-02,14.1234721457769,"% of labour force, seasonally adjusted"
+desempleo,2021-03,14.3030696755988,"% of labour force, seasonally adjusted"
+desempleo,2021-04,15.43683371907,"% of labour force, seasonally adjusted"
+desempleo,2021-05,15.1300511537472,"% of labour force, seasonally adjusted"
+desempleo,2021-06,15.1021318339742,"% of labour force, seasonally adjusted"
+desempleo,2021-07,12.9464841497041,"% of labour force, seasonally adjusted"
+desempleo,2021-08,13.2338034994981,"% of labour force, seasonally adjusted"
+desempleo,2021-09,12.6166913610219,"% of labour force, seasonally adjusted"
+desempleo,2021-10,13.1818195804504,"% of labour force, seasonally adjusted"
+desempleo,2021-11,13.2690152704647,"% of labour force, seasonally adjusted"
+desempleo,2021-12,11.9016128122756,"% of labour force, seasonally adjusted"
+desempleo,2022-01,11.9717844696859,"% of labour force, seasonally adjusted"
+desempleo,2022-02,11.7118030633113,"% of labour force, seasonally adjusted"
+desempleo,2022-03,11.7888815327408,"% of labour force, seasonally adjusted"
+desempleo,2022-04,11.1314869399319,"% of labour force, seasonally adjusted"
+desempleo,2022-05,10.6175427076872,"% of labour force, seasonally adjusted"
+desempleo,2022-06,11.598948914185,"% of labour force, seasonally adjusted"
+desempleo,2022-07,10.9127478865554,"% of labour force, seasonally adjusted"
+desempleo,2022-08,10.9421787386206,"% of labour force, seasonally adjusted"
+desempleo,2022-09,11.3311324064376,"% of labour force, seasonally adjusted"
+desempleo,2022-10,10.6329114639857,"% of labour force, seasonally adjusted"
+desempleo,2022-11,10.9264011385054,"% of labour force, seasonally adjusted"
+desempleo,2022-12,10.9632398888643,"% of labour force, seasonally adjusted"
+desempleo,2023-01,11.1338676185212,"% of labour force, seasonally adjusted"
+desempleo,2023-02,10.2526700259461,"% of labour force, seasonally adjusted"
+desempleo,2023-03,9.73131895151594,"% of labour force, seasonally adjusted"
+desempleo,2023-04,10.6643005799959,"% of labour force, seasonally adjusted"
+desempleo,2023-05,10.4467208172898,"% of labour force, seasonally adjusted"
+desempleo,2023-06,9.62679084843813,"% of labour force, seasonally adjusted"
+desempleo,2023-07,9.53767917308023,"% of labour force, seasonally adjusted"
+desempleo,2023-08,9.57581262075922,"% of labour force, seasonally adjusted"
+desempleo,2023-09,9.78006862371109,"% of labour force, seasonally adjusted"
+desempleo,2023-10,10.0883981200174,"% of labour force, seasonally adjusted"
+desempleo,2023-11,10.3892321813946,"% of labour force, seasonally adjusted"
+desempleo,2023-12,10.6844935724924,"% of labour force, seasonally adjusted"
+desempleo,2024-01,10.262945040649,"% of labour force, seasonally adjusted"
+desempleo,2024-02,10.5581274156266,"% of labour force, seasonally adjusted"
+desempleo,2024-03,10.9447922522808,"% of labour force, seasonally adjusted"
+desempleo,2024-04,10.5753411488305,"% of labour force, seasonally adjusted"
+desempleo,2024-05,10.2723085583652,"% of labour force, seasonally adjusted"
+desempleo,2024-06,10.5805466344718,"% of labour force, seasonally adjusted"
+desempleo,2024-07,9.9029884797833,"% of labour force, seasonally adjusted"
+desempleo,2024-08,9.97392174414739,"% of labour force, seasonally adjusted"
+desempleo,2024-09,9.67993434674191,"% of labour force, seasonally adjusted"
+desempleo,2024-10,9.97350388587751,"% of labour force, seasonally adjusted"
+desempleo,2024-11,9.45891564983697,"% of labour force, seasonally adjusted"
+desempleo,2024-12,9.73040273726044,"% of labour force, seasonally adjusted"
+desempleo,2025-01,9.42114194460399,"% of labour force, seasonally adjusted"
+desempleo,2025-02,9.34181644579294,"% of labour force, seasonally adjusted"
+desempleo,2025-03,9.3278531593196,"% of labour force, seasonally adjusted"
+desempleo,2025-04,8.73085719477362,"% of labour force, seasonally adjusted"
+desempleo,2025-05,9.0364042052732,"% of labour force, seasonally adjusted"
+desempleo,2025-06,8.83207533500643,"% of labour force, seasonally adjusted"
+desempleo,2025-07,8.84143227650881,"% of labour force, seasonally adjusted"
+desempleo,2025-08,8.88918960393074,"% of labour force, seasonally adjusted"
+desempleo,2025-09,8.66076798533005,"% of labour force, seasonally adjusted"
+desempleo,2025-10,8.96003817592954,"% of labour force, seasonally adjusted"
+desempleo,2025-11,8.16367497389648,"% of labour force, seasonally adjusted"
+desempleo,2025-12,8.52385335700923,"% of labour force, seasonally adjusted"
+desempleo,2026-01,8.78329749587071,"% of labour force, seasonally adjusted"
+desempleo,2026-02,8.3569527832075,"% of labour force, seasonally adjusted"
+desempleo,2026-03,8.53158784296979,"% of labour force, seasonally adjusted"
+desempleo,2026-04,8.72886704345835,"% of labour force, seasonally adjusted"
+desempleo,2026-05,8.02434217405201,"% of labour force, seasonally adjusted"
+desempleo,2026-06,8.29413488634902,"% of labour force, seasonally adjusted"
+desempleo,2026-07,8.10506775474819,"% of labour force, seasonally adjusted"
+empleo,2007-01,16234.048922340498,"thousands of persons, seasonally adjusted"
+empleo,2007-02,16513.7078913453,"thousands of persons, seasonally adjusted"
+empleo,2007-03,16258.6879282242,"thousands of persons, seasonally adjusted"
+empleo,2007-04,16712.1717441081,"thousands of persons, seasonally adjusted"
+empleo,2007-05,16411.7989521456,"thousands of persons, seasonally adjusted"
+empleo,2007-06,16620.046154863197,"thousands of persons, seasonally adjusted"
+empleo,2007-07,16685.158877564198,"thousands of persons, seasonally adjusted"
+empleo,2007-08,16693.277619557,"thousands of persons, seasonally adjusted"
+empleo,2007-09,16775.3727348008,"thousands of persons, seasonally adjusted"
+empleo,2007-10,17031.4059049454,"thousands of persons, seasonally adjusted"
+empleo,2007-11,17125.9777390244,"thousands of persons, seasonally adjusted"
+empleo,2007-12,16796.1000310813,"thousands of persons, seasonally adjusted"
+empleo,2008-01,16926.7085627341,"thousands of persons, seasonally adjusted"
+empleo,2008-02,17096.808464940103,"thousands of persons, seasonally adjusted"
+empleo,2008-03,17226.6592921061,"thousands of persons, seasonally adjusted"
+empleo,2008-04,17165.7313287795,"thousands of persons, seasonally adjusted"
+empleo,2008-05,17151.6964195141,"thousands of persons, seasonally adjusted"
+empleo,2008-06,16630.9407592789,"thousands of persons, seasonally adjusted"
+empleo,2008-07,17027.501818434397,"thousands of persons, seasonally adjusted"
+empleo,2008-08,17007.5819971703,"thousands of persons, seasonally adjusted"
+empleo,2008-09,17115.0509076899,"thousands of persons, seasonally adjusted"
+empleo,2008-10,16664.2048942384,"thousands of persons, seasonally adjusted"
+empleo,2008-11,16561.015181271,"thousands of persons, seasonally adjusted"
+empleo,2008-12,17158.5048738433,"thousands of persons, seasonally adjusted"
+empleo,2009-01,17236.3093098728,"thousands of persons, seasonally adjusted"
+empleo,2009-02,17492.836129528798,"thousands of persons, seasonally adjusted"
+empleo,2009-03,17715.565911325903,"thousands of persons, seasonally adjusted"
+empleo,2009-04,17829.3247476122,"thousands of persons, seasonally adjusted"
+empleo,2009-05,17997.110587748597,"thousands of persons, seasonally adjusted"
+empleo,2009-06,18023.174749412203,"thousands of persons, seasonally adjusted"
+empleo,2009-07,18057.702897004,"thousands of persons, seasonally adjusted"
+empleo,2009-08,17786.7259981401,"thousands of persons, seasonally adjusted"
+empleo,2009-09,17745.2625214111,"thousands of persons, seasonally adjusted"
+empleo,2009-10,18118.7878212275,"thousands of persons, seasonally adjusted"
+empleo,2009-11,18279.775442588703,"thousands of persons, seasonally adjusted"
+empleo,2009-12,18386.5098841281,"thousands of persons, seasonally adjusted"
+empleo,2010-01,18330.9477971996,"thousands of persons, seasonally adjusted"
+empleo,2010-02,18519.5967279899,"thousands of persons, seasonally adjusted"
+empleo,2010-03,18295.793637105,"thousands of persons, seasonally adjusted"
+empleo,2010-04,18484.7645685266,"thousands of persons, seasonally adjusted"
+empleo,2010-05,18330.5131484177,"thousands of persons, seasonally adjusted"
+empleo,2010-06,18572.4160678673,"thousands of persons, seasonally adjusted"
+empleo,2010-07,18549.8321465631,"thousands of persons, seasonally adjusted"
+empleo,2010-08,18739.0641497266,"thousands of persons, seasonally adjusted"
+empleo,2010-09,19041.7654636162,"thousands of persons, seasonally adjusted"
+empleo,2010-10,18740.7682820924,"thousands of persons, seasonally adjusted"
+empleo,2010-11,18883.3818347647,"thousands of persons, seasonally adjusted"
+empleo,2010-12,18842.2616761309,"thousands of persons, seasonally adjusted"
+empleo,2011-01,19093.8193848366,"thousands of persons, seasonally adjusted"
+empleo,2011-02,18809.477881839903,"thousands of persons, seasonally adjusted"
+empleo,2011-03,19179.741486641797,"thousands of persons, seasonally adjusted"
+empleo,2011-04,18941.5725687797,"thousands of persons, seasonally adjusted"
+empleo,2011-05,19147.079813051903,"thousands of persons, seasonally adjusted"
+empleo,2011-06,19138.5415310383,"thousands of persons, seasonally adjusted"
+empleo,2011-07,19310.3918850697,"thousands of persons, seasonally adjusted"
+empleo,2011-08,19263.8442949934,"thousands of persons, seasonally adjusted"
+empleo,2011-09,19675.384883006598,"thousands of persons, seasonally adjusted"
+empleo,2011-10,19952.4137162861,"thousands of persons, seasonally adjusted"
+empleo,2011-11,19921.034184751,"thousands of persons, seasonally adjusted"
+empleo,2011-12,19772.0998697051,"thousands of persons, seasonally adjusted"
+empleo,2012-01,19937.5905195751,"thousands of persons, seasonally adjusted"
+empleo,2012-02,19938.2079403032,"thousands of persons, seasonally adjusted"
+empleo,2012-03,20132.0546099803,"thousands of persons, seasonally adjusted"
+empleo,2012-04,19829.949520580798,"thousands of persons, seasonally adjusted"
+empleo,2012-05,19996.4536207651,"thousands of persons, seasonally adjusted"
+empleo,2012-06,20274.6238599895,"thousands of persons, seasonally adjusted"
+empleo,2012-07,19946.2576539279,"thousands of persons, seasonally adjusted"
+empleo,2012-08,20187.4011890597,"thousands of persons, seasonally adjusted"
+empleo,2012-09,19877.7017835656,"thousands of persons, seasonally adjusted"
+empleo,2012-10,19976.8565309069,"thousands of persons, seasonally adjusted"
+empleo,2012-11,19935.631991422797,"thousands of persons, seasonally adjusted"
+empleo,2012-12,20169.2322799229,"thousands of persons, seasonally adjusted"
+empleo,2013-01,20288.6832025593,"thousands of persons, seasonally adjusted"
+empleo,2013-02,20031.286354519798,"thousands of persons, seasonally adjusted"
+empleo,2013-03,20006.6326921525,"thousands of persons, seasonally adjusted"
+empleo,2013-04,20019.309309289798,"thousands of persons, seasonally adjusted"
+empleo,2013-05,20519.877179323,"thousands of persons, seasonally adjusted"
+empleo,2013-06,20261.3518235001,"thousands of persons, seasonally adjusted"
+empleo,2013-07,20547.9156046177,"thousands of persons, seasonally adjusted"
+empleo,2013-08,20542.088238908,"thousands of persons, seasonally adjusted"
+empleo,2013-09,20486.2527988738,"thousands of persons, seasonally adjusted"
+empleo,2013-10,20648.3853726907,"thousands of persons, seasonally adjusted"
+empleo,2013-11,20416.7940104714,"thousands of persons, seasonally adjusted"
+empleo,2013-12,20678.482413094,"thousands of persons, seasonally adjusted"
+empleo,2014-01,20693.1791999975,"thousands of persons, seasonally adjusted"
+empleo,2014-02,20450.7419923386,"thousands of persons, seasonally adjusted"
+empleo,2014-03,20524.6501321478,"thousands of persons, seasonally adjusted"
+empleo,2014-04,20687.140020677,"thousands of persons, seasonally adjusted"
+empleo,2014-05,20786.6803884967,"thousands of persons, seasonally adjusted"
+empleo,2014-06,20740.0560452889,"thousands of persons, seasonally adjusted"
+empleo,2014-07,20735.9864333052,"thousands of persons, seasonally adjusted"
+empleo,2014-08,20973.4786492347,"thousands of persons, seasonally adjusted"
+empleo,2014-09,21049.7159715287,"thousands of persons, seasonally adjusted"
+empleo,2014-10,21139.598979865,"thousands of persons, seasonally adjusted"
+empleo,2014-11,21086.1910932307,"thousands of persons, seasonally adjusted"
+empleo,2014-12,20809.7285938892,"thousands of persons, seasonally adjusted"
+empleo,2015-01,21084.200978404297,"thousands of persons, seasonally adjusted"
+empleo,2015-02,21074.3681805896,"thousands of persons, seasonally adjusted"
+empleo,2015-03,21201.2207274617,"thousands of persons, seasonally adjusted"
+empleo,2015-04,21197.550659442,"thousands of persons, seasonally adjusted"
+empleo,2015-05,21274.5804942981,"thousands of persons, seasonally adjusted"
+empleo,2015-06,21277.8324302317,"thousands of persons, seasonally adjusted"
+empleo,2015-07,21344.915258438,"thousands of persons, seasonally adjusted"
+empleo,2015-08,21317.3892630262,"thousands of persons, seasonally adjusted"
+empleo,2015-09,21328.9262074093,"thousands of persons, seasonally adjusted"
+empleo,2015-10,21500.3114554067,"thousands of persons, seasonally adjusted"
+empleo,2015-11,21680.220837860303,"thousands of persons, seasonally adjusted"
+empleo,2015-12,21461.5285074321,"thousands of persons, seasonally adjusted"
+empleo,2016-01,21472.3477793224,"thousands of persons, seasonally adjusted"
+empleo,2016-02,21486.161453484503,"thousands of persons, seasonally adjusted"
+empleo,2016-03,21113.858685104602,"thousands of persons, seasonally adjusted"
+empleo,2016-04,21569.59721748,"thousands of persons, seasonally adjusted"
+empleo,2016-05,21369.913912875,"thousands of persons, seasonally adjusted"
+empleo,2016-06,21548.6305902797,"thousands of persons, seasonally adjusted"
+empleo,2016-07,21289.8595871233,"thousands of persons, seasonally adjusted"
+empleo,2016-08,21555.023533226402,"thousands of persons, seasonally adjusted"
+empleo,2016-09,21535.700944917702,"thousands of persons, seasonally adjusted"
+empleo,2016-10,21662.5904073839,"thousands of persons, seasonally adjusted"
+empleo,2016-11,21823.079270994498,"thousands of persons, seasonally adjusted"
+empleo,2016-12,21635.0296178082,"thousands of persons, seasonally adjusted"
+empleo,2017-01,21699.50893962,"thousands of persons, seasonally adjusted"
+empleo,2017-02,21658.313757712498,"thousands of persons, seasonally adjusted"
+empleo,2017-03,21596.5062412564,"thousands of persons, seasonally adjusted"
+empleo,2017-04,21950.9078106938,"thousands of persons, seasonally adjusted"
+empleo,2017-05,21735.651684398,"thousands of persons, seasonally adjusted"
+empleo,2017-06,22130.999285147,"thousands of persons, seasonally adjusted"
+empleo,2017-07,21805.5468906423,"thousands of persons, seasonally adjusted"
+empleo,2017-08,21896.9275829306,"thousands of persons, seasonally adjusted"
+empleo,2017-09,21751.053724888803,"thousands of persons, seasonally adjusted"
+empleo,2017-10,21864.4897839348,"thousands of persons, seasonally adjusted"
+empleo,2017-11,21880.8103530417,"thousands of persons, seasonally adjusted"
+empleo,2017-12,21956.9729457342,"thousands of persons, seasonally adjusted"
+empleo,2018-01,21880.3721795311,"thousands of persons, seasonally adjusted"
+empleo,2018-02,21699.8583207856,"thousands of persons, seasonally adjusted"
+empleo,2018-03,21928.527764842,"thousands of persons, seasonally adjusted"
+empleo,2018-04,22148.9304943295,"thousands of persons, seasonally adjusted"
+empleo,2018-05,22094.3967931282,"thousands of persons, seasonally adjusted"
+empleo,2018-06,22228.869398981198,"thousands of persons, seasonally adjusted"
+empleo,2018-07,22172.836736411697,"thousands of persons, seasonally adjusted"
+empleo,2018-08,22329.0132942938,"thousands of persons, seasonally adjusted"
+empleo,2018-09,22296.4893428444,"thousands of persons, seasonally adjusted"
+empleo,2018-10,22066.415120961,"thousands of persons, seasonally adjusted"
+empleo,2018-11,21847.0104229648,"thousands of persons, seasonally adjusted"
+empleo,2018-12,22426.1811309267,"thousands of persons, seasonally adjusted"
+empleo,2019-01,22160.850568477897,"thousands of persons, seasonally adjusted"
+empleo,2019-02,22199.6890310368,"thousands of persons, seasonally adjusted"
+empleo,2019-03,22186.699565983898,"thousands of persons, seasonally adjusted"
+empleo,2019-04,21889.5394863015,"thousands of persons, seasonally adjusted"
+empleo,2019-05,22149.9433237676,"thousands of persons, seasonally adjusted"
+empleo,2019-06,22532.3414145756,"thousands of persons, seasonally adjusted"
+empleo,2019-07,22165.7143098861,"thousands of persons, seasonally adjusted"
+empleo,2019-08,22014.429845205002,"thousands of persons, seasonally adjusted"
+empleo,2019-09,22174.543243349897,"thousands of persons, seasonally adjusted"
+empleo,2019-10,22351.3687372884,"thousands of persons, seasonally adjusted"
+empleo,2019-11,22534.5644255804,"thousands of persons, seasonally adjusted"
+empleo,2019-12,22490.285048547,"thousands of persons, seasonally adjusted"
+empleo,2020-01,22370.1510990299,"thousands of persons, seasonally adjusted"
+empleo,2020-02,22250.2301616383,"thousands of persons, seasonally adjusted"
+empleo,2020-03,20765.7108169798,"thousands of persons, seasonally adjusted"
+empleo,2020-04,16751.0159264086,"thousands of persons, seasonally adjusted"
+empleo,2020-05,17561.7787311333,"thousands of persons, seasonally adjusted"
+empleo,2020-06,18537.865117037,"thousands of persons, seasonally adjusted"
+empleo,2020-07,18370.5757739769,"thousands of persons, seasonally adjusted"
+empleo,2020-08,19810.7399319881,"thousands of persons, seasonally adjusted"
+empleo,2020-09,20312.185854566702,"thousands of persons, seasonally adjusted"
+empleo,2020-10,20940.5632405958,"thousands of persons, seasonally adjusted"
+empleo,2020-11,21047.4696478547,"thousands of persons, seasonally adjusted"
+empleo,2020-12,21284.518698791002,"thousands of persons, seasonally adjusted"
+empleo,2021-01,19803.6393232224,"thousands of persons, seasonally adjusted"
+empleo,2021-02,20343.2223874919,"thousands of persons, seasonally adjusted"
+empleo,2021-03,20186.003871906298,"thousands of persons, seasonally adjusted"
+empleo,2021-04,19753.3114505709,"thousands of persons, seasonally adjusted"
+empleo,2021-05,20038.259958909002,"thousands of persons, seasonally adjusted"
+empleo,2021-06,20036.602370411998,"thousands of persons, seasonally adjusted"
+empleo,2021-07,20495.159954779403,"thousands of persons, seasonally adjusted"
+empleo,2021-08,20569.725590843802,"thousands of persons, seasonally adjusted"
+empleo,2021-09,20643.8752673712,"thousands of persons, seasonally adjusted"
+empleo,2021-10,20656.4982909024,"thousands of persons, seasonally adjusted"
+empleo,2021-11,20922.104304655102,"thousands of persons, seasonally adjusted"
+empleo,2021-12,21252.4962289356,"thousands of persons, seasonally adjusted"
+empleo,2022-01,21419.0642489398,"thousands of persons, seasonally adjusted"
+empleo,2022-02,21844.476400075,"thousands of persons, seasonally adjusted"
+empleo,2022-03,21754.606196905603,"thousands of persons, seasonally adjusted"
+empleo,2022-04,21961.545764151902,"thousands of persons, seasonally adjusted"
+empleo,2022-05,22219.7837708093,"thousands of persons, seasonally adjusted"
+empleo,2022-06,21991.810046609,"thousands of persons, seasonally adjusted"
+empleo,2022-07,22093.0267792745,"thousands of persons, seasonally adjusted"
+empleo,2022-08,22124.5886526726,"thousands of persons, seasonally adjusted"
+empleo,2022-09,22343.279584742402,"thousands of persons, seasonally adjusted"
+empleo,2022-10,22226.8486705942,"thousands of persons, seasonally adjusted"
+empleo,2022-11,22154.7761458421,"thousands of persons, seasonally adjusted"
+empleo,2022-12,22252.3537393835,"thousands of persons, seasonally adjusted"
+empleo,2023-01,22250.745737135298,"thousands of persons, seasonally adjusted"
+empleo,2023-02,22410.6770493047,"thousands of persons, seasonally adjusted"
+empleo,2023-03,22860.1221192411,"thousands of persons, seasonally adjusted"
+empleo,2023-04,22758.9537144127,"thousands of persons, seasonally adjusted"
+empleo,2023-05,22599.8157670837,"thousands of persons, seasonally adjusted"
+empleo,2023-06,23021.7024241404,"thousands of persons, seasonally adjusted"
+empleo,2023-07,23182.539318158,"thousands of persons, seasonally adjusted"
+empleo,2023-08,23098.238758962798,"thousands of persons, seasonally adjusted"
+empleo,2023-09,23051.668477821997,"thousands of persons, seasonally adjusted"
+empleo,2023-10,22727.5265744524,"thousands of persons, seasonally adjusted"
+empleo,2023-11,22844.259204073398,"thousands of persons, seasonally adjusted"
+empleo,2023-12,22654.4748552135,"thousands of persons, seasonally adjusted"
+empleo,2024-01,22798.752922703003,"thousands of persons, seasonally adjusted"
+empleo,2024-02,22672.1906502372,"thousands of persons, seasonally adjusted"
+empleo,2024-03,22697.8993205301,"thousands of persons, seasonally adjusted"
+empleo,2024-04,22891.457815430498,"thousands of persons, seasonally adjusted"
+empleo,2024-05,23063.5267260627,"thousands of persons, seasonally adjusted"
+empleo,2024-06,22893.8009124025,"thousands of persons, seasonally adjusted"
+empleo,2024-07,23187.4897610769,"thousands of persons, seasonally adjusted"
+empleo,2024-08,23352.3611686636,"thousands of persons, seasonally adjusted"
+empleo,2024-09,23161.1353779417,"thousands of persons, seasonally adjusted"
+empleo,2024-10,23057.1997448489,"thousands of persons, seasonally adjusted"
+empleo,2024-11,23249.7634187008,"thousands of persons, seasonally adjusted"
+empleo,2024-12,23406.936181402198,"thousands of persons, seasonally adjusted"
+empleo,2025-01,23679.3576209403,"thousands of persons, seasonally adjusted"
+empleo,2025-02,23635.4224866035,"thousands of persons, seasonally adjusted"
+empleo,2025-03,23739.066152719697,"thousands of persons, seasonally adjusted"
+empleo,2025-04,23608.435400209502,"thousands of persons, seasonally adjusted"
+empleo,2025-05,23661.7087004452,"thousands of persons, seasonally adjusted"
+empleo,2025-06,23719.751236001397,"thousands of persons, seasonally adjusted"
+empleo,2025-07,23953.8033810289,"thousands of persons, seasonally adjusted"
+empleo,2025-08,23760.7478973213,"thousands of persons, seasonally adjusted"
+empleo,2025-09,23877.4205445233,"thousands of persons, seasonally adjusted"
+empleo,2025-10,24043.2034895689,"thousands of persons, seasonally adjusted"
+empleo,2025-11,24237.118446851997,"thousands of persons, seasonally adjusted"
+empleo,2025-12,24013.1706437858,"thousands of persons, seasonally adjusted"
+empleo,2026-01,24009.7210642663,"thousands of persons, seasonally adjusted"
+empleo,2026-02,24255.4994197334,"thousands of persons, seasonally adjusted"
+empleo,2026-03,24382.0739510596,"thousands of persons, seasonally adjusted"
+empleo,2026-04,24308.9206794216,"thousands of persons, seasonally adjusted"
+empleo,2026-05,24612.8920171608,"thousands of persons, seasonally adjusted"
+empleo,2026-06,24415.2057986779,"thousands of persons, seasonally adjusted"
+empleo,2026-07,24536.2280021565,"thousands of persons, seasonally adjusted"
 exportaciones,1970-01,57.0416152560723,"millions of USD, seasonally adjusted"
 exportaciones,1970-02,68.9335343126473,"millions of USD, seasonally adjusted"
 exportaciones,1970-03,79.2259037046483,"millions of USD, seasonally adjusted"
@@ -2924,1352 +2927,1352 @@ importaciones,2026-03,6102.11089015728,"millions of USD, seasonally adjusted"
 importaciones,2026-04,6609.32796547839,"millions of USD, seasonally adjusted"
 importaciones,2026-05,6994.12427990831,"millions of USD, seasonally adjusted"
 importaciones,2026-06,6900.91361911915,"millions of USD, seasonally adjusted"
-inflacion,1971-01,12.4999994403515,%
-inflacion,1971-02,12.4999994403515,%
-inflacion,1971-03,12.4999994403515,%
-inflacion,1971-04,5.88235269330448,%
-inflacion,1971-05,5.88235269330448,%
-inflacion,1971-06,11.7647062293737,%
-inflacion,1971-07,11.7647062293737,%
-inflacion,1971-08,11.7647062293737,%
-inflacion,1971-09,11.7647062293737,%
-inflacion,1971-10,11.7647062293737,%
-inflacion,1971-11,17.6470589226782,%
-inflacion,1971-12,17.6470589226782,%
-inflacion,1972-01,11.1111114648642,%
-inflacion,1972-02,11.1111114648642,%
-inflacion,1972-03,11.1111114648642,%
-inflacion,1972-04,16.6666667993241,%
-inflacion,1972-05,16.6666667993241,%
-inflacion,1972-06,10.5263153132299,%
-inflacion,1972-07,10.5263153132299,%
-inflacion,1972-08,10.5263153132299,%
-inflacion,1972-09,15.7894737238975,%
-inflacion,1972-10,15.7894737238975,%
-inflacion,1972-11,10.00000028654,%
-inflacion,1972-12,10.00000028654,%
-inflacion,1973-01,15.000000071635,%
-inflacion,1973-02,15.000000071635,%
-inflacion,1973-03,19.99999985673,%
-inflacion,1973-04,19.0476189501565,%
-inflacion,1973-05,23.8095241993741,%
-inflacion,1973-06,23.8095241993741,%
-inflacion,1973-07,28.5714287663537,%
-inflacion,1973-08,23.8095241993741,%
-inflacion,1973-09,22.7272723424566,%
-inflacion,1973-10,22.7272723424566,%
-inflacion,1973-11,27.2727266807025,%
-inflacion,1973-12,27.2727266807025,%
-inflacion,1974-01,26.0869566300718,%
-inflacion,1974-02,26.0869566300718,%
-inflacion,1974-03,25.0000001492396,%
-inflacion,1974-04,24.0000001833856,%
-inflacion,1974-05,23.0769226106598,%
-inflacion,1974-06,23.0769226106598,%
-inflacion,1974-07,18.5185182630302,%
-inflacion,1974-08,23.0769226106598,%
-inflacion,1974-09,22.2222223401399,%
-inflacion,1974-10,25.92592588662,%
+inflacion,1971-01,12.5,%
+inflacion,1971-02,12.5,%
+inflacion,1971-03,12.5,%
+inflacion,1971-04,5.88235294117647,%
+inflacion,1971-05,5.88235294117647,%
+inflacion,1971-06,11.7647058823529,%
+inflacion,1971-07,11.7647058823529,%
+inflacion,1971-08,11.7647058823529,%
+inflacion,1971-09,11.7647058823529,%
+inflacion,1971-10,11.7647058823529,%
+inflacion,1971-11,17.6470588235294,%
+inflacion,1971-12,17.6470588235294,%
+inflacion,1972-01,11.1111111111111,%
+inflacion,1972-02,11.1111111111111,%
+inflacion,1972-03,11.1111111111111,%
+inflacion,1972-04,16.6666666666667,%
+inflacion,1972-05,16.6666666666667,%
+inflacion,1972-06,10.5263157894737,%
+inflacion,1972-07,10.5263157894737,%
+inflacion,1972-08,10.5263157894737,%
+inflacion,1972-09,15.7894736842105,%
+inflacion,1972-10,15.7894736842105,%
+inflacion,1972-11,9.99999999999999,%
+inflacion,1972-12,9.99999999999999,%
+inflacion,1973-01,15.0,%
+inflacion,1973-02,15.0,%
+inflacion,1973-03,20.0,%
+inflacion,1973-04,19.047619047619,%
+inflacion,1973-05,23.8095238095238,%
+inflacion,1973-06,23.8095238095238,%
+inflacion,1973-07,28.5714285714286,%
+inflacion,1973-08,23.8095238095238,%
+inflacion,1973-09,22.7272727272727,%
+inflacion,1973-10,22.7272727272727,%
+inflacion,1973-11,27.2727272727273,%
+inflacion,1973-12,27.2727272727273,%
+inflacion,1974-01,26.0869565217391,%
+inflacion,1974-02,26.0869565217391,%
+inflacion,1974-03,25.0,%
+inflacion,1974-04,24.0,%
+inflacion,1974-05,23.0769230769231,%
+inflacion,1974-06,23.0769230769231,%
+inflacion,1974-07,18.5185185185185,%
+inflacion,1974-08,23.0769230769231,%
+inflacion,1974-09,22.2222222222222,%
+inflacion,1974-10,25.9259259259259,%
 inflacion,1974-11,25.0,%
 inflacion,1974-12,25.0,%
-inflacion,1975-01,24.1379309493044,%
-inflacion,1975-02,27.5862066580523,%
-inflacion,1975-03,26.66666647564,%
-inflacion,1975-04,25.8064519259803,%
-inflacion,1975-05,25.0000003357891,%
-inflacion,1975-06,25.0000003357891,%
-inflacion,1975-07,25.0000003357891,%
-inflacion,1975-08,25.0000003357891,%
-inflacion,1975-09,24.2424240582387,%
-inflacion,1975-10,20.5882352693304,%
-inflacion,1975-11,17.1428572598122,%
-inflacion,1975-12,17.1428572598122,%
-inflacion,1976-01,16.6666663350231,%
-inflacion,1976-02,16.2162162999387,%
-inflacion,1976-03,15.789473783428,%
-inflacion,1976-04,15.3846150737732,%
-inflacion,1976-05,15.000000071635,%
-inflacion,1976-06,17.4999999641825,%
-inflacion,1976-07,19.99999985673,%
-inflacion,1976-08,22.5000001074525,%
-inflacion,1976-09,21.9512196400387,%
-inflacion,1976-10,21.9512196400387,%
-inflacion,1976-11,26.8292682159768,%
-inflacion,1976-12,26.8292682159768,%
-inflacion,1977-01,26.1904764828639,%
-inflacion,1977-02,27.9069765349762,%
-inflacion,1977-03,31.8181817737799,%
-inflacion,1977-04,37.777777806078,%
-inflacion,1977-05,39.1304346336512,%
-inflacion,1977-06,40.4255320186655,%
-inflacion,1977-07,39.5833334701363,%
-inflacion,1977-08,36.7346937283736,%
-inflacion,1977-09,33.999999971346,%
-inflacion,1977-10,33.999999971346,%
-inflacion,1977-11,28.8461540315995,%
-inflacion,1977-12,28.8461540315995,%
-inflacion,1978-01,28.3018866496419,%
-inflacion,1978-02,25.4545454356007,%
-inflacion,1978-03,22.4137931502964,%
-inflacion,1978-04,16.1290322804272,%
-inflacion,1978-05,15.6250000069956,%
-inflacion,1978-06,15.1515151449371,%
-inflacion,1978-07,13.4328358879187,%
-inflacion,1978-08,13.4328358879187,%
-inflacion,1978-09,13.4328358879187,%
-inflacion,1978-10,16.4179103871212,%
-inflacion,1978-11,17.9104476367224,%
-inflacion,1978-12,19.4029851001595,%
-inflacion,1979-01,20.5882352693304,%
-inflacion,1979-02,21.7391305701985,%
-inflacion,1979-03,22.5352113216054,%
-inflacion,1979-04,23.6111111194022,%
-inflacion,1979-05,22.9729729625077,%
-inflacion,1979-06,21.0526314201995,%
-inflacion,1979-07,22.3684210253468,%
-inflacion,1979-08,24.9999998586151,%
-inflacion,1979-09,27.6315788803967,%
-inflacion,1979-10,25.6410256598646,%
-inflacion,1979-11,27.8481013737172,%
-inflacion,1979-12,27.4999998925475,%
-inflacion,1980-01,28.0487805346809,%
-inflacion,1980-02,26.1904760970746,%
-inflacion,1980-03,24.1379309890543,%
-inflacion,1980-04,25.8426966744319,%
-inflacion,1980-05,27.4725274067835,%
-inflacion,1980-06,28.2608696227691,%
-inflacion,1980-07,27.9569891197619,%
-inflacion,1980-08,26.315789568933,%
-inflacion,1980-09,25.7731958062449,%
-inflacion,1980-10,26.5306122896512,%
-inflacion,1980-11,25.7425742967509,%
-inflacion,1980-12,26.4705882435565,%
-inflacion,1981-01,25.7142857181842,%
-inflacion,1981-02,28.3018868230552,%
-inflacion,1981-03,28.7037036791375,%
-inflacion,1981-04,27.6785714114393,%
-inflacion,1981-05,25.8620689910708,%
-inflacion,1981-06,27.1186440081179,%
+inflacion,1975-01,24.1379310344828,%
+inflacion,1975-02,27.5862068965517,%
+inflacion,1975-03,26.6666666666666,%
+inflacion,1975-04,25.8064516129032,%
+inflacion,1975-05,25.0,%
+inflacion,1975-06,25.0,%
+inflacion,1975-07,25.0,%
+inflacion,1975-08,25.0,%
+inflacion,1975-09,24.2424242424242,%
+inflacion,1975-10,20.5882352941177,%
+inflacion,1975-11,17.1428571428571,%
+inflacion,1975-12,17.1428571428571,%
+inflacion,1976-01,16.6666666666667,%
+inflacion,1976-02,16.2162162162162,%
+inflacion,1976-03,15.7894736842105,%
+inflacion,1976-04,15.3846153846154,%
+inflacion,1976-05,15.0,%
+inflacion,1976-06,17.5,%
+inflacion,1976-07,20.0,%
+inflacion,1976-08,22.5,%
+inflacion,1976-09,21.9512195121951,%
+inflacion,1976-10,21.9512195121951,%
+inflacion,1976-11,26.829268292683,%
+inflacion,1976-12,26.829268292683,%
+inflacion,1977-01,26.1904761904762,%
+inflacion,1977-02,27.9069767441861,%
+inflacion,1977-03,31.8181818181818,%
+inflacion,1977-04,37.7777777777778,%
+inflacion,1977-05,39.1304347826087,%
+inflacion,1977-06,40.4255319148936,%
+inflacion,1977-07,39.5833333333333,%
+inflacion,1977-08,36.734693877551,%
+inflacion,1977-09,34.0,%
+inflacion,1977-10,34.0,%
+inflacion,1977-11,28.8461538461538,%
+inflacion,1977-12,28.8461538461538,%
+inflacion,1978-01,28.3018867924528,%
+inflacion,1978-02,25.4545454545454,%
+inflacion,1978-03,22.4137931034483,%
+inflacion,1978-04,16.1290322580645,%
+inflacion,1978-05,15.625,%
+inflacion,1978-06,15.1515151515151,%
+inflacion,1978-07,13.4328358208955,%
+inflacion,1978-08,13.4328358208955,%
+inflacion,1978-09,13.4328358208955,%
+inflacion,1978-10,16.4179104477612,%
+inflacion,1978-11,17.910447761194,%
+inflacion,1978-12,19.4029850746269,%
+inflacion,1979-01,20.5882352941177,%
+inflacion,1979-02,21.7391304347826,%
+inflacion,1979-03,22.5352112676056,%
+inflacion,1979-04,23.6111111111111,%
+inflacion,1979-05,22.972972972973,%
+inflacion,1979-06,21.0526315789474,%
+inflacion,1979-07,22.3684210526316,%
+inflacion,1979-08,25.0,%
+inflacion,1979-09,27.6315789473685,%
+inflacion,1979-10,25.6410256410256,%
+inflacion,1979-11,27.8481012658228,%
+inflacion,1979-12,27.5,%
+inflacion,1980-01,28.0487804878049,%
+inflacion,1980-02,26.1904761904762,%
+inflacion,1980-03,24.1379310344828,%
+inflacion,1980-04,25.8426966292135,%
+inflacion,1980-05,27.4725274725274,%
+inflacion,1980-06,28.2608695652174,%
+inflacion,1980-07,27.9569892473118,%
+inflacion,1980-08,26.3157894736842,%
+inflacion,1980-09,25.7731958762887,%
+inflacion,1980-10,26.530612244898,%
+inflacion,1980-11,25.7425742574257,%
+inflacion,1980-12,26.4705882352941,%
+inflacion,1981-01,25.7142857142857,%
+inflacion,1981-02,28.3018867924528,%
+inflacion,1981-03,28.7037037037037,%
+inflacion,1981-04,27.6785714285714,%
+inflacion,1981-05,25.8620689655173,%
+inflacion,1981-06,27.1186440677966,%
 inflacion,1981-07,28.5714285714,%
-inflacion,1981-08,29.1666666069708,%
-inflacion,1981-09,27.8688524551661,%
-inflacion,1981-10,27.4193548219377,%
-inflacion,1981-11,26.771653523765,%
-inflacion,1981-12,26.3565891455649,%
-inflacion,1982-01,25.7575757526422,%
+inflacion,1981-08,29.1666666666667,%
+inflacion,1981-09,27.8688524590164,%
+inflacion,1981-10,27.4193548387097,%
+inflacion,1981-11,26.7716535433071,%
+inflacion,1981-12,26.3565891472868,%
+inflacion,1982-01,25.7575757575758,%
 inflacion,1982-02,25.0,%
-inflacion,1982-03,25.1798561848112,%
-inflacion,1982-04,24.4755245476884,%
-inflacion,1982-05,25.3424657635065,%
-inflacion,1982-06,24.6666666806753,%
-inflacion,1982-07,23.5294118032638,%
-inflacion,1982-08,23.8709677437245,%
-inflacion,1982-09,25.0000000459198,%
-inflacion,1982-10,25.3164557053851,%
-inflacion,1982-11,24.844720503527,%
-inflacion,1982-12,23.9263804133941,%
-inflacion,1983-01,22.891566246343,%
-inflacion,1983-02,21.7647058922678,%
-inflacion,1983-03,21.2643678113598,%
-inflacion,1983-04,22.4719101195945,%
-inflacion,1983-05,21.857923512669,%
-inflacion,1983-06,20.3208556780679,%
-inflacion,1983-07,20.1058200861671,%
-inflacion,1983-08,18.2291666375183,%
-inflacion,1983-09,16.923076936641,%
-inflacion,1983-10,17.1717171622155,%
-inflacion,1983-11,16.9154228749335,%
-inflacion,1983-12,16.8316831612945,%
-inflacion,1984-01,17.1568627946724,%
-inflacion,1984-02,16.9082126078656,%
-inflacion,1984-03,17.0616113235627,%
-inflacion,1984-04,15.5963302661853,%
-inflacion,1984-05,14.3497758187493,%
-inflacion,1984-06,15.1111111031871,%
-inflacion,1984-07,15.4185022449049,%
-inflacion,1984-08,15.8590308606376,%
-inflacion,1984-09,16.6666666457207,%
-inflacion,1984-10,15.5172413356564,%
-inflacion,1984-11,16.1702127465002,%
-inflacion,1984-12,18.2203389979705,%
-inflacion,1985-01,19.2468618848061,%
-inflacion,1985-02,21.4876032778963,%
-inflacion,1985-03,22.6720648033945,%
-inflacion,1985-04,23.4126983808877,%
-inflacion,1985-05,27.8431372458684,%
-inflacion,1985-06,28.185328146457,%
-inflacion,1985-07,25.9541984599247,%
-inflacion,1985-08,24.7148288822179,%
-inflacion,1985-09,24.4360902091626,%
-inflacion,1985-10,24.626865700765,%
-inflacion,1985-11,23.4432234438001,%
-inflacion,1985-12,22.580645123191,%
-inflacion,1986-01,23.5087719425244,%
-inflacion,1986-02,23.4693877834458,%
-inflacion,1986-03,22.7722772043149,%
-inflacion,1986-04,22.829581993421,%
-inflacion,1986-05,16.2576686778193,%
-inflacion,1986-06,13.2530120487127,%
-inflacion,1986-07,13.9393939107136,%
-inflacion,1986-08,16.1585365996151,%
-inflacion,1986-09,16.9184290211978,%
-inflacion,1986-10,18.2634730504247,%
-inflacion,1986-11,19.5845697080857,%
-inflacion,1986-12,20.760233919476,%
-inflacion,1987-01,21.3068181753429,%
-inflacion,1987-02,19.8347107271663,%
-inflacion,1987-03,20.1612903157476,%
-inflacion,1987-04,19.6335078464323,%
-inflacion,1987-05,22.6912928981321,%
-inflacion,1987-06,24.7340425739661,%
-inflacion,1987-07,26.5957446990922,%
-inflacion,1987-08,25.4593175939872,%
-inflacion,1987-09,25.0645994526884,%
-inflacion,1987-10,24.8101265812684,%
-inflacion,1987-11,24.8138957983987,%
-inflacion,1987-12,23.9709443361339,%
-inflacion,1988-01,23.6533957911439,%
-inflacion,1988-02,26.2068965580841,%
-inflacion,1988-03,26.3982102957753,%
-inflacion,1988-04,28.4463895154455,%
-inflacion,1988-05,28.3870967688265,%
-inflacion,1988-06,30.4904051056118,%
-inflacion,1988-07,30.2521008507063,%
-inflacion,1988-08,29.497907923204,%
-inflacion,1988-09,28.9256198535479,%
-inflacion,1988-10,28.3975659386008,%
-inflacion,1988-11,27.6341948260308,%
-inflacion,1988-12,28.3203124986883,%
-inflacion,1989-01,27.8409091063264,%
-inflacion,1989-02,27.1402550028804,%
-inflacion,1989-03,26.5486725832019,%
-inflacion,1989-04,24.8722316797643,%
-inflacion,1989-05,24.958123948878,%
-inflacion,1989-06,23.5294117743454,%
-inflacion,1989-07,23.8709677206164,%
-inflacion,1989-08,25.6865912761025,%
-inflacion,1989-09,26.4423076941842,%
-inflacion,1989-10,26.6982622389237,%
-inflacion,1989-11,27.1028037495802,%
-inflacion,1989-12,26.0273972438443,%
-inflacion,1990-01,26.6666666595916,%
-inflacion,1990-02,27.0773638958189,%
-inflacion,1990-03,27.6923076781271,%
-inflacion,1990-04,27.9672578505544,%
-inflacion,1990-05,28.284182295873,%
-inflacion,1990-06,28.9682539703596,%
-inflacion,1990-07,28.6458333515025,%
-inflacion,1990-08,29.0488431911165,%
-inflacion,1990-09,30.2915082404166,%
-inflacion,1990-10,30.6733166903208,%
-inflacion,1990-11,31.0049019602249,%
-inflacion,1990-12,32.3671497705747,%
-inflacion,1991-01,32.0467836244179,%
-inflacion,1991-02,31.6798196115503,%
-inflacion,1991-03,31.1062431703344,%
-inflacion,1991-04,31.2366737764623,%
-inflacion,1991-05,31.4524556052009,%
-inflacion,1991-06,31.0769230796811,%
-inflacion,1991-07,31.6801619313873,%
-inflacion,1991-08,31.1752988106224,%
-inflacion,1991-09,30.0583657493055,%
-inflacion,1991-10,29.1984732890694,%
-inflacion,1991-11,28.2507015828367,%
-inflacion,1991-12,26.8248175158866,%
-inflacion,1992-01,27.4579273984201,%
-inflacion,1992-02,27.3116438785694,%
-inflacion,1992-03,27.0676691838215,%
-inflacion,1992-04,27.1324126256822,%
-inflacion,1992-05,27.2655007641594,%
-inflacion,1992-06,28.090766806749,%
-inflacion,1992-07,28.3627978015933,%
-inflacion,1992-08,27.7145026130994,%
-inflacion,1992-09,26.8511593083497,%
-inflacion,1992-10,26.3663219588245,%
-inflacion,1992-11,25.6746899629937,%
-inflacion,1992-12,25.1798561590062,%
-inflacion,1993-01,24.8088950442929,%
-inflacion,1993-02,24.6805648419845,%
-inflacion,1993-03,24.1946087783475,%
-inflacion,1993-04,23.0670927056906,%
-inflacion,1993-05,22.236102499027,%
-inflacion,1993-06,21.380574190662,%
-inflacion,1993-07,20.4790419475043,%
-inflacion,1993-08,21.1058264460149,%
-inflacion,1993-09,21.462264153135,%
-inflacion,1993-10,21.6832262098965,%
-inflacion,1993-11,22.4027859105122,%
-inflacion,1993-12,22.5862068846268,%
-inflacion,1994-01,22.4944320579446,%
-inflacion,1994-02,23.0312836938062,%
-inflacion,1994-03,23.4515617118289,%
-inflacion,1994-04,23.9356178243144,%
-inflacion,1994-05,23.8630556582544,%
-inflacion,1994-06,23.1001510036959,%
-inflacion,1994-07,22.6640159570936,%
-inflacion,1994-08,22.3367697248875,%
-inflacion,1994-09,22.3300971137126,%
-inflacion,1994-10,22.3823247192654,%
-inflacion,1994-11,22.1431957930374,%
-inflacion,1994-12,22.59728075985,%
-inflacion,1995-01,21.0454545402743,%
-inflacion,1995-02,20.8680403442843,%
-inflacion,1995-03,21.3121783636498,%
-inflacion,1995-04,21.1562630981086,%
-inflacion,1995-05,21.2871287078971,%
-inflacion,1995-06,21.668029456647,%
-inflacion,1995-07,21.5153970457763,%
-inflacion,1995-08,21.1075441819024,%
-inflacion,1995-09,20.793650748439,%
-inflacion,1995-10,20.525902673394,%
-inflacion,1995-11,20.1475155528442,%
-inflacion,1995-12,19.4646271955523,%
-inflacion,1996-01,20.2403304485159,%
-inflacion,1996-02,20.8197315846579,%
-inflacion,1996-03,20.2191587364371,%
-inflacion,1996-04,19.9170124575885,%
-inflacion,1996-05,19.7959183759992,%
-inflacion,1996-06,19.6908602069978,%
-inflacion,1996-07,20.5735245144138,%
-inflacion,1996-08,21.1398276842624,%
-inflacion,1996-09,21.5505913670931,%
-inflacion,1996-10,21.8495603698702,%
-inflacion,1996-11,21.8739902734289,%
-inflacion,1996-12,21.6389244612869,%
-inflacion,1997-01,20.6433479394458,%
-inflacion,1997-02,19.5737015987967,%
-inflacion,1997-03,18.9356071590758,%
-inflacion,1997-04,18.5409458139173,%
-inflacion,1997-05,18.5973878309047,%
-inflacion,1997-06,18.6973610529561,%
-inflacion,1997-07,17.8926991237223,%
-inflacion,1997-08,17.9431072126031,%
-inflacion,1997-09,17.999999976767,%
-inflacion,1997-10,17.7979690216322,%
-inflacion,1997-11,17.8154825236764,%
-inflacion,1997-12,17.6842105043292,%
-inflacion,1998-01,17.8358788269011,%
-inflacion,1998-02,18.0266131201126,%
-inflacion,1998-03,19.2583436231359,%
-inflacion,1998-04,20.7492094117623,%
-inflacion,1998-05,20.6847019486259,%
-inflacion,1998-06,20.695364238635,%
-inflacion,1998-07,20.2674172828983,%
-inflacion,1998-08,18.9471243129512,%
-inflacion,1998-09,17.8195144486243,%
-inflacion,1998-10,17.1052631728629,%
-inflacion,1998-11,16.3591359083899,%
-inflacion,1998-12,16.6815742433531,%
-inflacion,1999-01,17.1792618727081,%
-inflacion,1999-02,15.3797064512718,%
-inflacion,1999-03,13.4950248735163,%
-inflacion,1999-04,11.1603545648038,%
-inflacion,1999-05,9.99801626328738,%
-inflacion,1999-06,8.95551635796665,%
-inflacion,1999-07,8.77706262959637,%
-inflacion,1999-08,9.28056151609702,%
-inflacion,1999-09,9.33125971287183,%
-inflacion,1999-10,9.31809375949999,%
-inflacion,1999-11,9.64997099252123,%
-inflacion,1999-12,9.23725565678004,%
-inflacion,2000-01,8.24896887843694,%
-inflacion,2000-02,8.90486726405884,%
-inflacion,2000-03,9.73515981287794,%
-inflacion,2000-04,9.96737947735931,%
-inflacion,2000-05,9.99098287816533,%
-inflacion,2000-06,9.67625898337912,%
-inflacion,2000-07,9.3060785216331,%
-inflacion,2000-08,9.09901873060601,%
-inflacion,2000-09,9.19274537865,%
-inflacion,2000-10,8.98458265208317,%
-inflacion,2000-11,8.83597884496303,%
-inflacion,2000-12,8.75438596504015,%
-inflacion,2001-01,8.4863179896786,%
-inflacion,2001-02,8.05823596853985,%
-inflacion,2001-03,7.80625832071287,%
-inflacion,2001-04,7.95978906453287,%
-inflacion,2001-05,7.87014264095096,%
-inflacion,2001-06,7.9370285448876,%
-inflacion,2001-07,8.08727034183578,%
-inflacion,2001-08,8.02943580576472,%
-inflacion,2001-09,7.96287247981016,%
-inflacion,2001-10,8.01626016284405,%
-inflacion,2001-11,7.76211309995127,%
-inflacion,2001-12,7.64639457389884,%
-inflacion,2002-01,7.3754789202582,%
-inflacion,2002-02,6.70531100370493,%
-inflacion,2002-03,5.89779219021038,%
-inflacion,2002-04,5.6632575223529,%
-inflacion,2002-05,5.83675331533768,%
-inflacion,2002-06,6.24430264354363,%
-inflacion,2002-07,6.14660798357616,%
-inflacion,2002-08,5.97941266227964,%
-inflacion,2002-09,5.97285068939104,%
-inflacion,2002-10,6.36760499949516,%
-inflacion,2002-11,7.06766917458461,%
-inflacion,2002-12,6.99835157827724,%
-inflacion,2003-01,7.38923579456521,%
-inflacion,2003-02,7.23829099909961,%
-inflacion,2003-03,7.59585947134935,%
-inflacion,2003-04,7.84455358661422,%
-inflacion,2003-05,7.72655463851561,%
-inflacion,2003-06,7.20720720388488,%
-inflacion,2003-07,7.03460110410778,%
-inflacion,2003-08,7.27038993888602,%
-inflacion,2003-09,7.11642471197054,%
-inflacion,2003-10,6.58080951505438,%
-inflacion,2003-11,6.13764043836251,%
-inflacion,2003-12,6.48459383457853,%
-inflacion,2004-01,6.18856431205377,%
-inflacion,2004-02,6.27053669233086,%
-inflacion,2004-03,6.21951217918886,%
-inflacion,2004-04,5.47890153460409,%
-inflacion,2004-05,5.37261697794711,%
-inflacion,2004-06,6.0690942948779,%
-inflacion,2004-07,6.19823668991082,%
-inflacion,2004-08,5.88548602501784,%
-inflacion,2004-09,5.97927185097882,%
-inflacion,2004-10,5.89563138342304,%
-inflacion,2004-11,5.82241630262765,%
-inflacion,2004-12,5.49782978889113,%
-inflacion,2005-01,5.43676662430077,%
-inflacion,2005-02,5.25637721293906,%
-inflacion,2005-03,5.02615129753818,%
-inflacion,2005-04,5.01651003887102,%
-inflacion,2005-05,5.04807692303335,%
-inflacion,2005-06,4.82897385085235,%
-inflacion,2005-07,4.90566038585913,%
-inflacion,2005-08,4.87927565598079,%
-inflacion,2005-09,5.01504513818081,%
-inflacion,2005-10,5.26645769051162,%
-inflacion,2005-11,5.10191322711437,%
-inflacion,2005-12,4.84976936073527,%
-inflacion,2006-01,4.56287869201208,%
-inflacion,2006-02,4.17380661128999,%
-inflacion,2006-03,4.10542938003688,%
-inflacion,2006-04,4.12383601584494,%
-inflacion,2006-05,4.03468625954602,%
-inflacion,2006-06,3.93474088074024,%
-inflacion,2006-07,4.31654676839854,%
-inflacion,2006-08,4.72422062575464,%
-inflacion,2006-09,4.57258835195047,%
-inflacion,2006-10,4.18106015125586,%
-inflacion,2006-11,4.30696013724368,%
-inflacion,2006-12,4.48275862474297,%
-inflacion,2007-01,4.70671712095021,%
-inflacion,2007-02,5.2520267914604,%
-inflacion,2007-03,5.78695600593502,%
-inflacion,2007-04,6.24854819421332,%
-inflacion,2007-05,6.2282935977648,%
-inflacion,2007-06,6.03647276247565,%
-inflacion,2007-07,5.77011493451061,%
-inflacion,2007-08,5.22097549293752,%
-inflacion,2007-09,5.00057083501684,%
-inflacion,2007-10,5.1680768351958,%
-inflacion,2007-11,5.41804494036784,%
-inflacion,2007-12,5.69022419781144,%
-inflacion,2008-01,5.99728936881696,%
-inflacion,2008-02,6.35186425428578,%
-inflacion,2008-03,5.92257638382927,%
-inflacion,2008-04,5.72802798895657,%
-inflacion,2008-05,6.38622493175001,%
-inflacion,2008-06,7.18406443000144,%
-inflacion,2008-07,7.52010432382695,%
-inflacion,2008-08,7.8672470107519,%
-inflacion,2008-09,7.57855822170741,%
-inflacion,2008-10,7.93650792661829,%
-inflacion,2008-11,7.72560052988174,%
-inflacion,2008-12,7.67739850566649,%
-inflacion,2009-01,7.18167287973928,%
-inflacion,2009-02,6.46583394473319,%
-inflacion,2009-03,6.14327362858518,%
-inflacion,2009-04,5.72787428211792,%
-inflacion,2009-05,4.77361195573784,%
-inflacion,2009-06,3.80826647568411,%
-inflacion,2009-07,3.27471194969902,%
-inflacion,2009-08,3.12720669565214,%
-inflacion,2009-09,3.21406913554756,%
-inflacion,2009-10,2.7195809832991,%
-inflacion,2009-11,2.37042989443661,%
-inflacion,2009-12,2.00000000114617,%
-inflacion,2010-01,2.09762401762659,%
-inflacion,2010-02,2.09011140853599,%
-inflacion,2010-03,1.83441239753566,%
-inflacion,2010-04,1.98513592215719,%
-inflacion,2010-05,2.07274149572958,%
-inflacion,2010-06,2.25004891685188,%
-inflacion,2010-07,2.24114308109435,%
-inflacion,2010-08,2.3085200069177,%
-inflacion,2010-09,2.28162945133858,%
-inflacion,2010-10,2.3337909472853,%
-inflacion,2010-11,2.59026687551775,%
-inflacion,2010-12,3.17647059114365,%
-inflacion,2011-01,3.39824732884524,%
-inflacion,2011-02,3.16755190557021,%
-inflacion,2011-03,3.1885174894525,%
-inflacion,2011-04,2.83823953038609,%
-inflacion,2011-05,3.01724138859716,%
-inflacion,2011-06,3.23383085392059,%
-inflacion,2011-07,3.42682109693018,%
-inflacion,2011-08,3.26991108506134,%
-inflacion,2011-09,3.73384395081391,%
-inflacion,2011-10,4.01494826133295,%
-inflacion,2011-11,3.95944911351507,%
-inflacion,2011-12,3.72481945736811,%
-inflacion,2012-01,3.55024013862606,%
-inflacion,2012-02,3.55705325868354,%
-inflacion,2012-03,3.39805825262194,%
-inflacion,2012-04,3.42191141547692,%
-inflacion,2012-05,3.44026034436666,%
-inflacion,2012-06,3.19740500155745,%
-inflacion,2012-07,3.02637667369305,%
-inflacion,2012-08,3.11082307510993,%
-inflacion,2012-09,3.08260267525309,%
-inflacion,2012-10,3.05849838192194,%
-inflacion,2012-11,2.77828887442795,%
-inflacion,2012-12,2.4367900372354,%
-inflacion,2013-01,1.9916333121301,%
-inflacion,2013-02,1.82590617914979,%
-inflacion,2013-03,1.9140483944492,%
-inflacion,2013-04,2.019473496581,%
-inflacion,2013-05,2.00449438183148,%
-inflacion,2013-06,2.15536596172898,%
-inflacion,2013-07,2.22781171734439,%
-inflacion,2013-08,2.26272784314481,%
-inflacion,2013-09,2.2741516733549,%
-inflacion,2013-10,1.84142308161011,%
-inflacion,2013-11,1.75438595703787,%
-inflacion,2013-12,1.93167590512613,%
-inflacion,2014-01,2.13107445034122,%
-inflacion,2014-02,2.31691077877068,%
-inflacion,2014-03,2.5070871749,%
-inflacion,2014-04,2.72180983282673,%
-inflacion,2014-05,2.93443778289291,%
-inflacion,2014-06,2.77802197598238,%
-inflacion,2014-07,2.89103690757435,%
-inflacion,2014-08,3.02045833192086,%
-inflacion,2014-09,2.85389126618458,%
-inflacion,2014-10,3.29149477608544,%
-inflacion,2014-11,3.65939479091859,%
-inflacion,2014-12,3.65853658597903,%
-inflacion,2015-01,3.81526105010432,%
-inflacion,2015-02,4.35537047347656,%
-inflacion,2015-03,4.55448966959668,%
-inflacion,2015-04,4.63695801557398,%
-inflacion,2015-05,4.40030818747024,%
-inflacion,2015-06,4.42220511615268,%
-inflacion,2015-07,4.45810914606715,%
-inflacion,2015-08,4.74729395597415,%
-inflacion,2015-09,5.35364712109887,%
-inflacion,2015-10,5.89734874529646,%
-inflacion,2015-11,6.39002037038729,%
-inflacion,2015-12,6.77105374889284,%
-inflacion,2016-01,7.45942309463679,%
-inflacion,2016-02,7.5906218766983,%
-inflacion,2016-03,7.97652503831137,%
-inflacion,2016-04,7.93389787985346,%
-inflacion,2016-05,8.20008200549234,%
-inflacion,2016-06,8.60091743000833,%
-inflacion,2016-07,8.96083721390737,%
-inflacion,2016-08,8.09601302489882,%
-inflacion,2016-09,7.270964618628,%
-inflacion,2016-10,6.48371047582548,%
-inflacion,2016-11,5.96633963972117,%
-inflacion,2016-12,5.74712643116833,%
-inflacion,2017-01,5.4703396472682,%
-inflacion,2017-02,5.18507070917202,%
-inflacion,2017-03,4.69264334882127,%
-inflacion,2017-04,4.66179159359601,%
-inflacion,2017-05,4.36528988396143,%
-inflacion,2017-06,3.99004374863132,%
-inflacion,2017-07,3.39911458150963,%
-inflacion,2017-08,3.86902521162167,%
-inflacion,2017-09,3.96897122821303,%
-inflacion,2017-10,4.04672193452273,%
-inflacion,2017-11,4.11742565917486,%
-inflacion,2017-12,4.08545726988698,%
-inflacion,2018-01,3.67292423418104,%
-inflacion,2018-02,3.37202468617839,%
-inflacion,2018-03,3.13688213021364,%
-inflacion,2018-04,3.12954876547615,%
-inflacion,2018-05,3.15881199732393,%
-inflacion,2018-06,3.19866541086371,%
-inflacion,2018-07,3.1204644440108,%
-inflacion,2018-08,3.10167403352342,%
-inflacion,2018-09,3.22346975542482,%
-inflacion,2018-10,3.331643362667,%
-inflacion,2018-11,3.26778484695687,%
-inflacion,2018-12,3.1832913216,%
-inflacion,2019-01,3.15454745878454,%
-inflacion,2019-02,3.01750470151536,%
-inflacion,2019-03,3.21550635451602,%
-inflacion,2019-04,3.25156081775666,%
-inflacion,2019-05,3.31398559085707,%
-inflacion,2019-06,3.42998177697837,%
-inflacion,2019-07,3.78782046362514,%
-inflacion,2019-08,3.7515240235477,%
-inflacion,2019-09,3.82072594858327,%
-inflacion,2019-10,3.86147887579953,%
-inflacion,2019-11,3.84673723324265,%
-inflacion,2019-12,3.80430169999999,%
-inflacion,2020-01,3.62228364581954,%
-inflacion,2020-02,3.72005215648812,%
-inflacion,2020-03,3.85548235563853,%
-inflacion,2020-04,3.50517218128628,%
-inflacion,2020-05,2.85189515370117,%
-inflacion,2020-06,2.19181065835119,%
-inflacion,2020-07,1.96992191616805,%
-inflacion,2020-08,1.87810351674345,%
-inflacion,2020-09,1.96742223338615,%
-inflacion,2020-10,1.74813688037376,%
-inflacion,2020-11,1.48947323778661,%
-inflacion,2020-12,1.61044915540336,%
-inflacion,2021-01,1.59720686460381,%
-inflacion,2021-02,1.56310134775346,%
-inflacion,2021-03,1.50655022467148,%
-inflacion,2021-04,1.94777725198048,%
-inflacion,2021-05,3.29566357419029,%
-inflacion,2021-06,3.63476194421799,%
-inflacion,2021-07,3.97009223665956,%
-inflacion,2021-08,4.44102240784574,%
-inflacion,2021-09,4.51017323729566,%
-inflacion,2021-10,4.58354131793222,%
-inflacion,2021-11,5.25894439562091,%
-inflacion,2021-12,5.62266973804544,%
-inflacion,2022-01,6.94460175549703,%
-inflacion,2022-02,8.00519464150964,%
-inflacion,2022-03,8.52787432690565,%
-inflacion,2022-04,9.23410029154883,%
-inflacion,2022-05,9.06677645303593,%
-inflacion,2022-06,9.67383274318607,%
-inflacion,2022-07,10.2058215193457,%
-inflacion,2022-08,10.8359751597767,%
-inflacion,2022-09,11.4398864403551,%
-inflacion,2022-10,12.2217461289131,%
-inflacion,2022-11,12.5314621839962,%
-inflacion,2022-12,13.1224684435239,%
-inflacion,2023-01,13.2519770514273,%
-inflacion,2023-02,13.2790170070517,%
-inflacion,2023-03,13.3443303064434,%
-inflacion,2023-04,12.8228711527226,%
-inflacion,2023-05,12.3602564862,%
-inflacion,2023-06,12.1296181613053,%
-inflacion,2023-07,11.7849198018094,%
-inflacion,2023-08,11.4273408790904,%
-inflacion,2023-09,10.9943243063569,%
-inflacion,2023-10,10.4786275378957,%
-inflacion,2023-11,10.1486342715276,%
-inflacion,2023-12,9.27605501737612,%
-inflacion,2024-01,8.34656699398246,%
-inflacion,2024-02,7.73738250090317,%
-inflacion,2024-03,7.36268467383314,%
-inflacion,2024-04,7.16328123981274,%
-inflacion,2024-05,7.15692368476275,%
-inflacion,2024-06,7.18246537445368,%
-inflacion,2024-07,6.86004089168271,%
-inflacion,2024-08,6.12045089973279,%
-inflacion,2024-09,5.80877740239469,%
-inflacion,2024-10,5.4061283731073,%
-inflacion,2024-11,5.19736264291843,%
-inflacion,2024-12,5.20306305603935,%
-inflacion,2025-01,5.22297951080448,%
-inflacion,2025-02,5.27658689747956,%
-inflacion,2025-03,5.08999633714244,%
-inflacion,2025-04,5.16229203239937,%
-inflacion,2025-05,5.05210881910925,%
-inflacion,2025-06,4.82006747697801,%
-inflacion,2025-07,4.90046573557554,%
-inflacion,2025-08,5.0955768940371,%
-inflacion,2025-09,5.17673914634065,%
-inflacion,2025-10,5.51222822525461,%
-inflacion,2025-11,5.30107102365152,%
-inflacion,2025-12,5.09988416386877,%
-inflacion,2026-01,5.35360139877563,%
-inflacion,2026-02,5.29003241155257,%
-inflacion,2026-03,5.55891083606566,%
-inflacion,2026-04,5.68131083435663,%
-inflacion,2026-05,5.84207897417337,%
-inflacion,2026-06,6.14275129257538,%
-inflacion,2026-07,6.02629210545529,%
-ipc,1970-01,0.1305270030781,index (2015=100)
-ipc,1970-02,0.1305270030781,index (2015=100)
-ipc,1970-03,0.1305270030781,index (2015=100)
-ipc,1970-04,0.13868494040520002,index (2015=100)
-ipc,1970-05,0.13868494040520002,index (2015=100)
-ipc,1970-06,0.13868494040520002,index (2015=100)
-ipc,1970-07,0.13868494040520002,index (2015=100)
-ipc,1970-08,0.13868494040520002,index (2015=100)
-ipc,1970-09,0.13868494040520002,index (2015=100)
-ipc,1970-10,0.13868494040520002,index (2015=100)
-ipc,1970-11,0.13868494040520002,index (2015=100)
-ipc,1970-12,0.13868494040520002,index (2015=100)
-ipc,1971-01,0.14684287773229998,index (2015=100)
-ipc,1971-02,0.14684287773229998,index (2015=100)
-ipc,1971-03,0.14684287773229998,index (2015=100)
-ipc,1971-04,0.14684287773229998,index (2015=100)
-ipc,1971-05,0.14684287773229998,index (2015=100)
-ipc,1971-06,0.1550008162283,index (2015=100)
-ipc,1971-07,0.1550008162283,index (2015=100)
-ipc,1971-08,0.1550008162283,index (2015=100)
-ipc,1971-09,0.1550008162283,index (2015=100)
-ipc,1971-10,0.1550008162283,index (2015=100)
-ipc,1971-11,0.1631587535554,index (2015=100)
-ipc,1971-12,0.1631587535554,index (2015=100)
-ipc,1972-01,0.1631587535554,index (2015=100)
-ipc,1972-02,0.1631587535554,index (2015=100)
-ipc,1972-03,0.1631587535554,index (2015=100)
-ipc,1972-04,0.17131669088249998,index (2015=100)
-ipc,1972-05,0.17131669088249998,index (2015=100)
-ipc,1972-06,0.17131669088249998,index (2015=100)
-ipc,1972-07,0.17131669088249998,index (2015=100)
-ipc,1972-08,0.17131669088249998,index (2015=100)
-ipc,1972-09,0.1794746293784,index (2015=100)
-ipc,1972-10,0.1794746293784,index (2015=100)
-ipc,1972-11,0.1794746293784,index (2015=100)
-ipc,1972-12,0.1794746293784,index (2015=100)
-ipc,1973-01,0.1876325667056,index (2015=100)
-ipc,1973-02,0.1876325667056,index (2015=100)
-ipc,1973-03,0.19579050403269999,index (2015=100)
-ipc,1973-04,0.20394844135979998,index (2015=100)
-ipc,1973-05,0.2121063798558,index (2015=100)
-ipc,1973-06,0.2121063798558,index (2015=100)
-ipc,1973-07,0.2202643171829,index (2015=100)
-ipc,1973-08,0.2121063798558,index (2015=100)
-ipc,1973-09,0.2202643171829,index (2015=100)
-ipc,1973-10,0.2202643171829,index (2015=100)
-ipc,1973-11,0.22842225451,index (2015=100)
-ipc,1973-12,0.22842225451,index (2015=100)
-ipc,1974-01,0.23658019300600003,index (2015=100)
-ipc,1974-02,0.23658019300600003,index (2015=100)
-ipc,1974-03,0.2447381303331,index (2015=100)
-ipc,1974-04,0.2528960676602,index (2015=100)
-ipc,1974-05,0.2610540049874,index (2015=100)
-ipc,1974-06,0.2610540049874,index (2015=100)
-ipc,1974-07,0.2610540049874,index (2015=100)
-ipc,1974-08,0.2610540049874,index (2015=100)
-ipc,1974-09,0.2692119434833,index (2015=100)
-ipc,1974-10,0.27736988081040004,index (2015=100)
-ipc,1974-11,0.2855278181375,index (2015=100)
-ipc,1974-12,0.2855278181375,index (2015=100)
-ipc,1975-01,0.2936857566335,index (2015=100)
-ipc,1975-02,0.3018436939606,index (2015=100)
-ipc,1975-03,0.3100016312877,index (2015=100)
-ipc,1975-04,0.3181595697837,index (2015=100)
-ipc,1975-05,0.3263175071108,index (2015=100)
-ipc,1975-06,0.3263175071108,index (2015=100)
-ipc,1975-07,0.3263175071108,index (2015=100)
-ipc,1975-08,0.3263175071108,index (2015=100)
-ipc,1975-09,0.3344754444379,index (2015=100)
-ipc,1975-10,0.3344754444379,index (2015=100)
-ipc,1975-11,0.3344754444379,index (2015=100)
-ipc,1975-12,0.3344754444379,index (2015=100)
-ipc,1976-01,0.3426333817651,index (2015=100)
-ipc,1976-02,0.350791320261,index (2015=100)
-ipc,1976-03,0.3589492575881,index (2015=100)
-ipc,1976-04,0.3671071949152,index (2015=100)
-ipc,1976-05,0.3752651334112,index (2015=100)
-ipc,1976-06,0.3834230707383,index (2015=100)
-ipc,1976-07,0.39158100806539997,index (2015=100)
-ipc,1976-08,0.3997389465613,index (2015=100)
-ipc,1976-09,0.4078968838885,index (2015=100)
-ipc,1976-10,0.4078968838885,index (2015=100)
-ipc,1976-11,0.4242127585427,index (2015=100)
-ipc,1976-12,0.4242127585427,index (2015=100)
-ipc,1977-01,0.4323706970387,index (2015=100)
-ipc,1977-02,0.4486865716929,index (2015=100)
-ipc,1977-03,0.47316038484309997,index (2015=100)
-ipc,1977-04,0.5057921353204,index (2015=100)
-ipc,1977-05,0.5221080111434999,index (2015=100)
-ipc,1977-06,0.5384238869666,index (2015=100)
-ipc,1977-07,0.5465818242937001,index (2015=100)
-ipc,1977-08,0.5465818242937001,index (2015=100)
-ipc,1977-09,0.5465818242937001,index (2015=100)
-ipc,1977-10,0.5465818242937001,index (2015=100)
-ipc,1977-11,0.5465818242937001,index (2015=100)
-ipc,1977-12,0.5465818242937001,index (2015=100)
-ipc,1978-01,0.5547397616208001,index (2015=100)
-ipc,1978-02,0.5628976989479999,index (2015=100)
-ipc,1978-03,0.579213574771,index (2015=100)
-ipc,1978-04,0.5873715120981,index (2015=100)
-ipc,1978-05,0.6036873879212,index (2015=100)
-ipc,1978-06,0.6200032637442,index (2015=100)
-ipc,1978-07,0.6200032637442,index (2015=100)
-ipc,1978-08,0.6200032637442,index (2015=100)
-ipc,1978-09,0.6200032637442,index (2015=100)
-ipc,1978-10,0.6363191383985,index (2015=100)
-ipc,1978-11,0.6444770757256,index (2015=100)
-ipc,1978-12,0.6526350142216,index (2015=100)
-ipc,1979-01,0.6689508888758,index (2015=100)
-ipc,1979-02,0.6852667646989,index (2015=100)
-ipc,1979-03,0.7097405778491,index (2015=100)
-ipc,1979-04,0.7260564525033,index (2015=100)
-ipc,1979-05,0.7423723283264,index (2015=100)
-ipc,1979-06,0.7505302656535,index (2015=100)
-ipc,1979-07,0.7586882041495,index (2015=100)
-ipc,1979-08,0.7750040788036999,index (2015=100)
-ipc,1979-09,0.7913199546268,index (2015=100)
-ipc,1979-10,0.7994778919539,index (2015=100)
-ipc,1979-11,0.8239517051041,index (2015=100)
-ipc,1979-12,0.8321096424312,index (2015=100)
-ipc,1980-01,0.8565834555814,index (2015=100)
-ipc,1980-02,0.8647413929084999,index (2015=100)
-ipc,1980-03,0.8810572687316,index (2015=100)
-ipc,1980-04,0.9136890192088999,index (2015=100)
-ipc,1980-05,0.9463207696861999,index (2015=100)
-ipc,1980-06,0.9626366455093001,index (2015=100)
-ipc,1980-07,0.9707945828364,index (2015=100)
-ipc,1980-08,0.9789525213324,index (2015=100)
-ipc,1980-09,0.9952683959865999,index (2015=100)
-ipc,1980-10,1.0115842718097,index (2015=100)
-ipc,1980-11,1.0360580849599,index (2015=100)
-ipc,1980-12,1.0523739596141,index (2015=100)
-ipc,1981-01,1.0768477727643,index (2015=100)
-ipc,1981-02,1.1094795232416002,index (2015=100)
-ipc,1981-03,1.1339533363918,index (2015=100)
-ipc,1981-04,1.1665850868692,index (2015=100)
-ipc,1981-05,1.1910589000193,index (2015=100)
-ipc,1981-06,1.2236906504967,index (2015=100)
-ipc,1981-07,1.2481644636468,index (2015=100)
-ipc,1981-08,1.2644803394699,index (2015=100)
-ipc,1981-09,1.272638276797,index (2015=100)
-ipc,1981-10,1.2889541526201,index (2015=100)
-ipc,1981-11,1.3134279657703,index (2015=100)
-ipc,1981-12,1.3297438404245001,index (2015=100)
-ipc,1982-01,1.3542176535747,index (2015=100)
-ipc,1982-02,1.386849404052,index (2015=100)
-ipc,1982-03,1.4194811556982,index (2015=100)
-ipc,1982-04,1.4521129061754998,index (2015=100)
-ipc,1982-05,1.4929025939798999,index (2015=100)
-ipc,1982-06,1.5255343444572,index (2015=100)
-ipc,1982-07,1.5418502202803,index (2015=100)
-ipc,1982-08,1.5663240334304998,index (2015=100)
-ipc,1982-09,1.5907978465807,index (2015=100)
-ipc,1982-10,1.6152716597308998,index (2015=100)
-ipc,1982-11,1.6397454728811,index (2015=100)
-ipc,1982-12,1.6479034102082,index (2015=100)
-ipc,1983-01,1.6642192848625,index (2015=100)
-ipc,1983-02,1.6886930980125998,index (2015=100)
-ipc,1983-03,1.7213248496588,index (2015=100)
-ipc,1983-04,1.7784304132862998,index (2015=100)
-ipc,1983-05,1.8192201010906999,index (2015=100)
-ipc,1983-06,1.8355359769138002,index (2015=100)
-ipc,1983-07,1.851851851568,index (2015=100)
-ipc,1983-08,1.851851851568,index (2015=100)
-ipc,1983-09,1.860009790064,index (2015=100)
-ipc,1983-10,1.8926415405413,index (2015=100)
-ipc,1983-11,1.9171153536914998,index (2015=100)
-ipc,1983-12,1.9252732910186001,index (2015=100)
-ipc,1984-01,1.9497471041688,index (2015=100)
-ipc,1984-02,1.974220917319,index (2015=100)
-ipc,1984-03,2.0150106051234,index (2015=100)
-ipc,1984-04,2.0558002940967,index (2015=100)
-ipc,1984-05,2.0802741072469,index (2015=100)
-ipc,1984-06,2.1129058577242,index (2015=100)
-ipc,1984-07,2.1373796708744,index (2015=100)
-ipc,1984-08,2.1455376082015,index (2015=100)
-ipc,1984-09,2.1700114213517,index (2015=100)
-ipc,1984-10,2.186327296006,index (2015=100)
-ipc,1984-11,2.2271169849792,index (2015=100)
-ipc,1984-12,2.2760646112796,index (2015=100)
-ipc,1985-01,2.3250122364112,index (2015=100)
-ipc,1985-02,2.3984336758617,index (2015=100)
-ipc,1985-03,2.4718551153123,index (2015=100)
-ipc,1985-04,2.5371186162669,index (2015=100)
-ipc,1985-05,2.6594876820179,index (2015=100)
-ipc,1985-06,2.7084353071494,index (2015=100)
-ipc,1985-07,2.6921194324951996,index (2015=100)
-ipc,1985-08,2.6758035566720997,index (2015=100)
-ipc,1985-09,2.7002773698223,index (2015=100)
-ipc,1985-10,2.7247511829724997,index (2015=100)
-ipc,1985-11,2.7492249961227,index (2015=100)
-ipc,1985-12,2.7900146839272,index (2015=100)
-ipc,1986-01,2.8715940607048,index (2015=100)
-ipc,1986-02,2.9613313759785,index (2015=100)
-ipc,1986-03,3.0347528142602,index (2015=100)
-ipc,1986-04,3.1163321910378996,index (2015=100)
-ipc,1986-05,3.0918583778878,index (2015=100)
-ipc,1986-06,3.0673845647376,index (2015=100)
-ipc,1986-07,3.0673845647376,index (2015=100)
-ipc,1986-08,3.1081742537108,index (2015=100)
-ipc,1986-09,3.1571218800112,index (2015=100)
-ipc,1986-10,3.2223853809658,index (2015=100)
-ipc,1986-11,3.2876488819204996,index (2015=100)
-ipc,1986-12,3.3692282586982003,index (2015=100)
-ipc,1987-01,3.4834393859532,index (2015=100)
-ipc,1987-02,3.5487028880766,index (2015=100)
-ipc,1987-03,3.6465981395086,index (2015=100)
-ipc,1987-04,3.7281775162862996,index (2015=100)
-ipc,1987-05,3.7934410184097,index (2015=100)
-ipc,1987-06,3.8260727688869998,index (2015=100)
-ipc,1987-07,3.8831783325145004,index (2015=100)
-ipc,1987-08,3.8994942083376,index (2015=100)
-ipc,1987-09,3.9484418334691997,index (2015=100)
-ipc,1987-10,4.0218632729197,index (2015=100)
-ipc,1987-11,4.1034426496974,index (2015=100)
-ipc,1987-12,4.176864089147999,index (2015=100)
-ipc,1988-01,4.3073910910572994,index (2015=100)
-ipc,1988-02,4.4787077831086,index (2015=100)
-ipc,1988-03,4.6092347850179,index (2015=100)
-ipc,1988-04,4.7887094143963,index (2015=100)
-ipc,1988-05,4.8702887911740005,index (2015=100)
-ipc,1988-06,4.9926578557562005,index (2015=100)
-ipc,1988-07,5.0579213578796,index (2015=100)
-ipc,1988-08,5.0497634193837,index (2015=100)
-ipc,1988-09,5.0905531083569,index (2015=100)
-ipc,1988-10,5.163974547807499,index (2015=100)
-ipc,1988-11,5.2373959860892,index (2015=100)
-ipc,1988-12,5.3597650518402,index (2015=100)
-ipc,1989-01,5.5066079295725,index (2015=100)
-ipc,1989-02,5.6942404962781,index (2015=100)
-ipc,1989-03,5.8329254366833,index (2015=100)
-ipc,1989-04,5.979768314415599,index (2015=100)
-ipc,1989-05,6.0858215043434996,index (2015=100)
-ipc,1989-06,6.1674008811212,index (2015=100)
-ipc,1989-07,6.2652961325532,index (2015=100)
-ipc,1989-08,6.3468755093309,index (2015=100)
-ipc,1989-09,6.4366128246045,index (2015=100)
-ipc,1989-10,6.5426660145324,index (2015=100)
-ipc,1989-11,6.656877141787399,index (2015=100)
-ipc,1989-12,6.7547723932194,index (2015=100)
-ipc,1990-01,6.975036710402301,index (2015=100)
-ipc,1990-02,7.236090716558401,index (2015=100)
-ipc,1990-03,7.4481970952453995,index (2015=100)
-ipc,1990-04,7.6521455377739995,index (2015=100)
-ipc,1990-05,7.8071463528335,index (2015=100)
-ipc,1990-06,7.9539892317345995,index (2015=100)
-ipc,1990-07,8.0600424216625,index (2015=100)
-ipc,1990-08,8.1905694235718,index (2015=100)
-ipc,1990-09,8.3863599287733,index (2015=100)
-ipc,1990-10,8.549518681159899,index (2015=100)
-ipc,1990-11,8.7208353732112,index (2015=100)
-ipc,1990-12,8.9410996903941,index (2015=100)
-ipc,1991-01,9.2103116327086,index (2015=100)
-ipc,1991-02,9.5284712024922,index (2015=100)
-ipc,1991-03,9.765051395498201,index (2015=100)
-ipc,1991-04,10.0424212763086,index (2015=100)
-ipc,1991-05,10.262685593491499,index (2015=100)
-ipc,1991-06,10.4258443470469,index (2015=100)
-ipc,1991-07,10.6134769125837,index (2015=100)
-ipc,1991-08,10.7440039156618,index (2015=100)
-ipc,1991-09,10.9071626692172,index (2015=100)
-ipc,1991-10,11.045847609622399,index (2015=100)
-ipc,1991-11,11.1845325500276,index (2015=100)
-ipc,1991-12,11.339533366255798,index (2015=100)
-ipc,1992-01,11.739272313986,index (2015=100)
-ipc,1992-02,12.130853324389,index (2015=100)
-ipc,1992-03,12.4082232028618,index (2015=100)
-ipc,1992-04,12.767172454606,index (2015=100)
-ipc,1992-05,13.060858212408199,index (2015=100)
-ipc,1992-06,13.3545439702105,index (2015=100)
-ipc,1992-07,13.6237559090186,index (2015=100)
-ipc,1992-08,13.7216511616194,index (2015=100)
-ipc,1992-09,13.8358622935495,index (2015=100)
-ipc,1992-10,13.9582313534565,index (2015=100)
-ipc,1992-11,14.056126606057301,index (2015=100)
-ipc,1992-12,14.194811556981602,index (2015=100)
-ipc,1993-01,14.6516560613265,index (2015=100)
-ipc,1993-02,15.1248164450008,index (2015=100)
-ipc,1993-03,15.4103442631384,index (2015=100)
-ipc,1993-04,15.7121879606053,index (2015=100)
-ipc,1993-05,15.9650840317719,index (2015=100)
-ipc,1993-06,16.2098221515859,index (2015=100)
-ipc,1993-07,16.4137705964521,index (2015=100)
-ipc,1993-08,16.6177190413183,index (2015=100)
-ipc,1993-09,16.8053516068551,index (2015=100)
-ipc,1993-10,16.984826232727197,index (2015=100)
-ipc,1993-11,17.2050905569228,index (2015=100)
-ipc,1993-12,17.4008810621243,index (2015=100)
-ipc,1994-01,17.947462879405297,index (2015=100)
-ipc,1994-02,18.6082558286164,index (2015=100)
-ipc,1994-03,19.024310658013498,index (2015=100)
-ipc,1994-04,19.4729972226938,index (2015=100)
-ipc,1994-05,19.7748409201607,index (2015=100)
-ipc,1994-06,19.9543155460328,index (2015=100)
-ipc,1994-07,20.1337901835928,index (2015=100)
-ipc,1994-08,20.3295806771064,index (2015=100)
-ipc,1994-09,20.5580029409667,index (2015=100)
-ipc,1994-10,20.7864251931392,index (2015=100)
-ipc,1994-11,21.0148474453116,index (2015=100)
-ipc,1994-12,21.333007010420097,index (2015=100)
-ipc,1995-01,21.7245880208231,index (2015=100)
-ipc,1995-02,22.4914341622997,index (2015=100)
-ipc,1995-03,23.0788056779042,index (2015=100)
-ipc,1995-04,23.5927557482142,index (2015=100)
-ipc,1995-05,23.9843367586172,index (2015=100)
-ipc,1995-06,24.2780225164195,index (2015=100)
-ipc,1995-07,24.4656550819563,index (2015=100)
-ipc,1995-08,24.6206559005221,index (2015=100)
-ipc,1995-09,24.832762273365198,index (2015=100)
-ipc,1995-10,25.0530265975608,index (2015=100)
-ipc,1995-11,25.2488171027623,index (2015=100)
-ipc,1995-12,25.485397294599498,index (2015=100)
-ipc,1996-01,26.121716424816498,index (2015=100)
-ipc,1996-02,27.1740903844306,index (2015=100)
-ipc,1996-03,27.745146032393496,index (2015=100)
-ipc,1996-04,28.291727849674498,index (2015=100)
-ipc,1996-05,28.7322564863779,index (2015=100)
-ipc,1996-06,29.0585739911511,index (2015=100)
-ipc,1996-07,29.4991026278545,index (2015=100)
-ipc,1996-08,29.8254201326277,index (2015=100)
-ipc,1996-09,30.1843693960597,index (2015=100)
-ipc,1996-10,30.527002768474496,index (2015=100)
-ipc,1996-11,30.7717408999764,index (2015=100)
-ipc,1996-12,31.000163163836703,index (2015=100)
-ipc,1997-01,31.514113234146702,index (2015=100)
-ipc,1997-02,32.4930657484663,index (2015=100)
-ipc,1997-03,32.9988578907995,index (2015=100)
-ipc,1997-04,33.5372817801036,index (2015=100)
-ipc,1997-05,34.0757056577199,index (2015=100)
-ipc,1997-06,34.491760487117,index (2015=100)
-ipc,1997-07,34.7772883052545,index (2015=100)
-ipc,1997-08,35.1770272436344,index (2015=100)
-ipc,1997-09,35.6175558803377,index (2015=100)
-ipc,1997-10,35.9601892644404,index (2015=100)
-ipc,1997-11,36.253875022242596,index (2015=100)
-ipc,1997-12,36.482297274415096,index (2015=100)
-ipc,1998-01,37.134932283961504,index (2015=100)
-ipc,1998-02,38.3504650018062,index (2015=100)
-ipc,1998-03,39.3538913351199,index (2015=100)
-ipc,1998-04,40.4960026076701,index (2015=100)
-ipc,1998-05,41.1241638099103,index (2015=100)
-ipc,1998-06,41.6299559522435,index (2015=100)
-ipc,1998-07,41.8257464457571,index (2015=100)
-ipc,1998-08,41.842062325086495,index (2015=100)
-ipc,1998-09,41.9644313966814,index (2015=100)
-ipc,1998-10,42.1112742755825,index (2015=100)
-ipc,1998-11,42.1846957091891,index (2015=100)
-ipc,1998-12,42.568118779927396,index (2015=100)
-ipc,1999-01,43.5144395472761,index (2015=100)
-ipc,1999-02,44.2486539417817,index (2015=100)
-ipc,1999-03,44.664708759491,index (2015=100)
-ipc,1999-04,45.015500083258296,index (2015=100)
-ipc,1999-05,45.235764395766,index (2015=100)
-ipc,1999-06,45.3581334673609,index (2015=100)
-ipc,1999-07,45.4968184065973,index (2015=100)
-ipc,1999-08,45.7252406587698,index (2015=100)
-ipc,1999-09,45.880241477335595,index (2015=100)
-ipc,1999-10,46.0352422959015,index (2015=100)
-ipc,1999-11,46.2555066084092,index (2015=100)
-ipc,1999-12,46.500244739911096,index (2015=100)
-ipc,2000-01,47.1039321231571,index (2015=100)
-ipc,2000-02,48.1889378414301,index (2015=100)
-ipc,2000-03,49.0128895371839,index (2015=100)
-ipc,2000-04,49.5023658001877,index (2015=100)
-ipc,2000-05,49.7552618713542,index (2015=100)
-ipc,2000-06,49.7471039316895,index (2015=100)
-ipc,2000-07,49.7307880523601,index (2015=100)
-ipc,2000-08,49.8857888709259,index (2015=100)
-ipc,2000-09,50.097895255456905,index (2015=100)
-ipc,2000-10,50.1713166890635,index (2015=100)
-ipc,2000-11,50.3426333869587,index (2015=100)
-ipc,2000-12,50.5710556391312,index (2015=100)
-ipc,2001-01,51.101321588770595,index (2015=100)
-ipc,2001-02,52.0721161634255,index (2015=100)
-ipc,2001-03,52.838962304902104,index (2015=100)
-ipc,2001-04,53.442649699836,index (2015=100)
-ipc,2001-05,53.6710719520085,index (2015=100)
-ipc,2001-06,53.69554577100259,index (2015=100)
-ipc,2001-07,53.7526513252798,index (2015=100)
-ipc,2001-08,53.8913362645163,index (2015=100)
-ipc,2001-09,54.0871267697178,index (2015=100)
-ipc,2001-10,54.1931799619832,index (2015=100)
-ipc,2001-11,54.25028552794831,index (2015=100)
-ipc,2001-12,54.4379180934851,index (2015=100)
-ipc,2002-01,54.8702887905238,index (2015=100)
-ipc,2002-02,55.563713498393696,index (2015=100)
-ipc,2002-03,55.955294497108795,index (2015=100)
-ipc,2002-04,56.4692445791067,index (2015=100)
-ipc,2002-05,56.8037200235446,index (2015=100)
-ipc,2002-06,57.0484581550465,index (2015=100)
-ipc,2002-07,57.0566160830233,index (2015=100)
-ipc,2002-08,57.1137216489884,index (2015=100)
-ipc,2002-09,57.3176700938546,index (2015=100)
-ipc,2002-10,57.643987598627895,index (2015=100)
-ipc,2002-11,58.08451623533119,index (2015=100)
-ipc,2002-12,58.2476749935618,index (2015=100)
-ipc,2003-01,58.924783810414404,index (2015=100)
-ipc,2003-02,59.5855767713134,index (2015=100)
-ipc,2003-03,60.20558003388889,index (2015=100)
-ipc,2003-04,60.899004730071006,index (2015=100)
-ipc,2003-05,61.1926904878732,index (2015=100)
-ipc,2003-06,61.1600587409023,index (2015=100)
-ipc,2003-07,61.0703214279662,index (2015=100)
-ipc,2003-08,61.266111921479904,index (2015=100)
-ipc,2003-09,61.3966389327395,index (2015=100)
-ipc,2003-10,61.4374286193751,index (2015=100)
-ipc,2003-11,61.6495349922182,index (2015=100)
-ipc,2003-12,62.02480013497959,index (2015=100)
-ipc,2004-01,62.571381952260595,index (2015=100)
-ipc,2004-02,63.3219122260956,index (2015=100)
-ipc,2004-03,63.9500734166479,index (2015=100)
-ipc,2004-04,64.23560123478549,index (2015=100)
-ipc,2004-05,64.4803393662873,index (2015=100)
-ipc,2004-06,64.8719203766904,index (2015=100)
-ipc,2004-07,64.8556044973609,index (2015=100)
-ipc,2004-08,64.8719203766904,index (2015=100)
-ipc,2004-09,65.0677108818918,index (2015=100)
-ipc,2004-10,65.0595529422271,index (2015=100)
-ipc,2004-11,65.23902756809919,index (2015=100)
-ipc,2004-12,65.4348180733007,index (2015=100)
-ipc,2005-01,65.9732419626048,index (2015=100)
-ipc,2005-02,66.6503507911454,index (2015=100)
-ipc,2005-03,67.16430086145539,index (2015=100)
-ipc,2005-04,67.4579866192576,index (2015=100)
-ipc,2005-05,67.7353564977305,index (2015=100)
-ipc,2005-06,68.0045684482265,index (2015=100)
-ipc,2005-07,68.0372001951974,index (2015=100)
-ipc,2005-08,68.0372001951974,index (2015=100)
-ipc,2005-09,68.3308859529997,index (2015=100)
-ipc,2005-10,68.48588677156549,index (2015=100)
-ipc,2005-11,68.5674661448369,index (2015=100)
-ipc,2005-12,68.60825583147249,index (2015=100)
-ipc,2006-01,68.9835209625461,index (2015=100)
-ipc,2006-02,69.4322075389142,index (2015=100)
-ipc,2006-03,69.921683801918,index (2015=100)
-ipc,2006-04,70.2398433670265,index (2015=100)
-ipc,2006-05,70.4682656191989,index (2015=100)
-ipc,2006-06,70.6803720037298,index (2015=100)
-ipc,2006-07,70.97405776153211,index (2015=100)
-ipc,2006-08,71.2514276400049,index (2015=100)
-ipc,2006-09,71.4553760848711,index (2015=100)
-ipc,2006-10,71.3493228926057,index (2015=100)
-ipc,2006-11,71.52063957881299,index (2015=100)
-ipc,2006-12,71.6837983370436,index (2015=100)
-ipc,2007-01,72.2303801543246,index (2015=100)
-ipc,2007-02,73.0788056807604,index (2015=100)
-ipc,2007-03,73.9680208821439,index (2015=100)
-ipc,2007-04,74.6288138313551,index (2015=100)
-ipc,2007-05,74.8572360952154,index (2015=100)
-ipc,2007-06,74.9469734081514,index (2015=100)
-ipc,2007-07,75.0693424680584,index (2015=100)
-ipc,2007-08,74.9714472154577,index (2015=100)
-ipc,2007-09,75.02855278142279,index (2015=100)
-ipc,2007-10,75.03671072108749,index (2015=100)
-ipc,2007-11,75.3956599728316,index (2015=100)
-ipc,2007-12,75.7627671759284,index (2015=100)
-ipc,2008-01,76.5622450643759,index (2015=100)
-ipc,2008-02,77.72067221625551,index (2015=100)
-ipc,2008-03,78.3488334184957,index (2015=100)
-ipc,2008-04,78.9035731754414,index (2015=100)
-ipc,2008-05,79.63778756994701,index (2015=100)
-ipc,2008-06,80.3312122661291,index (2015=100)
-ipc,2008-07,80.7146353368674,index (2015=100)
-ipc,2008-08,80.8696361554332,index (2015=100)
-ipc,2008-09,80.7146353368674,index (2015=100)
-ipc,2008-10,80.9920052153402,index (2015=100)
-ipc,2008-11,81.2204274792006,index (2015=100)
-ipc,2008-12,81.5793767309447,index (2015=100)
-ipc,2009-01,82.0606950542837,index (2015=100)
-ipc,2009-02,82.745961822489,index (2015=100)
-ipc,2009-03,83.1620166401983,index (2015=100)
-ipc,2009-04,83.42307065102959,index (2015=100)
-ipc,2009-05,83.4393865186711,index (2015=100)
-ipc,2009-06,83.3904388923707,index (2015=100)
-ipc,2009-07,83.3578071453998,index (2015=100)
-ipc,2009-08,83.3985968320354,index (2015=100)
-ipc,2009-09,83.3088595190994,index (2015=100)
-ipc,2009-10,83.1946483871692,index (2015=100)
-ipc,2009-11,83.1457007725567,index (2015=100)
-ipc,2009-12,83.21096426649859,index (2015=100)
-ipc,2010-01,83.7820199027737,index (2015=100)
-ipc,2010-02,84.4754446106437,index (2015=100)
-ipc,2010-03,84.6875509834867,index (2015=100)
-ipc,2010-04,85.0791319938897,index (2015=100)
-ipc,2010-05,85.1688693068258,index (2015=100)
-ipc,2010-06,85.2667645594265,index (2015=100)
-ipc,2010-07,85.2259748727909,index (2015=100)
-ipc,2010-08,85.3238701253916,index (2015=100)
-ipc,2010-09,85.2096589934614,index (2015=100)
-ipc,2010-10,85.13623755985479,index (2015=100)
-ipc,2010-11,85.2993963180854,index (2015=100)
-ipc,2010-12,85.854136075031,index (2015=100)
-ipc,2011-01,86.6291401561723,index (2015=100)
-ipc,2011-02,87.151248166147,index (2015=100)
-ipc,2011-03,87.38782835798419,index (2015=100)
-ipc,2011-04,87.4938815502497,index (2015=100)
-ipc,2011-05,87.73861968175149,index (2015=100)
-ipc,2011-06,88.0241474998891,index (2015=100)
-ipc,2011-07,88.1465165597961,index (2015=100)
-ipc,2011-08,88.1138848128251,index (2015=100)
-ipc,2011-09,88.391254691298,index (2015=100)
-ipc,2011-10,88.5544134495285,index (2015=100)
-ipc,2011-11,88.6767825094355,index (2015=100)
-ipc,2011-12,89.0520476405091,index (2015=100)
-ipc,2012-01,89.70468266174339,index (2015=100)
-ipc,2012-02,90.2512644790244,index (2015=100)
-ipc,2012-03,90.3573176712898,index (2015=100)
-ipc,2012-04,90.48784467086149,index (2015=100)
-ipc,2012-05,90.7570566213575,index (2015=100)
-ipc,2012-06,90.8386359946289,index (2015=100)
-ipc,2012-07,90.8141621756347,index (2015=100)
-ipc,2012-08,90.8549518739583,index (2015=100)
-ipc,2012-09,91.1160058731017,index (2015=100)
-ipc,2012-10,91.2628487520028,index (2015=100)
-ipc,2012-11,91.1404796920958,index (2015=100)
-ipc,2012-12,91.2220590653671,index (2015=100)
-ipc,2013-01,91.4912710041753,index (2015=100)
-ipc,2013-02,91.89916789390769,index (2015=100)
-ipc,2013-03,92.08680045944449,index (2015=100)
-ipc,2013-04,92.315222711617,index (2015=100)
-ipc,2013-05,92.5762767224482,index (2015=100)
-ipc,2013-06,92.79654103495601,index (2015=100)
-ipc,2013-07,92.8373307215916,index (2015=100)
-ipc,2013-08,92.9107521668861,index (2015=100)
-ipc,2013-09,93.188122045359,index (2015=100)
-ipc,2013-10,92.9433839138571,index (2015=100)
-ipc,2013-11,92.7394354689909,index (2015=100)
-ipc,2013-12,92.9841736004928,index (2015=100)
-ipc,2014-01,93.4410181048377,index (2015=100)
-ipc,2014-02,94.0283896204422,index (2015=100)
-ipc,2014-03,94.395496823539,index (2015=100)
-ipc,2014-04,94.8278675205776,index (2015=100)
-ipc,2014-05,95.2928699645872,index (2015=100)
-ipc,2014-06,95.37444933785861,index (2015=100)
-ipc,2014-07,95.5212922167597,index (2015=100)
-ipc,2014-08,95.71708272196119,index (2015=100)
-ipc,2014-09,95.8476097215329,index (2015=100)
-ipc,2014-10,96.0026105400987,index (2015=100)
-ipc,2014-11,96.1331375396705,index (2015=100)
-ipc,2014-12,96.38603361083699,index (2015=100)
-ipc,2015-01,97.0060368734125,index (2015=100)
-ipc,2015-02,98.1236743386564,index (2015=100)
-ipc,2015-03,98.6947299749315,index (2015=100)
-ipc,2015-04,99.2249959245709,index (2015=100)
-ipc,2015-05,99.4860499237143,index (2015=100)
-ipc,2015-06,99.5921031159798,index (2015=100)
-ipc,2015-07,99.7797356815166,index (2015=100)
-ipc,2015-08,100.261054004856,index (2015=100)
-ipc,2015-09,100.978952520032,index (2015=100)
-ipc,2015-10,101.66421928823699,index (2015=100)
-ipc,2015-11,102.276064611148,index (2015=100)
-ipc,2015-12,102.912383753053,index (2015=100)
-ipc,2016-01,104.24212759113999,index (2015=100)
-ipc,2016-02,105.57187142922699,index (2015=100)
-ipc,2016-03,106.567139822876,index (2015=100)
-ipc,2016-04,107.097405772515,index (2015=100)
-ipc,2016-05,107.64398760148399,index (2015=100)
-ipc,2016-06,108.157937671794,index (2015=100)
-ipc,2016-07,108.720835368404,index (2015=100)
-ipc,2016-08,108.37820199599,index (2015=100)
-ipc,2016-09,108.32109643002501,index (2015=100)
-ipc,2016-10,108.255832924395,index (2015=100)
-ipc,2016-11,108.37820199599,index (2015=100)
-ipc,2016-12,108.82688856067,index (2015=100)
-ipc,2017-01,109.944526025914,index (2015=100)
-ipc,2017-02,111.04584761182801,index (2015=100)
-ipc,2017-03,111.567955621803,index (2015=100)
-ipc,2017-04,112.090063631778,index (2015=100)
-ipc,2017-05,112.34295970294399,index (2015=100)
-ipc,2017-06,112.473486702516,index (2015=100)
-ipc,2017-07,112.416381136551,index (2015=100)
-ipc,2017-08,112.571381955117,index (2015=100)
-ipc,2017-09,112.62032958141698,index (2015=100)
-ipc,2017-10,112.63664546074601,index (2015=100)
-ipc,2017-11,112.840593893925,index (2015=100)
-ipc,2017-12,113.27296459096301,index (2015=100)
-ipc,2018-01,113.982705166475,index (2015=100)
-ipc,2018-02,114.79034100627501,index (2015=100)
-ipc,2018-03,115.06771088474801,index (2015=100)
-ipc,2018-04,115.597976834387,index (2015=100)
-ipc,2018-05,115.89166259218999,index (2015=100)
-ipc,2018-06,116.07113721806199,index (2015=100)
-ipc,2018-07,115.92429433916101,index (2015=100)
-ipc,2018-08,116.062979278397,index (2015=100)
-ipc,2018-09,116.250611843934,index (2015=100)
-ipc,2018-10,116.38929678317,index (2015=100)
-ipc,2018-11,116.52798172240699,index (2015=100)
+inflacion,1982-03,25.1798561151079,%
+inflacion,1982-04,24.4755244755245,%
+inflacion,1982-05,25.3424657534247,%
+inflacion,1982-06,24.6666666666667,%
+inflacion,1982-07,23.5294117647059,%
+inflacion,1982-08,23.8709677419355,%
+inflacion,1982-09,25.0,%
+inflacion,1982-10,25.3164556962025,%
+inflacion,1982-11,24.8447204968944,%
+inflacion,1982-12,23.9263803680982,%
+inflacion,1983-01,22.8915662650602,%
+inflacion,1983-02,21.764705882353,%
+inflacion,1983-03,21.264367816092,%
+inflacion,1983-04,22.4719101123596,%
+inflacion,1983-05,21.8579234972678,%
+inflacion,1983-06,20.3208556149733,%
+inflacion,1983-07,20.1058201058201,%
+inflacion,1983-08,18.2291666666667,%
+inflacion,1983-09,16.9230769230769,%
+inflacion,1983-10,17.1717171717171,%
+inflacion,1983-11,16.9154228855722,%
+inflacion,1983-12,16.8316831683168,%
+inflacion,1984-01,17.156862745098,%
+inflacion,1984-02,16.9082125603865,%
+inflacion,1984-03,17.0616113744076,%
+inflacion,1984-04,15.5963302752294,%
+inflacion,1984-05,14.3497757847533,%
+inflacion,1984-06,15.1111111111111,%
+inflacion,1984-07,15.4185022026432,%
+inflacion,1984-08,15.8590308370044,%
+inflacion,1984-09,16.6666666666667,%
+inflacion,1984-10,15.5172413793104,%
+inflacion,1984-11,16.1702127659574,%
+inflacion,1984-12,18.2203389830508,%
+inflacion,1985-01,19.2468619246862,%
+inflacion,1985-02,21.4876033057851,%
+inflacion,1985-03,22.6720647773279,%
+inflacion,1985-04,23.4126984126984,%
+inflacion,1985-05,27.843137254902,%
+inflacion,1985-06,28.1853281853282,%
+inflacion,1985-07,25.9541984732824,%
+inflacion,1985-08,24.7148288973384,%
+inflacion,1985-09,24.4360902255639,%
+inflacion,1985-10,24.6268656716418,%
+inflacion,1985-11,23.4432234432234,%
+inflacion,1985-12,22.5806451612903,%
+inflacion,1986-01,23.5087719298245,%
+inflacion,1986-02,23.469387755102,%
+inflacion,1986-03,22.7722772277228,%
+inflacion,1986-04,22.8295819935691,%
+inflacion,1986-05,16.2576687116565,%
+inflacion,1986-06,13.2530120481928,%
+inflacion,1986-07,13.9393939393939,%
+inflacion,1986-08,16.1585365853659,%
+inflacion,1986-09,16.9184290030212,%
+inflacion,1986-10,18.2634730538922,%
+inflacion,1986-11,19.5845697329377,%
+inflacion,1986-12,20.7602339181286,%
+inflacion,1987-01,21.3068181818182,%
+inflacion,1987-02,19.8347107438016,%
+inflacion,1987-03,20.1612903225806,%
+inflacion,1987-04,19.6335078534031,%
+inflacion,1987-05,22.6912928759895,%
+inflacion,1987-06,24.7340425531915,%
+inflacion,1987-07,26.5957446808511,%
+inflacion,1987-08,25.4593175853018,%
+inflacion,1987-09,25.0645994832041,%
+inflacion,1987-10,24.8101265822785,%
+inflacion,1987-11,24.8138957816377,%
+inflacion,1987-12,23.9709443099274,%
+inflacion,1988-01,23.6533957845433,%
+inflacion,1988-02,26.2068965517241,%
+inflacion,1988-03,26.3982102908278,%
+inflacion,1988-04,28.4463894967177,%
+inflacion,1988-05,28.3870967741935,%
+inflacion,1988-06,30.4904051172708,%
+inflacion,1988-07,30.2521008403362,%
+inflacion,1988-08,29.4979079497908,%
+inflacion,1988-09,28.9256198347107,%
+inflacion,1988-10,28.3975659229209,%
+inflacion,1988-11,27.6341948310139,%
+inflacion,1988-12,28.3203125,%
+inflacion,1989-01,27.8409090909091,%
+inflacion,1989-02,27.1402550091075,%
+inflacion,1989-03,26.5486725663717,%
+inflacion,1989-04,24.8722316865417,%
+inflacion,1989-05,24.9581239530988,%
+inflacion,1989-06,23.5294117647059,%
+inflacion,1989-07,23.8709677419355,%
+inflacion,1989-08,25.686591276252,%
+inflacion,1989-09,26.4423076923077,%
+inflacion,1989-10,26.6982622432859,%
+inflacion,1989-11,27.1028037383177,%
+inflacion,1989-12,26.027397260274,%
+inflacion,1990-01,26.6666666666667,%
+inflacion,1990-02,27.0773638968481,%
+inflacion,1990-03,27.6923076923077,%
+inflacion,1990-04,27.9672578444748,%
+inflacion,1990-05,28.2841823056301,%
+inflacion,1990-06,28.968253968254,%
+inflacion,1990-07,28.6458333333333,%
+inflacion,1990-08,29.0488431876606,%
+inflacion,1990-09,30.2915082382763,%
+inflacion,1990-10,30.6733167082294,%
+inflacion,1990-11,31.0049019607843,%
+inflacion,1990-12,32.3671497584541,%
+inflacion,1991-01,32.046783625731,%
+inflacion,1991-02,31.6798196166855,%
+inflacion,1991-03,31.1062431544359,%
+inflacion,1991-04,31.2366737739872,%
+inflacion,1991-05,31.4524555903866,%
+inflacion,1991-06,31.0769230769231,%
+inflacion,1991-07,31.6801619433198,%
+inflacion,1991-08,31.1752988047809,%
+inflacion,1991-09,30.0583657587549,%
+inflacion,1991-10,29.1984732824427,%
+inflacion,1991-11,28.2507015902713,%
+inflacion,1991-12,26.8248175182482,%
+inflacion,1992-01,27.4579273693534,%
+inflacion,1992-02,27.3116438356164,%
+inflacion,1992-03,27.0676691729324,%
+inflacion,1992-04,27.1324126726239,%
+inflacion,1992-05,27.2655007949126,%
+inflacion,1992-06,28.0907668231612,%
+inflacion,1992-07,28.3627978478094,%
+inflacion,1992-08,27.7145026575551,%
+inflacion,1992-09,26.8511593118923,%
+inflacion,1992-10,26.3663220088626,%
+inflacion,1992-11,25.6746900072939,%
+inflacion,1992-12,25.1798561151079,%
+inflacion,1993-01,24.8088950660181,%
+inflacion,1993-02,24.6805648957633,%
+inflacion,1993-03,24.1946088099934,%
+inflacion,1993-04,23.0670926517572,%
+inflacion,1993-05,22.2361024359775,%
+inflacion,1993-06,21.3805742211362,%
+inflacion,1993-07,20.4790419161677,%
+inflacion,1993-08,21.1058263971462,%
+inflacion,1993-09,21.4622641509434,%
+inflacion,1993-10,21.6832261835184,%
+inflacion,1993-11,22.4027858386535,%
+inflacion,1993-12,22.5862068965517,%
+inflacion,1994-01,22.4944320712695,%
+inflacion,1994-02,23.0312837108954,%
+inflacion,1994-03,23.4515616728428,%
+inflacion,1994-04,23.9356178608515,%
+inflacion,1994-05,23.8630556974962,%
+inflacion,1994-06,23.100150981379,%
+inflacion,1994-07,22.6640159045726,%
+inflacion,1994-08,22.3367697594502,%
+inflacion,1994-09,22.3300970873787,%
+inflacion,1994-10,22.3823246878002,%
+inflacion,1994-11,22.1431958274063,%
+inflacion,1994-12,22.5972808251289,%
+inflacion,1995-01,21.0454545454545,%
+inflacion,1995-02,20.8680403331872,%
+inflacion,1995-03,21.3121783876501,%
+inflacion,1995-04,21.156263091747,%
+inflacion,1995-05,21.2871287128713,%
+inflacion,1995-06,21.6680294358136,%
+inflacion,1995-07,21.515397082658,%
+inflacion,1995-08,21.107544141252,%
+inflacion,1995-09,20.7936507936508,%
+inflacion,1995-10,20.5259026687598,%
+inflacion,1995-11,20.1475155279503,%
+inflacion,1995-12,19.4646271510516,%
+inflacion,1996-01,20.2403304543748,%
+inflacion,1996-02,20.8197315923105,%
+inflacion,1996-03,20.2191587133262,%
+inflacion,1996-04,19.9170124481328,%
+inflacion,1996-05,19.7959183673469,%
+inflacion,1996-06,19.6908602150538,%
+inflacion,1996-07,20.5735245081694,%
+inflacion,1996-08,21.1398277004639,%
+inflacion,1996-09,21.550591327201,%
+inflacion,1996-10,21.8495604037773,%
+inflacion,1996-11,21.8739903069467,%
+inflacion,1996-12,21.6389244558258,%
+inflacion,1997-01,20.6433479075578,%
+inflacion,1997-02,19.5737015911138,%
+inflacion,1997-03,18.9356071743605,%
+inflacion,1997-04,18.5409457900807,%
+inflacion,1997-05,18.5973878478137,%
+inflacion,1997-06,18.6973610331275,%
+inflacion,1997-07,17.8926991150442,%
+inflacion,1997-08,17.9431072210065,%
+inflacion,1997-09,18.0,%
+inflacion,1997-10,17.7979690005345,%
+inflacion,1997-11,17.8154825026511,%
+inflacion,1997-12,17.6842105263158,%
+inflacion,1998-01,17.8358788506342,%
+inflacion,1998-02,18.0266131056992,%
+inflacion,1998-03,19.2583436341162,%
+inflacion,1998-04,20.749209438093,%
+inflacion,1998-05,20.6847019391908,%
+inflacion,1998-06,20.6953642384106,%
+inflacion,1998-07,20.2674173117523,%
+inflacion,1998-08,18.9471243042672,%
+inflacion,1998-09,17.8195144296839,%
+inflacion,1998-10,17.1052631578947,%
+inflacion,1998-11,16.3591359135913,%
+inflacion,1998-12,16.6815742397138,%
+inflacion,1999-01,17.1792618629174,%
+inflacion,1999-02,15.3797064454371,%
+inflacion,1999-03,13.4950248756219,%
+inflacion,1999-04,11.16035455278,%
+inflacion,1999-05,9.99801626661379,%
+inflacion,1999-06,8.95551636292378,%
+inflacion,1999-07,8.77706260971329,%
+inflacion,1999-08,9.2805615129655,%
+inflacion,1999-09,9.33125972006223,%
+inflacion,1999-10,9.3180937621077,%
+inflacion,1999-11,9.64997099207117,%
+inflacion,1999-12,9.2372556535071,%
+inflacion,2000-01,8.24896887889015,%
+inflacion,2000-02,8.90486725663717,%
+inflacion,2000-03,9.73515981735158,%
+inflacion,2000-04,9.96737948532078,%
+inflacion,2000-05,9.99098286744815,%
+inflacion,2000-06,9.67625899280575,%
+inflacion,2000-07,9.30607853684777,%
+inflacion,2000-08,9.09901873327386,%
+inflacion,2000-09,9.19274537695589,%
+inflacion,2000-10,8.98458266879321,%
+inflacion,2000-11,8.83597883597884,%
+inflacion,2000-12,8.75438596491229,%
+inflacion,2001-01,8.4863179771389,%
+inflacion,2001-02,8.05823599119688,%
+inflacion,2001-03,7.80625832223703,%
+inflacion,2001-04,7.95978905735004,%
+inflacion,2001-05,7.87014264633548,%
+inflacion,2001-06,7.93702853394553,%
+inflacion,2001-07,8.08727034120733,%
+inflacion,2001-08,8.02943581357318,%
+inflacion,2001-09,7.96287249633609,%
+inflacion,2001-10,8.01626016260164,%
+inflacion,2001-11,7.76211310970669,%
+inflacion,2001-12,7.64639457977094,%
+inflacion,2002-01,7.37547892720309,%
+inflacion,2002-02,6.70531098229672,%
+inflacion,2002-03,5.89779218774125,%
+inflacion,2002-04,5.66325751793617,%
+inflacion,2002-05,5.83675330597353,%
+inflacion,2002-06,6.24430264357339,%
+inflacion,2002-07,6.14660798300197,%
+inflacion,2002-08,5.97941265516198,%
+inflacion,2002-09,5.97285067873303,%
+inflacion,2002-10,6.36760499774196,%
+inflacion,2002-11,7.06766917293231,%
+inflacion,2002-12,6.9983515660123,%
+inflacion,2003-01,7.38923580136781,%
+inflacion,2003-02,7.2382909998532,%
+inflacion,2003-03,7.595859454731,%
+inflacion,2003-04,7.84455359722624,%
+inflacion,2003-05,7.72655464598595,%
+inflacion,2003-06,7.20720720720718,%
+inflacion,2003-07,7.03460108664571,%
+inflacion,2003-08,7.27038994429365,%
+inflacion,2003-09,7.1164247082266,%
+inflacion,2003-10,6.58080951033115,%
+inflacion,2003-11,6.13764044943821,%
+inflacion,2003-12,6.48459383753499,%
+inflacion,2004-01,6.18856430845909,%
+inflacion,2004-02,6.27053669222342,%
+inflacion,2004-03,6.21951219512196,%
+inflacion,2004-04,5.47890154052242,%
+inflacion,2004-05,5.37261698440208,%
+inflacion,2004-06,6.06909430438842,%
+inflacion,2004-07,6.19823670852258,%
+inflacion,2004-08,5.88548601864181,%
+inflacion,2004-09,5.97927185756044,%
+inflacion,2004-10,5.89563139025364,%
+inflacion,2004-11,5.82241630276565,%
+inflacion,2004-12,5.49782980402473,%
+inflacion,2005-01,5.43676662320729,%
+inflacion,2005-02,5.25637722236538,%
+inflacion,2005-03,5.02615129480801,%
+inflacion,2005-04,5.01651003302006,%
+inflacion,2005-05,5.04807692307692,%
+inflacion,2005-06,4.82897384305836,%
+inflacion,2005-07,4.90566037735849,%
+inflacion,2005-08,4.87927565392356,%
+inflacion,2005-09,5.0150451354062,%
+inflacion,2005-10,5.26645768025078,%
+inflacion,2005-11,5.10191321745654,%
+inflacion,2005-12,4.84976935544199,%
+inflacion,2006-01,4.56287869420058,%
+inflacion,2006-02,4.17380660954711,%
+inflacion,2006-03,4.10542936961009,%
+inflacion,2006-04,4.1238360140283,%
+inflacion,2006-05,4.03468625797907,%
+inflacion,2006-06,3.93474088291745,%
+inflacion,2006-07,4.31654676258992,%
+inflacion,2006-08,4.7242206235012,%
+inflacion,2006-09,4.57258834765999,%
+inflacion,2006-10,4.18106015485409,%
+inflacion,2006-11,4.30696014277214,%
+inflacion,2006-12,4.48275862068963,%
+inflacion,2007-01,4.70671712393564,%
+inflacion,2007-02,5.25202678886147,%
+inflacion,2007-03,5.78695601446739,%
+inflacion,2007-04,6.2485481997677,%
+inflacion,2007-05,6.22829358647834,%
+inflacion,2007-06,6.03647276084951,%
+inflacion,2007-07,5.77011494252873,%
+inflacion,2007-08,5.22097549805358,%
+inflacion,2007-09,5.00057084142025,%
+inflacion,2007-10,5.16807683512464,%
+inflacion,2007-11,5.41804494125699,%
+inflacion,2007-12,5.69022419483329,%
+inflacion,2008-01,5.99728936074091,%
+inflacion,2008-02,6.35186425541414,%
+inflacion,2008-03,5.92257637586853,%
+inflacion,2008-04,5.72802798425884,%
+inflacion,2008-05,6.38622493461205,%
+inflacion,2008-06,7.18406443888104,%
+inflacion,2008-07,7.52010432514671,%
+inflacion,2008-08,7.86724700761696,%
+inflacion,2008-09,7.57855822550835,%
+inflacion,2008-10,7.93650793650795,%
+inflacion,2008-11,7.7256005193681,%
+inflacion,2008-12,7.67739851405191,%
+inflacion,2009-01,7.18167288225895,%
+inflacion,2009-02,6.46583394562823,%
+inflacion,2009-03,6.14327363598504,%
+inflacion,2009-04,5.72787427626138,%
+inflacion,2009-05,4.77361196476132,%
+inflacion,2009-06,3.80826647709962,%
+inflacion,2009-07,3.27471194663431,%
+inflacion,2009-08,3.127206698275,%
+inflacion,2009-09,3.21406913280775,%
+inflacion,2009-10,2.71958098307814,%
+inflacion,2009-11,2.3704298915227,%
+inflacion,2009-12,2.0,%
+inflacion,2010-01,2.09762401829205,%
+inflacion,2010-02,2.09011140688158,%
+inflacion,2010-03,1.83441239945066,%
+inflacion,2010-04,1.9851359280266,%
+inflacion,2010-05,2.07274149393821,%
+inflacion,2010-06,2.25004891410683,%
+inflacion,2010-07,2.24114308083774,%
+inflacion,2010-08,2.30852000391275,%
+inflacion,2010-09,2.28162945554249,%
+inflacion,2010-10,2.33379093939987,%
+inflacion,2010-11,2.59026687598116,%
+inflacion,2010-12,3.17647058823529,%
+inflacion,2011-01,3.39824732229796,%
+inflacion,2011-02,3.16755190729117,%
+inflacion,2011-03,3.18851748386475,%
+inflacion,2011-04,2.83823952440312,%
+inflacion,2011-05,3.01724137931034,%
+inflacion,2011-06,3.23383084577114,%
+inflacion,2011-07,3.42682109696562,%
+inflacion,2011-08,3.26991108136532,%
+inflacion,2011-09,3.73384394447103,%
+inflacion,2011-10,4.01494825603679,%
+inflacion,2011-11,3.9594491201224,%
+inflacion,2011-12,3.72481946028127,%
+inflacion,2012-01,3.55024013560599,%
+inflacion,2012-02,3.55705326219229,%
+inflacion,2012-03,3.39805825242721,%
+inflacion,2012-04,3.42191142191144,%
+inflacion,2012-05,3.44026034402605,%
+inflacion,2012-06,3.19740500463395,%
+inflacion,2012-07,3.02637667746415,%
+inflacion,2012-08,3.1108230719378,%
+inflacion,2012-09,3.08260267651133,%
+inflacion,2012-10,3.05849838783971,%
+inflacion,2012-11,2.77828886844529,%
+inflacion,2012-12,2.43679003297912,%
+inflacion,2013-01,1.99163332120771,%
+inflacion,2013-02,1.82590617373226,%
+inflacion,2013-03,1.91404839292162,%
+inflacion,2013-04,2.01947349441038,%
+inflacion,2013-05,2.00449438202248,%
+inflacion,2013-06,2.15536596317916,%
+inflacion,2013-07,2.2278117139777,%
+inflacion,2013-08,2.26272784412318,%
+inflacion,2013-09,2.27415166980034,%
+inflacion,2013-10,1.84142308036113,%
+inflacion,2013-11,1.75438596491226,%
+inflacion,2013-12,1.93167590770882,%
+inflacion,2014-01,2.13107445385645,%
+inflacion,2014-02,2.31691078561918,%
+inflacion,2014-03,2.50708717221828,%
+inflacion,2014-04,2.72180982679391,%
+inflacion,2014-05,2.93443778639406,%
+inflacion,2014-06,2.77802197802197,%
+inflacion,2014-07,2.89103690685413,%
+inflacion,2014-08,3.02045833699183,%
+inflacion,2014-09,2.85389127199509,%
+inflacion,2014-10,3.29149477749495,%
+inflacion,2014-11,3.65939479239972,%
+inflacion,2014-12,3.65853658536583,%
+inflacion,2015-01,3.81526104417669,%
+inflacion,2015-02,4.35537046677077,%
+inflacion,2015-03,4.55448967245702,%
+inflacion,2015-04,4.63695801789403,%
+inflacion,2015-05,4.40030819279174,%
+inflacion,2015-06,4.42220511504576,%
+inflacion,2015-07,4.45810914681015,%
+inflacion,2015-08,4.74729395721469,%
+inflacion,2015-09,5.35364711890374,%
+inflacion,2015-10,5.89734874235215,%
+inflacion,2015-11,6.39002036659877,%
+inflacion,2015-12,6.7710537452391,%
+inflacion,2016-01,7.45942309309562,%
+inflacion,2016-02,7.59062188227468,%
+inflacion,2016-03,7.97652504546205,%
+inflacion,2016-04,7.93389788703442,%
+inflacion,2016-05,8.20008200081999,%
+inflacion,2016-06,8.60091743119267,%
+inflacion,2016-07,8.96083721690788,%
+inflacion,2016-08,8.09601301871441,%
+inflacion,2016-09,7.2709646146389,%
+inflacion,2016-10,6.48371047985876,%
+inflacion,2016-11,5.96633963468134,%
+inflacion,2016-12,5.74712643678164,%
+inflacion,2017-01,5.47033964626704,%
+inflacion,2017-02,5.18507070550964,%
+inflacion,2017-03,4.69264334379547,%
+inflacion,2017-04,4.66179159049362,%
+inflacion,2017-05,4.36528988253126,%
+inflacion,2017-06,3.99004374717151,%
+inflacion,2017-07,3.39911457942521,%
+inflacion,2017-08,3.86902521640948,%
+inflacion,2017-09,3.96897123060702,%
+inflacion,2017-10,4.04672192916353,%
+inflacion,2017-11,4.11742566804667,%
+inflacion,2017-12,4.08545727136431,%
+inflacion,2018-01,3.67292424129997,%
+inflacion,2018-02,3.37202468410225,%
+inflacion,2018-03,3.13688212927759,%
+inflacion,2018-04,3.12954876273652,%
+inflacion,2018-05,3.15881199622394,%
+inflacion,2018-06,3.19866540944367,%
+inflacion,2018-07,3.12046444121914,%
+inflacion,2018-08,3.10167403435031,%
+inflacion,2018-09,3.2234697573343,%
+inflacion,2018-10,3.33164336930543,%
+inflacion,2018-11,3.26778484673222,%
+inflacion,2018-12,3.18329132157005,%
+inflacion,2019-01,3.15454743977042,%
+inflacion,2019-02,3.01750469829964,%
+inflacion,2019-03,3.21550639002934,%
+inflacion,2019-04,3.25156077763336,%
+inflacion,2019-05,3.31398558021094,%
+inflacion,2019-06,3.42998173651445,%
+inflacion,2019-07,3.78782047864574,%
+inflacion,2019-08,3.75152404186347,%
+inflacion,2019-09,3.82072598225942,%
+inflacion,2019-10,3.86147884330337,%
+inflacion,2019-11,3.84673718249251,%
+inflacion,2019-12,3.80430167110288,%
+inflacion,2020-01,3.6222836949845,%
+inflacion,2020-02,3.72005219633331,%
+inflacion,2020-03,3.85548229191308,%
+inflacion,2020-04,3.5051722008304,%
+inflacion,2020-05,2.85189517890849,%
+inflacion,2020-06,2.19181067134775,%
+inflacion,2020-07,1.96992194108829,%
+inflacion,2020-08,1.87810345850665,%
+inflacion,2020-09,1.96742220417385,%
+inflacion,2020-10,1.74813688651172,%
+inflacion,2020-11,1.48947331084346,%
+inflacion,2020-12,1.61044914690229,%
+inflacion,2021-01,1.59720681361124,%
+inflacion,2021-02,1.56310133159396,%
+inflacion,2021-03,1.50655030120708,%
+inflacion,2021-04,1.94777731437288,%
+inflacion,2021-05,3.29566353995829,%
+inflacion,2021-06,3.6347619565581,%
+inflacion,2021-07,3.97009218715958,%
+inflacion,2021-08,4.44102243944375,%
+inflacion,2021-09,4.51017323712082,%
+inflacion,2021-10,4.58354136989794,%
+inflacion,2021-11,5.25894434870857,%
+inflacion,2021-12,5.62266975841741,%
+inflacion,2022-01,6.94460173238201,%
+inflacion,2022-02,8.00519465352909,%
+inflacion,2022-03,8.52787422979531,%
+inflacion,2022-04,9.23410027199127,%
+inflacion,2022-05,9.06677652033225,%
+inflacion,2022-06,9.67383274070934,%
+inflacion,2022-07,10.2058214976248,%
+inflacion,2022-08,10.83597516229,%
+inflacion,2022-09,11.4398864336363,%
+inflacion,2022-10,12.2217461231521,%
+inflacion,2022-11,12.5314621803951,%
+inflacion,2022-12,13.1224684815643,%
+inflacion,2023-01,13.2519770729118,%
+inflacion,2023-02,13.2790169917835,%
+inflacion,2023-03,13.3443303431177,%
+inflacion,2023-04,12.8228710957138,%
+inflacion,2023-05,12.360256460614,%
+inflacion,2023-06,12.129618151947,%
+inflacion,2023-07,11.7849198084082,%
+inflacion,2023-08,11.4273409207351,%
+inflacion,2023-09,10.994324332193,%
+inflacion,2023-10,10.4786275454928,%
+inflacion,2023-11,10.1486342635207,%
+inflacion,2023-12,9.27605497772155,%
+inflacion,2024-01,8.34656700247678,%
+inflacion,2024-02,7.73738247751616,%
+inflacion,2024-03,7.36268471253232,%
+inflacion,2024-04,7.16328123669838,%
+inflacion,2024-05,7.15692369387486,%
+inflacion,2024-06,7.18246540011636,%
+inflacion,2024-07,6.86004088534378,%
+inflacion,2024-08,6.12045087993989,%
+inflacion,2024-09,5.80877735420324,%
+inflacion,2024-10,5.40612833048624,%
+inflacion,2024-11,5.19736266030695,%
+inflacion,2024-12,5.20306310836758,%
+inflacion,2025-01,5.22297952507744,%
+inflacion,2025-02,5.27658691401103,%
+inflacion,2025-03,5.08999633610059,%
+inflacion,2025-04,5.16229206817813,%
+inflacion,2025-05,5.05210881514819,%
+inflacion,2025-06,4.82006750985373,%
+inflacion,2025-07,4.90046575305776,%
+inflacion,2025-08,5.09557689848401,%
+inflacion,2025-09,5.1767391781294,%
+inflacion,2025-10,5.51222825818167,%
+inflacion,2025-11,5.30107100836008,%
+inflacion,2025-12,5.09988411161459,%
+inflacion,2026-01,5.35360137457557,%
+inflacion,2026-02,5.29003237652814,%
+inflacion,2026-03,5.5589107791614,%
+inflacion,2026-04,5.68131085787789,%
+inflacion,2026-05,5.84207897679492,%
+inflacion,2026-06,6.14275127675967,%
+inflacion,2026-07,6.02629212560928,%
+ipc,1970-01,0.1305270027737,index (2015=100)
+ipc,1970-02,0.1305270027737,index (2015=100)
+ipc,1970-03,0.1305270027737,index (2015=100)
+ipc,1970-04,0.1386849404471,index (2015=100)
+ipc,1970-05,0.1386849404471,index (2015=100)
+ipc,1970-06,0.1386849404471,index (2015=100)
+ipc,1970-07,0.1386849404471,index (2015=100)
+ipc,1970-08,0.1386849404471,index (2015=100)
+ipc,1970-09,0.1386849404471,index (2015=100)
+ipc,1970-10,0.1386849404471,index (2015=100)
+ipc,1970-11,0.1386849404471,index (2015=100)
+ipc,1970-12,0.1386849404471,index (2015=100)
+ipc,1971-01,0.1468428781204,index (2015=100)
+ipc,1971-02,0.1468428781204,index (2015=100)
+ipc,1971-03,0.1468428781204,index (2015=100)
+ipc,1971-04,0.1468428781204,index (2015=100)
+ipc,1971-05,0.1468428781204,index (2015=100)
+ipc,1971-06,0.15500081579379998,index (2015=100)
+ipc,1971-07,0.15500081579379998,index (2015=100)
+ipc,1971-08,0.15500081579379998,index (2015=100)
+ipc,1971-09,0.15500081579379998,index (2015=100)
+ipc,1971-10,0.15500081579379998,index (2015=100)
+ipc,1971-11,0.16315875346710002,index (2015=100)
+ipc,1971-12,0.16315875346710002,index (2015=100)
+ipc,1972-01,0.16315875346710002,index (2015=100)
+ipc,1972-02,0.16315875346710002,index (2015=100)
+ipc,1972-03,0.16315875346710002,index (2015=100)
+ipc,1972-04,0.1713166911405,index (2015=100)
+ipc,1972-05,0.1713166911405,index (2015=100)
+ipc,1972-06,0.1713166911405,index (2015=100)
+ipc,1972-07,0.1713166911405,index (2015=100)
+ipc,1972-08,0.1713166911405,index (2015=100)
+ipc,1972-09,0.1794746288138,index (2015=100)
+ipc,1972-10,0.1794746288138,index (2015=100)
+ipc,1972-11,0.1794746288138,index (2015=100)
+ipc,1972-12,0.1794746288138,index (2015=100)
+ipc,1973-01,0.1876325664872,index (2015=100)
+ipc,1973-02,0.1876325664872,index (2015=100)
+ipc,1973-03,0.1957905041605,index (2015=100)
+ipc,1973-04,0.20394844183389998,index (2015=100)
+ipc,1973-05,0.2121063795073,index (2015=100)
+ipc,1973-06,0.2121063795073,index (2015=100)
+ipc,1973-07,0.22026431718060002,index (2015=100)
+ipc,1973-08,0.2121063795073,index (2015=100)
+ipc,1973-09,0.22026431718060002,index (2015=100)
+ipc,1973-10,0.22026431718060002,index (2015=100)
+ipc,1973-11,0.228422254854,index (2015=100)
+ipc,1973-12,0.228422254854,index (2015=100)
+ipc,1974-01,0.2365801925273,index (2015=100)
+ipc,1974-02,0.2365801925273,index (2015=100)
+ipc,1974-03,0.24473813020069998,index (2015=100)
+ipc,1974-04,0.25289606787400004,index (2015=100)
+ipc,1974-05,0.2610540055474,index (2015=100)
+ipc,1974-06,0.2610540055474,index (2015=100)
+ipc,1974-07,0.2610540055474,index (2015=100)
+ipc,1974-08,0.2610540055474,index (2015=100)
+ipc,1974-09,0.2692119432208,index (2015=100)
+ipc,1974-10,0.2773698808941,index (2015=100)
+ipc,1974-11,0.2855278185675,index (2015=100)
+ipc,1974-12,0.2855278185675,index (2015=100)
+ipc,1975-01,0.2936857562408,index (2015=100)
+ipc,1975-02,0.3018436939142,index (2015=100)
+ipc,1975-03,0.3100016315875,index (2015=100)
+ipc,1975-04,0.3181595692609,index (2015=100)
+ipc,1975-05,0.32631750693420003,index (2015=100)
+ipc,1975-06,0.32631750693420003,index (2015=100)
+ipc,1975-07,0.32631750693420003,index (2015=100)
+ipc,1975-08,0.32631750693420003,index (2015=100)
+ipc,1975-09,0.3344754446076,index (2015=100)
+ipc,1975-10,0.3344754446076,index (2015=100)
+ipc,1975-11,0.3344754446076,index (2015=100)
+ipc,1975-12,0.3344754446076,index (2015=100)
+ipc,1976-01,0.342633382281,index (2015=100)
+ipc,1976-02,0.35079131995429996,index (2015=100)
+ipc,1976-03,0.3589492576277,index (2015=100)
+ipc,1976-04,0.367107195301,index (2015=100)
+ipc,1976-05,0.3752651329744,index (2015=100)
+ipc,1976-06,0.3834230706477,index (2015=100)
+ipc,1976-07,0.3915810083211,index (2015=100)
+ipc,1976-08,0.3997389459945,index (2015=100)
+ipc,1976-09,0.40789688366779997,index (2015=100)
+ipc,1976-10,0.40789688366779997,index (2015=100)
+ipc,1976-11,0.42421275901449995,index (2015=100)
+ipc,1976-12,0.42421275901449995,index (2015=100)
+ipc,1977-01,0.43237069668789996,index (2015=100)
+ipc,1977-02,0.44868657203460005,index (2015=100)
+ipc,1977-03,0.4731603850547,index (2015=100)
+ipc,1977-04,0.5057921357481,index (2015=100)
+ipc,1977-05,0.5221080110948,index (2015=100)
+ipc,1977-06,0.5384238864415,index (2015=100)
+ipc,1977-07,0.5465818241149,index (2015=100)
+ipc,1977-08,0.5465818241149,index (2015=100)
+ipc,1977-09,0.5465818241149,index (2015=100)
+ipc,1977-10,0.5465818241149,index (2015=100)
+ipc,1977-11,0.5465818241149,index (2015=100)
+ipc,1977-12,0.5465818241149,index (2015=100)
+ipc,1978-01,0.5547397617882,index (2015=100)
+ipc,1978-02,0.5628976994616,index (2015=100)
+ipc,1978-03,0.5792135748083,index (2015=100)
+ipc,1978-04,0.5873715124816,index (2015=100)
+ipc,1978-05,0.6036873878284,index (2015=100)
+ipc,1978-06,0.6200032631751,index (2015=100)
+ipc,1978-07,0.6200032631751,index (2015=100)
+ipc,1978-08,0.6200032631751,index (2015=100)
+ipc,1978-09,0.6200032631751,index (2015=100)
+ipc,1978-10,0.6363191385218,index (2015=100)
+ipc,1978-11,0.6444770761951,index (2015=100)
+ipc,1978-12,0.6526350138685,index (2015=100)
+ipc,1979-01,0.6689508892152,index (2015=100)
+ipc,1979-02,0.6852667645618999,index (2015=100)
+ipc,1979-03,0.7097405775819999,index (2015=100)
+ipc,1979-04,0.7260564529287,index (2015=100)
+ipc,1979-05,0.7423723282754,index (2015=100)
+ipc,1979-06,0.7505302659488,index (2015=100)
+ipc,1979-07,0.7586882036221,index (2015=100)
+ipc,1979-08,0.7750040789688,index (2015=100)
+ipc,1979-09,0.7913199543155,index (2015=100)
+ipc,1979-10,0.7994778919889,index (2015=100)
+ipc,1979-11,0.823951705009,index (2015=100)
+ipc,1979-12,0.8321096426823,index (2015=100)
+ipc,1980-01,0.8565834557023999,index (2015=100)
+ipc,1980-02,0.8647413933757999,index (2015=100)
+ipc,1980-03,0.8810572687225,index (2015=100)
+ipc,1980-04,0.9136890194159,index (2015=100)
+ipc,1980-05,0.9463207701092999,index (2015=100)
+ipc,1980-06,0.9626366454559999,index (2015=100)
+ipc,1980-07,0.9707945831293999,index (2015=100)
+ipc,1980-08,0.9789525208027,index (2015=100)
+ipc,1980-09,0.9952683961495,index (2015=100)
+ipc,1980-10,1.0115842714962,index (2015=100)
+ipc,1980-11,1.0360580845162,index (2015=100)
+ipc,1980-12,1.052373959863,index (2015=100)
+ipc,1981-01,1.076847772883,index (2015=100)
+ipc,1981-02,1.1094795235764,index (2015=100)
+ipc,1981-03,1.1339533365965,index (2015=100)
+ipc,1981-04,1.1665850872899,index (2015=100)
+ipc,1981-05,1.19105890031,index (2015=100)
+ipc,1981-06,1.2236906510034,index (2015=100)
+ipc,1981-07,1.2481644640235001,index (2015=100)
+ipc,1981-08,1.2644803393702,index (2015=100)
+ipc,1981-09,1.2726382770436,index (2015=100)
+ipc,1981-10,1.2889541523902999,index (2015=100)
+ipc,1981-11,1.3134279654103,index (2015=100)
+ipc,1981-12,1.3297438407570998,index (2015=100)
+ipc,1982-01,1.3542176537771,index (2015=100)
+ipc,1982-02,1.3868494044706,index (2015=100)
+ipc,1982-03,1.4194811551639999,index (2015=100)
+ipc,1982-04,1.4521129058574,index (2015=100)
+ipc,1982-05,1.4929025942242,index (2015=100)
+ipc,1982-06,1.5255343449176,index (2015=100)
+ipc,1982-07,1.5418502202643,index (2015=100)
+ipc,1982-08,1.5663240332844,index (2015=100)
+ipc,1982-09,1.5907978463044,index (2015=100)
+ipc,1982-10,1.6152716593244998,index (2015=100)
+ipc,1982-11,1.6397454723445999,index (2015=100)
+ipc,1982-12,1.647903410018,index (2015=100)
+ipc,1983-01,1.6642192853647,index (2015=100)
+ipc,1983-02,1.6886930983846997,index (2015=100)
+ipc,1983-03,1.7213248490781998,index (2015=100)
+ipc,1983-04,1.7784304127916002,index (2015=100)
+ipc,1983-05,1.8192201011584,index (2015=100)
+ipc,1983-06,1.8355359765051,index (2015=100)
+ipc,1983-07,1.8518518518518001,index (2015=100)
+ipc,1983-08,1.8518518518518001,index (2015=100)
+ipc,1983-09,1.8600097895252,index (2015=100)
+ipc,1983-10,1.8926415402185999,index (2015=100)
+ipc,1983-11,1.9171153532386997,index (2015=100)
+ipc,1983-12,1.9252732909120998,index (2015=100)
+ipc,1984-01,1.9497471039321,index (2015=100)
+ipc,1984-02,1.9742209169522,index (2015=100)
+ipc,1984-03,2.015010605319,index (2015=100)
+ipc,1984-04,2.0558002936857998,index (2015=100)
+ipc,1984-05,2.0802741067058,index (2015=100)
+ipc,1984-06,2.1129058573991997,index (2015=100)
+ipc,1984-07,2.1373796704192998,index (2015=100)
+ipc,1984-08,2.1455376080926998,index (2015=100)
+ipc,1984-09,2.1700114211127,index (2015=100)
+ipc,1984-10,2.1863272964595,index (2015=100)
+ipc,1984-11,2.2271169848262,index (2015=100)
+ipc,1984-12,2.2760646108664,index (2015=100)
+ipc,1985-01,2.3250122369065,index (2015=100)
+ipc,1985-02,2.3984336759667,index (2015=100)
+ipc,1985-03,2.4718551150269,index (2015=100)
+ipc,1985-04,2.5371186164138,index (2015=100)
+ipc,1985-05,2.6594876815140998,index (2015=100)
+ipc,1985-06,2.7084353075542,index (2015=100)
+ipc,1985-07,2.6921194322075,index (2015=100)
+ipc,1985-08,2.6758035568608,index (2015=100)
+ipc,1985-09,2.7002773698809,index (2015=100)
+ipc,1985-10,2.724751182901,index (2015=100)
+ipc,1985-11,2.749224995921,index (2015=100)
+ipc,1985-12,2.7900146842878,index (2015=100)
+ipc,1986-01,2.8715940610214,index (2015=100)
+ipc,1986-02,2.9613313754283,index (2015=100)
+ipc,1986-03,3.0347528144885,index (2015=100)
+ipc,1986-04,3.1163321912221,index (2015=100)
+ipc,1986-05,3.091858378202,index (2015=100)
+ipc,1986-06,3.0673845651819,index (2015=100)
+ipc,1986-07,3.0673845651819,index (2015=100)
+ipc,1986-08,3.1081742535487002,index (2015=100)
+ipc,1986-09,3.1571218795888,index (2015=100)
+ipc,1986-10,3.2223853809757,index (2015=100)
+ipc,1986-11,3.2876488823624994,index (2015=100)
+ipc,1986-12,3.3692282590961,index (2015=100)
+ipc,1987-01,3.4834393865231004,index (2015=100)
+ipc,1987-02,3.5487028879099,index (2015=100)
+ipc,1987-03,3.6465981399902003,index (2015=100)
+ipc,1987-04,3.7281775167238,index (2015=100)
+ipc,1987-05,3.7934410181105997,index (2015=100)
+ipc,1987-06,3.826072768804,index (2015=100)
+ipc,1987-07,3.8831783325174998,index (2015=100)
+ipc,1987-08,3.8994942078642,index (2015=100)
+ipc,1987-09,3.9484418339044,index (2015=100)
+ipc,1987-10,4.0218632729646,index (2015=100)
+ipc,1987-11,4.1034426496982,index (2015=100)
+ipc,1987-12,4.1768640887584,index (2015=100)
+ipc,1988-01,4.3073910915321,index (2015=100)
+ipc,1988-02,4.4787077826725,index (2015=100)
+ipc,1988-03,4.6092347854461995,index (2015=100)
+ipc,1988-04,4.7887094142601,index (2015=100)
+ipc,1988-05,4.8702887909936,index (2015=100)
+ipc,1988-06,4.9926578560940005,index (2015=100)
+ipc,1988-07,5.0579213574808,index (2015=100)
+ipc,1988-08,5.0497634198075,index (2015=100)
+ipc,1988-09,5.0905531081743,index (2015=100)
+ipc,1988-10,5.1639745472345,index (2015=100)
+ipc,1988-11,5.2373959862947,index (2015=100)
+ipc,1988-12,5.359765051395,index (2015=100)
+ipc,1989-01,5.5066079295154005,index (2015=100)
+ipc,1989-02,5.6942404960026,index (2015=100)
+ipc,1989-03,5.8329254364497,index (2015=100)
+ipc,1989-04,5.9797683145701,index (2015=100)
+ipc,1989-05,6.085821504323699,index (2015=100)
+ipc,1989-06,6.1674008810573,index (2015=100)
+ipc,1989-07,6.2652961331375,index (2015=100)
+ipc,1989-08,6.3468755098711,index (2015=100)
+ipc,1989-09,6.436612824278,index (2015=100)
+ipc,1989-10,6.542666014031701,index (2015=100)
+ipc,1989-11,6.6568771414586,index (2015=100)
+ipc,1989-12,6.7547723935389,index (2015=100)
+ipc,1990-01,6.9750367107194995,index (2015=100)
+ipc,1990-02,7.236090716266901,index (2015=100)
+ipc,1990-03,7.4481970957742005,index (2015=100)
+ipc,1990-04,7.6521455376081,index (2015=100)
+ipc,1990-05,7.8071463534019,index (2015=100)
+ipc,1990-06,7.9539892315223,index (2015=100)
+ipc,1990-07,8.060042421275899,index (2015=100)
+ipc,1990-08,8.190569424049599,index (2015=100)
+ipc,1990-09,8.3863599282102,index (2015=100)
+ipc,1990-10,8.5495186816773,index (2015=100)
+ipc,1990-11,8.7208353728178,index (2015=100)
+ipc,1990-12,8.9410996899984,index (2015=100)
+ipc,1991-01,9.2103116332191,index (2015=100)
+ipc,1991-02,9.52847120248,index (2015=100)
+ipc,1991-03,9.7650513950073,index (2015=100)
+ipc,1991-04,10.0424212759015,index (2015=100)
+ipc,1991-05,10.2626855930821,index (2015=100)
+ipc,1991-06,10.4258443465492,index (2015=100)
+ipc,1991-07,10.6134769130364,index (2015=100)
+ipc,1991-08,10.7440039158101,index (2015=100)
+ipc,1991-09,10.9071626692772,index (2015=100)
+ipc,1991-10,11.0458476097243,index (2015=100)
+ipc,1991-11,11.1845325501713,index (2015=100)
+ipc,1991-12,11.3395333659651,index (2015=100)
+ipc,1992-01,11.7392723119595,index (2015=100)
+ipc,1992-02,12.1308533202806,index (2015=100)
+ipc,1992-03,12.4082232011747,index (2015=100)
+ipc,1992-04,12.767172458802401,index (2015=100)
+ipc,1992-05,13.0608582150432,index (2015=100)
+ipc,1992-06,13.3545439712841,index (2015=100)
+ipc,1992-07,13.6237559145048,index (2015=100)
+ipc,1992-08,13.721651166585099,index (2015=100)
+ipc,1992-09,13.835862294012099,index (2015=100)
+ipc,1992-10,13.9582313591124,index (2015=100)
+ipc,1992-11,14.0561266111927,index (2015=100)
+ipc,1992-12,14.194811551639699,index (2015=100)
+ipc,1993-01,14.651656061347701,index (2015=100)
+ipc,1993-02,15.1248164464024,index (2015=100)
+ipc,1993-03,15.4103442649698,index (2015=100)
+ipc,1993-04,15.712187958884,index (2015=100)
+ipc,1993-05,15.965084026758,index (2015=100)
+ipc,1993-06,16.2098221569587,index (2015=100)
+ipc,1993-07,16.413770598792603,index (2015=100)
+ipc,1993-08,16.6177190406265,index (2015=100)
+ipc,1993-09,16.8053516071137,index (2015=100)
+ipc,1993-10,16.9848262359276,index (2015=100)
+ipc,1993-11,17.2050905531082,index (2015=100)
+ipc,1993-12,17.4008810572687,index (2015=100)
+ipc,1994-01,17.9474628813836,index (2015=100)
+ipc,1994-02,18.608255832925398,index (2015=100)
+ipc,1994-03,19.0243106542666,index (2015=100)
+ipc,1994-04,19.4729972263012,index (2015=100)
+ipc,1994-05,19.7748409202154,index (2015=100)
+ipc,1994-06,19.9543155490292,index (2015=100)
+ipc,1994-07,20.1337901778431,index (2015=100)
+ipc,1994-08,20.329580682003602,index (2015=100)
+ipc,1994-09,20.5580029368576,index (2015=100)
+ipc,1994-10,20.786425191711498,index (2015=100)
+ipc,1994-11,21.014847446565497,index (2015=100)
+ipc,1994-12,21.3330070158264,index (2015=100)
+ipc,1995-01,21.7245880241475,index (2015=100)
+ipc,1995-02,22.491434165443,index (2015=100)
+ipc,1995-03,23.0788056779246,index (2015=100)
+ipc,1995-04,23.5927557513461,index (2015=100)
+ipc,1995-05,23.984336759667197,index (2015=100)
+ipc,1995-06,24.278022515908,index (2015=100)
+ipc,1995-07,24.465655082395198,index (2015=100)
+ipc,1995-08,24.6206558981889,index (2015=100)
+ipc,1995-09,24.832762277696197,index (2015=100)
+ipc,1995-10,25.053026594876798,index (2015=100)
+ipc,1995-11,25.2488170990374,index (2015=100)
+ipc,1995-12,25.4853972915647,index (2015=100)
+ipc,1996-01,26.1217164300865,index (2015=100)
+ipc,1996-02,27.174090389949402,index (2015=100)
+ipc,1996-03,27.7451460270844,index (2015=100)
+ipc,1996-04,28.291727851199198,index (2015=100)
+ipc,1996-05,28.732256485560498,index (2015=100)
+ipc,1996-06,29.0585739924947,index (2015=100)
+ipc,1996-07,29.499102626855898,index (2015=100)
+ipc,1996-08,29.825420133790196,index (2015=100)
+ipc,1996-09,30.184369391417896,index (2015=100)
+ipc,1996-10,30.5270027736988,index (2015=100)
+ipc,1996-11,30.771740903899502,index (2015=100)
+ipc,1996-12,31.0001631587535,index (2015=100)
+ipc,1997-01,31.5141132321749,index (2015=100)
+ipc,1997-02,32.4930657529777,index (2015=100)
+ipc,1997-03,32.9988578887257,index (2015=100)
+ipc,1997-04,33.5372817751672,index (2015=100)
+ipc,1997-05,34.0757056616088,index (2015=100)
+ipc,1997-06,34.4917604829499,index (2015=100)
+ipc,1997-07,34.7772883015174,index (2015=100)
+ipc,1997-08,35.1770272475118,index (2015=100)
+ipc,1997-09,35.617555881873095,index (2015=100)
+ipc,1997-10,35.960189264154,index (2015=100)
+ipc,1997-11,36.2538750203949,index (2015=100)
+ipc,1997-12,36.4822972752488,index (2015=100)
+ipc,1998-01,37.1349322891173,index (2015=100)
+ipc,1998-02,38.3504650024474,index (2015=100)
+ipc,1998-03,39.3538913362702,index (2015=100)
+ipc,1998-04,40.496002610540096,index (2015=100)
+ipc,1998-05,41.1241638113885,index (2015=100)
+ipc,1998-06,41.6299559471366,index (2015=100)
+ipc,1998-07,41.8257464512971,index (2015=100)
+ipc,1998-08,41.8420623266438,index (2015=100)
+ipc,1998-09,41.9644313917442,index (2015=100)
+ipc,1998-10,42.1112742698646,index (2015=100)
+ipc,1998-11,42.1846957089248,index (2015=100)
+ipc,1998-12,42.5681187795725,index (2015=100)
+ipc,1999-01,43.514439549681796,index (2015=100)
+ipc,1999-02,44.2486539402839,index (2015=100)
+ipc,1999-03,44.6647087616251,index (2015=100)
+ipc,1999-04,45.015500081579404,index (2015=100)
+ipc,1999-05,45.23576439876,index (2015=100)
+ipc,1999-06,45.3581334638604,index (2015=100)
+ipc,1999-07,45.4968184043074,index (2015=100)
+ipc,1999-08,45.7252406591614,index (2015=100)
+ipc,1999-09,45.8802414749551,index (2015=100)
+ipc,1999-10,46.0352422907489,index (2015=100)
+ipc,1999-11,46.2555066079295,index (2015=100)
+ipc,1999-12,46.5002447381302,index (2015=100)
+ipc,2000-01,47.10393212595859,index (2015=100)
+ipc,2000-02,48.188937836514896,index (2015=100)
+ipc,2000-03,49.012889541523904,index (2015=100)
+ipc,2000-04,49.5023658019253,index (2015=100)
+ipc,2000-05,49.7552618697993,index (2015=100)
+ipc,2000-06,49.747103932126,index (2015=100)
+ipc,2000-07,49.7307880567793,index (2015=100)
+ipc,2000-08,49.885788872573,index (2015=100)
+ipc,2000-09,50.097895252080306,index (2015=100)
+ipc,2000-10,50.1713166911405,index (2015=100)
+ipc,2000-11,50.342633382281,index (2015=100)
+ipc,2000-12,50.571055637135,index (2015=100)
+ipc,2001-01,51.1013215859031,index (2015=100)
+ipc,2001-02,52.0721161690325,index (2015=100)
+ipc,2001-03,52.83896231032799,index (2015=100)
+ipc,2001-04,53.442649698156295,index (2015=100)
+ipc,2001-05,53.6710719530103,index (2015=100)
+ipc,2001-06,53.69554576603039,index (2015=100)
+ipc,2001-07,53.75265132974389,index (2015=100)
+ipc,2001-08,53.891336270190905,index (2015=100)
+ipc,2001-09,54.0871267743515,index (2015=100)
+ipc,2001-10,54.1931799641051,index (2015=100)
+ipc,2001-11,54.2502855278186,index (2015=100)
+ipc,2001-12,54.4379180943058,index (2015=100)
+ipc,2002-01,54.870288790993705,index (2015=100)
+ipc,2002-02,55.563713493228896,index (2015=100)
+ipc,2002-03,55.95529450155,index (2015=100)
+ipc,2002-04,56.4692445749715,index (2015=100)
+ipc,2002-05,56.803720019579096,index (2015=100)
+ipc,2002-06,57.0484581497798,index (2015=100)
+ipc,2002-07,57.0566160874531,index (2015=100)
+ipc,2002-08,57.11372165116661,index (2015=100)
+ipc,2002-09,57.317670093000494,index (2015=100)
+ipc,2002-10,57.643987599934796,index (2015=100)
+ipc,2002-11,58.084516234296004,index (2015=100)
+ipc,2002-12,58.2476749877631,index (2015=100)
+ipc,2003-01,58.924783814651704,index (2015=100)
+ipc,2003-02,59.585576766193505,index (2015=100)
+ipc,2003-03,60.2055800293686,index (2015=100)
+ipc,2003-04,60.8990047316039,index (2015=100)
+ipc,2003-05,61.1926904878447,index (2015=100)
+ipc,2003-06,61.1600587371513,index (2015=100)
+ipc,2003-07,61.0703214227443,index (2015=100)
+ipc,2003-08,61.2661119269049,index (2015=100)
+ipc,2003-09,61.3966389296786,index (2015=100)
+ipc,2003-10,61.437428618045395,index (2015=100)
+ipc,2003-11,61.6495349975526,index (2015=100)
+ipc,2003-12,62.024800130527,index (2015=100)
+ipc,2004-01,62.5713819546419,index (2015=100)
+ipc,2004-02,63.321912220590704,index (2015=100)
+ipc,2004-03,63.9500734214391,index (2015=100)
+ipc,2004-04,64.2356012400065,index (2015=100)
+ipc,2004-05,64.48033937020719,index (2015=100)
+ipc,2004-06,64.8719203785283,index (2015=100)
+ipc,2004-07,64.8556045031816,index (2015=100)
+ipc,2004-08,64.8719203785283,index (2015=100)
+ipc,2004-09,65.0677108826889,index (2015=100)
+ipc,2004-10,65.0595529450155,index (2015=100)
+ipc,2004-11,65.2390275738294,index (2015=100)
+ipc,2004-12,65.4348180779899,index (2015=100)
+ipc,2005-01,65.9732419644314,index (2015=100)
+ipc,2005-02,66.65035079132,index (2015=100)
+ipc,2005-03,67.16430086474139,index (2015=100)
+ipc,2005-04,67.4579866209822,index (2015=100)
+ipc,2005-05,67.7353565018763,index (2015=100)
+ipc,2005-06,68.0045684450971,index (2015=100)
+ipc,2005-07,68.0372001957905,index (2015=100)
+ipc,2005-08,68.0372001957905,index (2015=100)
+ipc,2005-09,68.3308859520313,index (2015=100)
+ipc,2005-10,68.4858867678251,index (2015=100)
+ipc,2005-11,68.5674661445587,index (2015=100)
+ipc,2005-12,68.6082558329255,index (2015=100)
+ipc,2006-01,68.9835209658998,index (2015=100)
+ipc,2006-02,69.4322075379344,index (2015=100)
+ipc,2006-03,69.92168379833579,index (2015=100)
+ipc,2006-04,70.23984336759669,index (2015=100)
+ipc,2006-05,70.4682656224507,index (2015=100)
+ipc,2006-06,70.6803720019579,index (2015=100)
+ipc,2006-07,70.9740577581987,index (2015=100)
+ipc,2006-08,71.2514276390929,index (2015=100)
+ipc,2006-09,71.4553760809268,index (2015=100)
+ipc,2006-10,71.34932289117309,index (2015=100)
+ipc,2006-11,71.5206395823136,index (2015=100)
+ipc,2006-12,71.6837983357807,index (2015=100)
+ipc,2007-01,72.2303801598956,index (2015=100)
+ipc,2007-02,73.07880567792469,index (2015=100)
+ipc,2007-03,73.9680208843205,index (2015=100)
+ipc,2007-04,74.62881383586229,index (2015=100)
+ipc,2007-05,74.8572360907163,index (2015=100)
+ipc,2007-06,74.94697340512319,index (2015=100)
+ipc,2007-07,75.0693424702236,index (2015=100)
+ipc,2007-08,74.9714472181433,index (2015=100)
+ipc,2007-09,75.0285527818568,index (2015=100)
+ipc,2007-10,75.03671071953009,index (2015=100)
+ipc,2007-11,75.3956599771578,index (2015=100)
+ipc,2007-12,75.7627671724588,index (2015=100)
+ipc,2008-01,76.5622450644477,index (2015=100)
+ipc,2008-02,77.7206722140643,index (2015=100)
+ipc,2008-03,78.3488334149127,index (2015=100)
+ipc,2008-04,78.9035731767009,index (2015=100)
+ipc,2008-05,79.637787567303,index (2015=100)
+ipc,2008-06,80.3312122695383,index (2015=100)
+ipc,2008-07,80.714635340186,index (2015=100)
+ipc,2008-08,80.86963615597979,index (2015=100)
+ipc,2008-09,80.714635340186,index (2015=100)
+ipc,2008-10,80.99200522108009,index (2015=100)
+ipc,2008-11,81.2204274759341,index (2015=100)
+ipc,2008-12,81.5793767335618,index (2015=100)
+ipc,2009-01,82.0606950562898,index (2015=100)
+ipc,2009-02,82.7459618208517,index (2015=100)
+ipc,2009-03,83.1620166421929,index (2015=100)
+ipc,2009-04,83.4230706477403,index (2015=100)
+ipc,2009-05,83.439386523087,index (2015=100)
+ipc,2009-06,83.3904388970469,index (2015=100)
+ipc,2009-07,83.3578071463534,index (2015=100)
+ipc,2009-08,83.3985968347202,index (2015=100)
+ipc,2009-09,83.3088595203133,index (2015=100)
+ipc,2009-10,83.1946483928863,index (2015=100)
+ipc,2009-11,83.14570076684619,index (2015=100)
+ipc,2009-12,83.210964268233,index (2015=100)
+ipc,2010-01,83.7820199053679,index (2015=100)
+ipc,2010-02,84.4754446076032,index (2015=100)
+ipc,2010-03,84.6875509871105,index (2015=100)
+ipc,2010-04,85.0791319954316,index (2015=100)
+ipc,2010-05,85.1688693098385,index (2015=100)
+ipc,2010-06,85.26676456191879,index (2015=100)
+ipc,2010-07,85.225974873552,index (2015=100)
+ipc,2010-08,85.3238701256323,index (2015=100)
+ipc,2010-09,85.2096589982053,index (2015=100)
+ipc,2010-10,85.1362375591451,index (2015=100)
+ipc,2010-11,85.29939631261219,index (2015=100)
+ipc,2010-12,85.8541360744004,index (2015=100)
+ipc,2011-01,86.62914015336929,index (2015=100)
+ipc,2011-02,87.151248164464,index (2015=100)
+ipc,2011-03,87.3878283569914,index (2015=100)
+ipc,2011-04,87.493881546745,index (2015=100)
+ipc,2011-05,87.73861967694569,index (2015=100)
+ipc,2011-06,88.0241474955132,index (2015=100)
+ipc,2011-07,88.14651656061349,index (2015=100)
+ipc,2011-08,88.1138848099201,index (2015=100)
+ipc,2011-09,88.39125469081421,index (2015=100)
+ipc,2011-10,88.5544134442813,index (2015=100)
+ipc,2011-11,88.6767825093816,index (2015=100)
+ipc,2011-12,89.052047642356,index (2015=100)
+ipc,2012-01,89.70468265622449,index (2015=100)
+ipc,2012-02,90.2512644803394,index (2015=100)
+ipc,2012-03,90.357317670093,index (2015=100)
+ipc,2012-04,90.4878446728667,index (2015=100)
+ipc,2012-05,90.7570566160875,index (2015=100)
+ipc,2012-06,90.838635992821,index (2015=100)
+ipc,2012-07,90.81416217980099,index (2015=100)
+ipc,2012-08,90.8549518681678,index (2015=100)
+ipc,2012-09,91.1160058737152,index (2015=100)
+ipc,2012-10,91.2628487518356,index (2015=100)
+ipc,2012-11,91.14047968673519,index (2015=100)
+ipc,2012-12,91.22205906346879,index (2015=100)
+ipc,2013-01,91.4912710066895,index (2015=100)
+ipc,2013-02,91.8991678903573,index (2015=100)
+ipc,2013-03,92.0868004568445,index (2015=100)
+ipc,2013-04,92.3152227116985,index (2015=100)
+ipc,2013-05,92.57627671724589,index (2015=100)
+ipc,2013-06,92.7965410344265,index (2015=100)
+ipc,2013-07,92.8373307227933,index (2015=100)
+ipc,2013-08,92.91075216185351,index (2015=100)
+ipc,2013-09,93.1881220427476,index (2015=100)
+ipc,2013-10,92.94338391254689,index (2015=100)
+ipc,2013-11,92.739435470713,index (2015=100)
+ipc,2013-12,92.98417360091369,index (2015=100)
+ipc,2014-01,93.4410181106217,index (2015=100)
+ipc,2014-02,94.02838962310331,index (2015=100)
+ipc,2014-03,94.3954968184043,index (2015=100)
+ipc,2014-04,94.8278675150922,index (2015=100)
+ipc,2014-05,95.2928699624735,index (2015=100)
+ipc,2014-06,95.3744493392071,index (2015=100)
+ipc,2014-07,95.5212922173275,index (2015=100)
+ipc,2014-08,95.717082721488,index (2015=100)
+ipc,2014-09,95.84760972426169,index (2015=100)
+ipc,2014-10,96.0026105400555,index (2015=100)
+ipc,2014-11,96.13313754282919,index (2015=100)
+ipc,2014-12,96.38603361070321,index (2015=100)
+ipc,2015-01,97.0060368738783,index (2015=100)
+ipc,2015-02,98.1236743351281,index (2015=100)
+ipc,2015-03,98.69472997226309,index (2015=100)
+ipc,2015-04,99.2249959210312,index (2015=100)
+ipc,2015-05,99.4860499265786,index (2015=100)
+ipc,2015-06,99.5921031163322,index (2015=100)
+ipc,2015-07,99.7797356828194,index (2015=100)
+ipc,2015-08,100.26105400554698,index (2015=100)
+ipc,2015-09,100.97895252080299,index (2015=100)
+ipc,2015-10,101.664219285365,index (2015=100)
+ipc,2015-11,102.276064610866,index (2015=100)
+ipc,2015-12,102.912383749388,index (2015=100)
+ipc,2016-01,104.24212759014499,index (2015=100)
+ipc,2016-02,105.57187143090201,index (2015=100)
+ipc,2016-03,106.56713982705199,index (2015=100)
+ipc,2016-04,107.09740577582001,index (2015=100)
+ipc,2016-05,107.643987599935,index (2015=100)
+ipc,2016-06,108.15793767335599,index (2015=100)
+ipc,2016-07,108.720835372818,index (2015=100)
+ipc,2016-08,108.37820199053701,index (2015=100)
+ipc,2016-09,108.32109642682299,index (2015=100)
+ipc,2016-10,108.25583292543598,index (2015=100)
+ipc,2016-11,108.37820199053701,index (2015=100)
+ipc,2016-12,108.82688856257099,index (2015=100)
+ipc,2017-01,109.94452602382101,index (2015=100)
+ipc,2017-02,111.045847609724,index (2015=100)
+ipc,2017-03,111.567955620819,index (2015=100)
+ipc,2017-04,112.090063631914,index (2015=100)
+ipc,2017-05,112.342959699788,index (2015=100)
+ipc,2017-06,112.47348670256201,index (2015=100)
+ipc,2017-07,112.416381138848,index (2015=100)
+ipc,2017-08,112.571381954642,index (2015=100)
+ipc,2017-09,112.620329580682,index (2015=100)
+ipc,2017-10,112.636645456029,index (2015=100)
+ipc,2017-11,112.840593897863,index (2015=100)
+ipc,2017-12,113.272964594551,index (2015=100)
+ipc,2018-01,113.982705172133,index (2015=100)
+ipc,2018-02,114.79034100179499,index (2015=100)
+ipc,2018-03,115.06771088268898,index (2015=100)
+ipc,2018-04,115.597976831457,index (2015=100)
+ipc,2018-05,115.89166258769801,index (2015=100)
+ipc,2018-06,116.07113721651201,index (2015=100)
+ipc,2018-07,115.924294338391,index (2015=100)
+ipc,2018-08,116.062979278838,index (2015=100)
+ipc,2018-09,116.25061184532599,index (2015=100)
+ipc,2018-10,116.38929678577301,index (2015=100)
+ipc,2018-11,116.52798172622,index (2015=100)
 ipc,2018-12,116.87877304,index (2015=100)
-ipc,2019-01,117.578343695758,index (2015=100)
-ipc,2019-02,118.254144943025,index (2015=100)
-ipc,2019-03,118.767720440243,index (2015=100)
-ipc,2019-04,119.35671535525401,index (2015=100)
-ipc,2019-05,119.732295591499,index (2015=100)
-ipc,2019-06,120.052356072973,index (2015=100)
-ipc,2019-07,120.315298482452,index (2015=100)
-ipc,2019-08,120.417109828471,index (2015=100)
-ipc,2019-09,120.692229136042,index (2015=100)
-ipc,2019-10,120.883644892144,index (2015=100)
-ipc,2019-11,121.010506982469,index (2015=100)
-ipc,2019-12,121.32519419610901,index (2015=100)
-ipc,2020-01,121.837364810475,index (2015=100)
-ipc,2020-02,122.65326081211501,index (2015=100)
-ipc,2020-03,123.346788946011,index (2015=100)
-ipc,2020-04,123.540373738383,index (2015=100)
-ipc,2020-05,123.14693512688899,index (2015=100)
-ipc,2020-06,122.68367640898198,index (2015=100)
-ipc,2020-07,122.68541591576101,index (2015=100)
-ipc,2020-08,122.678667802921,index (2015=100)
-ipc,2020-09,123.066754886034,index (2015=100)
-ipc,2020-10,122.996856470844,index (2015=100)
-ipc,2020-11,122.81292609888199,index (2015=100)
-ipc,2020-12,123.27907476133099,index (2015=100)
-ipc,2021-01,123.78335956488,index (2015=100)
-ipc,2021-02,124.570455584932,index (2015=100)
-ipc,2021-03,125.205070272002,index (2015=100)
-ipc,2021-04,125.94666503507099,index (2015=100)
-ipc,2021-05,127.20544381059699,index (2015=100)
-ipc,2021-06,127.142935990863,index (2015=100)
-ipc,2021-07,127.556140088546,index (2015=100)
-ipc,2021-08,128.12685492969499,index (2015=100)
-ipc,2021-09,128.617278728912,index (2015=100)
-ipc,2021-10,128.634468206942,index (2015=100)
-ipc,2021-11,129.271589593058,index (2015=100)
-ipc,2021-12,130.210649991279,index (2015=100)
-ipc,2022-01,132.37962092623602,index (2015=100)
-ipc,2022-02,134.54256302032098,index (2015=100)
-ipc,2022-03,135.882401315712,index (2015=100)
-ipc,2022-04,137.576706398271,index (2015=100)
-ipc,2022-05,138.73887703699597,index (2015=100)
-ipc,2022-06,139.442530963395,index (2015=100)
-ipc,2022-07,140.57429208295,index (2015=100)
-ipc,2022-08,142.01064910288,index (2015=100)
-ipc,2022-09,143.330949358174,index (2015=100)
-ipc,2022-10,144.355846345472,index (2015=100)
-ipc,2022-11,145.471209957562,index (2015=100)
-ipc,2022-12,147.297501446492,index (2015=100)
-ipc,2023-01,149.922537912147,index (2015=100)
-ipc,2023-02,152.408492845513,index (2015=100)
-ipc,2023-03,154.014997775608,index (2015=100)
-ipc,2023-04,155.21799019588,index (2015=100)
-ipc,2023-05,155.887358084843,index (2015=100)
-ipc,2023-06,156.356377523715,index (2015=100)
-ipc,2023-07,157.140859666887,index (2015=100)
-ipc,2023-08,158.238690060475,index (2015=100)
-ipc,2023-09,159.089218761992,index (2015=100)
-ipc,2023-10,159.482357813191,index (2015=100)
-ipc,2023-11,160.23455102652198,index (2015=100)
-ipc,2023-12,160.96089871988897,index (2015=100)
-ipc,2024-01,162.435922978063,index (2015=100)
-ipc,2024-02,164.200920900832,index (2015=100)
-ipc,2024-03,165.354636412237,index (2015=100)
-ipc,2024-04,166.336691368396,index (2015=100)
-ipc,2024-05,167.044097337168,index (2015=100)
-ipc,2024-06,167.58662020010598,index (2015=100)
-ipc,2024-07,167.920786897577,index (2015=100)
-ipc,2024-08,167.92361139000698,index (2015=100)
-ipc,2024-09,168.33035735108498,index (2015=100)
-ipc,2024-10,168.104178809031,index (2015=100)
-ipc,2024-11,168.562521722622,index (2015=100)
-ipc,2024-12,169.335795775853,index (2015=100)
-ipc,2025-01,170.919917953394,index (2015=100)
-ipc,2025-02,172.865125178626,index (2015=100)
-ipc,2025-03,173.771181348915,index (2015=100)
-ipc,2025-04,174.923477133864,index (2015=100)
-ipc,2025-05,175.48334691053998,index (2015=100)
-ipc,2025-06,175.664408376138,index (2015=100)
-ipc,2025-07,176.14968752240202,index (2015=100)
-ipc,2025-08,176.480288131628,index (2015=100)
-ipc,2025-09,177.044380855254,index (2015=100)
-ipc,2025-10,177.370464801175,index (2015=100)
-ipc,2025-11,177.498140718396,index (2015=100)
-ipc,2025-12,177.971725208386,index (2015=100)
-ipc,2026-01,180.070289071733,index (2015=100)
-ipc,2026-02,182.009746328847,index (2015=100)
-ipc,2026-03,183.430966378879,index (2015=100)
-ipc,2026-04,184.861423592103,index (2015=100)
-ipc,2026-05,185.735222623576,index (2015=100)
-ipc,2026-06,186.45503609225798,index (2015=100)
-ipc,2026-07,186.76498223534801,index (2015=100)
+ipc,2019-01,117.57834367992099,index (2015=100)
+ipc,2019-02,118.254144934718,index (2015=100)
+ipc,2019-03,118.767720478982,index (2015=100)
+ipc,2019-04,119.356715305846,index (2015=100)
+ipc,2019-05,119.732295574521,index (2015=100)
+ipc,2019-06,120.05235602440301,index (2015=100)
+ipc,2019-07,120.31529849906599,index (2015=100)
+ipc,2019-08,120.417109850187,index (2015=100)
+ipc,2019-09,120.692229176635,index (2015=100)
+ipc,2019-10,120.883644857025,index (2015=100)
+ipc,2019-11,121.01050692729001,index (2015=100)
+ipc,2019-12,121.325194162334,index (2015=100)
+ipc,2020-01,121.837364851872,index (2015=100)
+ipc,2020-02,122.653260850617,index (2015=100)
+ipc,2020-03,123.34678891055799,index (2015=100)
+ipc,2020-04,123.540373710571,index (2015=100)
+ipc,2020-05,123.146935139607,index (2015=100)
+ipc,2020-06,122.68367637494998,index (2015=100)
+ipc,2020-07,122.685415962685,index (2015=100)
+ipc,2020-08,122.678667754917,index (2015=100)
+ipc,2020-09,123.066754892169,index (2015=100)
+ipc,2020-10,122.99685644253,index (2015=100)
+ipc,2020-11,122.812926131289,index (2015=100)
+ipc,2020-12,123.27907471669901,index (2015=100)
+ipc,2021-01,123.78335954480998,index (2015=100)
+ipc,2021-02,124.570455604217,index (2015=100)
+ipc,2021-03,125.205070330419,index (2015=100)
+ipc,2021-04,125.94666508379699,index (2015=100)
+ipc,2021-05,127.205443781579,index (2015=100)
+ipc,2021-06,127.142935970733,index (2015=100)
+ipc,2021-07,127.55614007660401,index (2015=100)
+ipc,2021-08,128.126854918324,index (2015=100)
+ipc,2021-09,128.61727873510898,index (2015=100)
+ipc,2021-10,128.634468241248,index (2015=100)
+ipc,2021-11,129.271589569554,index (2015=100)
+ipc,2021-12,130.210649969252,index (2015=100)
+ipc,2022-01,132.37962087616,index (2015=100)
+ipc,2022-02,134.542563056122,index (2015=100)
+ipc,2022-03,135.882401257524,index (2015=100)
+ipc,2022-04,137.57670642686398,index (2015=100)
+ipc,2022-05,138.738877090952,index (2015=100)
+ipc,2022-06,139.442530938169,index (2015=100)
+ipc,2022-07,140.574292042083,index (2015=100)
+ipc,2022-08,142.010649093497,index (2015=100)
+ipc,2022-09,143.330949356439,index (2015=100)
+ipc,2022-10,144.35584637656,index (2015=100)
+ipc,2022-11,145.471209926458,index (2015=100)
+ipc,2022-12,147.297501471107,index (2015=100)
+ipc,2023-01,149.922537883876,index (2015=100)
+ipc,2023-02,152.408492865526,index (2015=100)
+ipc,2023-03,154.01499775948898,index (2015=100)
+ipc,2023-04,155.217990149709,index (2015=100)
+ipc,2023-05,155.88735810997,index (2015=100)
+ipc,2023-06,156.35637748238,index (2015=100)
+ipc,2023-07,157.14085963047998,index (2015=100)
+ipc,2023-08,158.238690109159,index (2015=100)
+ipc,2023-09,159.089218797097,index (2015=100)
+ipc,2023-10,159.482357858503,index (2015=100)
+ipc,2023-11,160.234550980612,index (2015=100)
+ipc,2023-12,160.960898688377,index (2015=100)
+ipc,2024-01,162.435922960167,index (2015=100)
+ipc,2024-02,164.200920886749,index (2015=100)
+ipc,2024-03,165.35463645453402,index (2015=100)
+ipc,2024-04,166.336691314084,index (2015=100)
+ipc,2024-05,167.044097378298,index (2015=100)
+ipc,2024-06,167.586620195927,index (2015=100)
+ipc,2024-07,167.92078684871097,index (2015=100)
+ipc,2024-08,167.923611410351,index (2015=100)
+ipc,2024-09,168.33035731156102,index (2015=100)
+ipc,2024-10,168.104178788819,index (2015=100)
+ipc,2024-11,168.562521702189,index (2015=100)
+ipc,2024-12,169.335795826929,index (2015=100)
+ipc,2025-01,170.919917957748,index (2015=100)
+ipc,2025-02,172.86512519094498,index (2015=100)
+ipc,2025-03,173.771181391642,index (2015=100)
+ipc,2025-04,174.923477136261,index (2015=100)
+ipc,2025-05,175.483346947131,index (2015=100)
+ipc,2025-06,175.664408426853,index (2015=100)
+ipc,2025-07,176.149687500498,index (2015=100)
+ipc,2025-08,176.480288160476,index (2015=100)
+ipc,2025-09,177.044380867194,index (2015=100)
+ipc,2025-10,177.370464835201,index (2015=100)
+ipc,2025-11,177.498140671105,index (2015=100)
+ipc,2025-12,177.971725173582,index (2015=100)
+ipc,2026-01,180.070289034957,index (2015=100)
+ipc,2026-02,182.009746281272,index (2015=100)
+ipc,2026-03,183.430966325099,index (2015=100)
+ipc,2026-04,184.861423635781,index (2015=100)
+ipc,2026-05,185.735222666906,index (2015=100)
+ipc,2026-06,186.455036118306,index (2015=100)
+ipc,2026-07,186.764982247625,index (2015=100)
 produccion_industrial,1990-01,71.0416377093371,"index (2015=100), seasonally adjusted"
 produccion_industrial,1990-02,72.3481074014455,"index (2015=100), seasonally adjusted"
 produccion_industrial,1990-03,73.9877949390319,"index (2015=100), seasonally adjusted"
@@ -5543,6 +5546,7 @@ trm,2026-04,3616.7075,COP per USD (monthly average)
 trm,2026-05,3717.78333333333,COP per USD (monthly average)
 trm,2026-06,3493.56795454545,COP per USD (monthly average)
 trm,2026-07,3259.16,COP per USD (monthly average)
+trm,2026-08,3130.9219047619,COP per USD (monthly average)
 ventas_comercio,2013-01,85.867437130529,"index (2015=100), seasonally adjusted"
 ventas_comercio,2013-02,85.6279343838506,"index (2015=100), seasonally adjusted"
 ventas_comercio,2013-03,85.7419833108403,"index (2015=100), seasonally adjusted"
