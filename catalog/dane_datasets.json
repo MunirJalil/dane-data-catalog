@@ -7,12 +7,12 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "actualización",
    "departamento",
-   "divipola",
+   "codigo",
    "municipio",
    "división policito administrativa",
-   "codigo"
+   "divipola",
+   "actualización"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadística - DANE",
@@ -23,8 +23,8 @@
   "created_at": "2016-07-14T02:37:52.000Z",
   "updated_at": "2026-09-24T23:53:50.000Z",
   "data_updated_at": "2025-01-24T20:44:32.000Z",
-  "page_views_total": 191669,
-  "download_count": 266029,
+  "page_views_total": 192624,
+  "download_count": 267332,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/gdxc-w37w",
   "api_endpoint": "https://www.datos.gov.co/resource/gdxc-w37w.json",
@@ -37,26 +37,8 @@
     "description": ""
    },
    {
-    "field": "longitud",
-    "name": "longitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
     "field": "cod_mpio",
     "name": "Código Municipio",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "tipo_municipio",
-    "name": "Tipo: Municipio / Isla / Área no municipalizada",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "nom_mpio",
-    "name": "Nombre Municipio",
     "type": "Text",
     "description": ""
    },
@@ -67,8 +49,26 @@
     "description": ""
    },
    {
+    "field": "longitud",
+    "name": "longitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
     "field": "cod_dpto",
     "name": "Código Departamento",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "nom_mpio",
+    "name": "Nombre Municipio",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "tipo_municipio",
+    "name": "Tipo: Municipio / Isla / Área no municipalizada",
     "type": "Text",
     "description": ""
    }
@@ -82,13 +82,13 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "departamento",
+   "areas no municipalizadas",
+   "cabeceras municipales",
    "municipios",
    "centro poblado",
-   "areas no municipalizadas",
-   "codigo",
-   "cabeceras municipales",
-   "divipola"
+   "departamento",
+   "divipola",
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -99,16 +99,34 @@
   "created_at": "2020-06-11T15:39:41.000Z",
   "updated_at": "2026-05-18T16:41:13.000Z",
   "data_updated_at": "2025-01-24T21:14:58.000Z",
-  "page_views_total": 18490,
-  "download_count": 3667,
+  "page_views_total": 18637,
+  "download_count": 3730,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/xaxy-8nri",
   "api_endpoint": "https://www.datos.gov.co/resource/xaxy-8nri.json",
   "csv_download": "https://www.datos.gov.co/api/views/xaxy-8nri/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
+    "field": "longitud",
+    "name": "longitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
     "field": "codigo_departamento",
     "name": "Código Departamento",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "nombre_municipio",
+    "name": "Nombre Municipio",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "codigo_municipio",
+    "name": "Codigo Municipio",
     "type": "Text",
     "description": ""
    },
@@ -117,12 +135,6 @@
     "name": "Nombre Centro Poblado",
     "type": "Text",
     "description": ""
-   },
-   {
-    "field": "tipo_centro_poblado",
-    "name": "Tipo*",
-    "type": "Text",
-    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
    },
    {
     "field": "nombre_departamento",
@@ -137,26 +149,14 @@
     "description": ""
    },
    {
-    "field": "longitud",
-    "name": "longitud",
+    "field": "tipo_centro_poblado",
+    "name": "Tipo*",
     "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "codigo_municipio",
-    "name": "Codigo Municipio",
-    "type": "Text",
-    "description": ""
+    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
    },
    {
     "field": "latitud",
     "name": "Latitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "nombre_municipio",
-    "name": "Nombre Municipio",
     "type": "Text",
     "description": ""
    }
@@ -170,9 +170,9 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "codigo",
    "departamento",
-   "divipola"
+   "divipola",
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -183,8 +183,8 @@
   "created_at": "2020-06-12T13:11:24.000Z",
   "updated_at": "2026-05-18T16:40:42.000Z",
   "data_updated_at": "2025-01-23T21:56:46.000Z",
-  "page_views_total": 20983,
-  "download_count": 1842,
+  "page_views_total": 21149,
+  "download_count": 1862,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/vcjz-niiq",
   "api_endpoint": "https://www.datos.gov.co/resource/vcjz-niiq.json",
@@ -197,14 +197,14 @@
     "description": ""
    },
    {
-    "field": "longitud",
-    "name": "longitud",
+    "field": "nombre_departamento",
+    "name": "Nombre Departamento",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "nombre_departamento",
-    "name": "Nombre Departamento",
+    "field": "longitud",
+    "name": "longitud",
     "type": "Text",
     "description": ""
    },
