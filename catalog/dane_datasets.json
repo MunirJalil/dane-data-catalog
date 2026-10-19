@@ -7,12 +7,12 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "departamento",
-   "codigo",
    "municipio",
+   "departamento",
+   "actualización",
    "división policito administrativa",
    "divipola",
-   "actualización"
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadística - DANE",
@@ -23,16 +23,16 @@
   "created_at": "2016-07-14T02:37:52.000Z",
   "updated_at": "2026-09-24T23:53:50.000Z",
   "data_updated_at": "2025-01-24T20:44:32.000Z",
-  "page_views_total": 192624,
-  "download_count": 267332,
+  "page_views_total": 193638,
+  "download_count": 268433,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/gdxc-w37w",
   "api_endpoint": "https://www.datos.gov.co/resource/gdxc-w37w.json",
   "csv_download": "https://www.datos.gov.co/api/views/gdxc-w37w/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "dpto",
-    "name": "Nombre Departamento",
+    "field": "tipo_municipio",
+    "name": "Tipo: Municipio / Isla / Área no municipalizada",
     "type": "Text",
     "description": ""
    },
@@ -49,8 +49,8 @@
     "description": ""
    },
    {
-    "field": "longitud",
-    "name": "longitud",
+    "field": "nom_mpio",
+    "name": "Nombre Municipio",
     "type": "Text",
     "description": ""
    },
@@ -61,14 +61,14 @@
     "description": ""
    },
    {
-    "field": "nom_mpio",
-    "name": "Nombre Municipio",
+    "field": "longitud",
+    "name": "longitud",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "tipo_municipio",
-    "name": "Tipo: Municipio / Isla / Área no municipalizada",
+    "field": "dpto",
+    "name": "Nombre Departamento",
     "type": "Text",
     "description": ""
    }
@@ -83,12 +83,12 @@
   "category": "Mapas Nacionales",
   "tags": [
    "areas no municipalizadas",
-   "cabeceras municipales",
    "municipios",
    "centro poblado",
    "departamento",
    "divipola",
-   "codigo"
+   "codigo",
+   "cabeceras municipales"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -99,34 +99,28 @@
   "created_at": "2020-06-11T15:39:41.000Z",
   "updated_at": "2026-05-18T16:41:13.000Z",
   "data_updated_at": "2025-01-24T21:14:58.000Z",
-  "page_views_total": 18637,
-  "download_count": 3730,
+  "page_views_total": 18768,
+  "download_count": 3779,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/xaxy-8nri",
   "api_endpoint": "https://www.datos.gov.co/resource/xaxy-8nri.json",
   "csv_download": "https://www.datos.gov.co/api/views/xaxy-8nri/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
+    "field": "nombre_departamento",
+    "name": "Nombre_departamento",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "tipo_centro_poblado",
+    "name": "Tipo*",
+    "type": "Text",
+    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
+   },
+   {
     "field": "longitud",
     "name": "longitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "codigo_departamento",
-    "name": "Código Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "nombre_municipio",
-    "name": "Nombre Municipio",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "codigo_municipio",
-    "name": "Codigo Municipio",
     "type": "Text",
     "description": ""
    },
@@ -137,22 +131,28 @@
     "description": ""
    },
    {
-    "field": "nombre_departamento",
-    "name": "Nombre_departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
     "field": "codigo_centro_poblado",
     "name": "Código Centro Poblado",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "tipo_centro_poblado",
-    "name": "Tipo*",
+    "field": "codigo_departamento",
+    "name": "Código Departamento",
     "type": "Text",
-    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
+    "description": ""
+   },
+   {
+    "field": "codigo_municipio",
+    "name": "Codigo Municipio",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "nombre_municipio",
+    "name": "Nombre Municipio",
+    "type": "Text",
+    "description": ""
    },
    {
     "field": "latitud",
@@ -170,9 +170,9 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
+   "codigo",
    "departamento",
-   "divipola",
-   "codigo"
+   "divipola"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -183,16 +183,16 @@
   "created_at": "2020-06-12T13:11:24.000Z",
   "updated_at": "2026-05-18T16:40:42.000Z",
   "data_updated_at": "2025-01-23T21:56:46.000Z",
-  "page_views_total": 21149,
-  "download_count": 1862,
+  "page_views_total": 21333,
+  "download_count": 1878,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/vcjz-niiq",
   "api_endpoint": "https://www.datos.gov.co/resource/vcjz-niiq.json",
   "csv_download": "https://www.datos.gov.co/api/views/vcjz-niiq/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "latitud",
-    "name": "Latitud",
+    "field": "codigo_departamento",
+    "name": "Código Departamento",
     "type": "Text",
     "description": ""
    },
@@ -203,16 +203,186 @@
     "description": ""
    },
    {
-    "field": "longitud",
-    "name": "longitud",
+    "field": "latitud",
+    "name": "Latitud",
     "type": "Text",
     "description": ""
    },
    {
-    "field": "codigo_departamento",
-    "name": "Código Departamento",
+    "field": "longitud",
+    "name": "longitud",
     "type": "Text",
     "description": ""
+   }
+  ]
+ },
+ {
+  "id": "q3f2-pgh3",
+  "source": "datos.gov.co",
+  "type": "dataset",
+  "title": "Rendimientos semestrales de arroz según sistema y zona arrocera",
+  "description": "Rendimiento de arroz paddy verde expresados en toneladas por hectárea según zona semestre, sistema de producción y zona arrocera.",
+  "category": "Agricultura y Desarrollo Rural",
+  "tags": [
+   "arroz paddy",
+   "fondo nacional del arroz",
+   "arroz",
+   "fedearroz"
+  ],
+  "publisher": "FEDERACION NACIONAL DE ARROCEROS FNA",
+  "attribution": "DANE- FEDEARROZ",
+  "sector": "",
+  "geo_coverage": "Nacional",
+  "update_frequency": "Semestral",
+  "language": "Español",
+  "created_at": "2026-10-09T17:01:31.000Z",
+  "updated_at": "2026-10-15T13:16:59.000Z",
+  "data_updated_at": "2026-10-15T13:16:59.000Z",
+  "page_views_total": 117,
+  "download_count": 22,
+  "license": "",
+  "landing_page": "https://www.datos.gov.co/d/q3f2-pgh3",
+  "api_endpoint": "https://www.datos.gov.co/resource/q3f2-pgh3.json",
+  "csv_download": "https://www.datos.gov.co/api/views/q3f2-pgh3/rows.csv?accessType=DOWNLOAD",
+  "columns": [
+   {
+    "field": "ano",
+    "name": "ANO",
+    "type": "Text",
+    "description": "Indica el año al cual corresponde  esta información"
+   },
+   {
+    "field": "sistema",
+    "name": "SISTEMA",
+    "type": "Text",
+    "description": "sistema de producción (riego /secano)"
+   },
+   {
+    "field": "total_nacional",
+    "name": "TOTAL NACIONAL",
+    "type": "Number",
+    "description": "Rendimiento promedio nacional, calculado a partir de la ponderación del área cosechada en el respectivo periodo"
+   },
+   {
+    "field": "semestre",
+    "name": "SEMESTRE",
+    "type": "Text",
+    "description": "indica el semestre de reporte de los rendimientos calculados a partir de la cosecha del respectivo periodo"
+   },
+   {
+    "field": "centro",
+    "name": "CENTRO",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
+   },
+   {
+    "field": "llanos",
+    "name": "LLANOS",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
+   },
+   {
+    "field": "costa_norte",
+    "name": "COSTA NORTE",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
+   },
+   {
+    "field": "bajo_cauca",
+    "name": "BAJO CAUCA",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Bajo Cauca que comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
+   },
+   {
+    "field": "santanderes",
+    "name": "SANTANDERES",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Santanderes"
+   }
+  ]
+ },
+ {
+  "id": "ygbp-8y7a",
+  "source": "datos.gov.co",
+  "type": "dataset",
+  "title": "Area sembrada de arroz mecanizado, según semestre, sistema y zona arrocera",
+  "description": "área sembrada en arroz mecanizado.",
+  "category": "Agricultura y Desarrollo Rural",
+  "tags": [
+   "fondo nacional del arroz",
+   "arroz paddy",
+   "arroz",
+   "siembras"
+  ],
+  "publisher": "FEDERACION NACIONAL DE ARROCEROS FNA",
+  "attribution": "DANE- FEDEARROZ",
+  "sector": "",
+  "geo_coverage": "Nacional",
+  "update_frequency": "Semestral",
+  "language": "Español",
+  "created_at": "2026-10-09T15:31:57.000Z",
+  "updated_at": "2026-10-09T16:26:45.000Z",
+  "data_updated_at": "2026-10-09T16:26:34.000Z",
+  "page_views_total": 61,
+  "download_count": 6,
+  "license": "",
+  "landing_page": "https://www.datos.gov.co/d/ygbp-8y7a",
+  "api_endpoint": "https://www.datos.gov.co/resource/ygbp-8y7a.json",
+  "csv_download": "https://www.datos.gov.co/api/views/ygbp-8y7a/rows.csv?accessType=DOWNLOAD",
+  "columns": [
+   {
+    "field": "santanderes",
+    "name": "SANTANDERES",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Santanderes"
+   },
+   {
+    "field": "centro",
+    "name": "CENTRO",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
+   },
+   {
+    "field": "costa_norte",
+    "name": "COSTA NORTE",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
+   },
+   {
+    "field": "bajo_cauca",
+    "name": "BAJO CAUCA",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Bajo Cauca que comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
+   },
+   {
+    "field": "sistema",
+    "name": "SISTEMA",
+    "type": "Text",
+    "description": "indica en qué sistema de producción se realizaron las siembras"
+   },
+   {
+    "field": "total_nacional",
+    "name": "TOTAL NACIONAL",
+    "type": "Number",
+    "description": "sumatoria de los valores registrados por año, sistema  y semestre de cada zona arrocera"
+   },
+   {
+    "field": "llanos",
+    "name": "LLANOS",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
+   },
+   {
+    "field": "ano",
+    "name": "ANO",
+    "type": "Text",
+    "description": "Indica el año al cual pertencer esta información"
+   },
+   {
+    "field": "semestre",
+    "name": "SEMESTRE",
+    "type": "Text",
+    "description": "Indica el semestre en que se realizaron las siembras de arroz"
    }
   ]
  }
