@@ -23,37 +23,13 @@
   "created_at": "2016-07-14T02:37:52.000Z",
   "updated_at": "2026-09-24T23:53:50.000Z",
   "data_updated_at": "2025-01-24T20:44:32.000Z",
-  "page_views_total": 198154,
-  "download_count": 273864,
+  "page_views_total": 199212,
+  "download_count": 275210,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/gdxc-w37w",
   "api_endpoint": "https://www.datos.gov.co/resource/gdxc-w37w.json",
   "csv_download": "https://www.datos.gov.co/api/views/gdxc-w37w/rows.csv?accessType=DOWNLOAD",
   "columns": [
-   {
-    "field": "tipo_municipio",
-    "name": "Tipo: Municipio / Isla / Área no municipalizada",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "dpto",
-    "name": "Nombre Departamento",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "latitud",
-    "name": "Latitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "longitud",
-    "name": "longitud",
-    "type": "Text",
-    "description": ""
-   },
    {
     "field": "nom_mpio",
     "name": "Nombre Municipio",
@@ -67,8 +43,32 @@
     "description": ""
    },
    {
+    "field": "dpto",
+    "name": "Nombre Departamento",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "longitud",
+    "name": "longitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
     "field": "cod_dpto",
     "name": "Código Departamento",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "latitud",
+    "name": "Latitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "tipo_municipio",
+    "name": "Tipo: Municipio / Isla / Área no municipalizada",
     "type": "Text",
     "description": ""
    }
@@ -82,13 +82,13 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "areas no municipalizadas",
+   "cabeceras municipales",
    "municipios",
-   "centro poblado",
-   "departamento",
    "divipola",
-   "codigo",
-   "cabeceras municipales"
+   "departamento",
+   "centro poblado",
+   "areas no municipalizadas",
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -99,16 +99,22 @@
   "created_at": "2020-06-11T15:39:41.000Z",
   "updated_at": "2026-05-18T16:41:13.000Z",
   "data_updated_at": "2025-01-24T21:14:58.000Z",
-  "page_views_total": 19344,
-  "download_count": 3996,
+  "page_views_total": 19483,
+  "download_count": 4037,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/xaxy-8nri",
   "api_endpoint": "https://www.datos.gov.co/resource/xaxy-8nri.json",
   "csv_download": "https://www.datos.gov.co/api/views/xaxy-8nri/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "codigo_municipio",
-    "name": "Codigo Municipio",
+    "field": "longitud",
+    "name": "longitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "nombre_departamento",
+    "name": "Nombre_departamento",
     "type": "Text",
     "description": ""
    },
@@ -119,20 +125,8 @@
     "description": ""
    },
    {
-    "field": "latitud",
-    "name": "Latitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "longitud",
-    "name": "longitud",
-    "type": "Text",
-    "description": ""
-   },
-   {
-    "field": "nombre_departamento",
-    "name": "Nombre_departamento",
+    "field": "codigo_municipio",
+    "name": "Codigo Municipio",
     "type": "Text",
     "description": ""
    },
@@ -149,16 +143,22 @@
     "description": ""
    },
    {
-    "field": "tipo_centro_poblado",
-    "name": "Tipo*",
+    "field": "latitud",
+    "name": "Latitud",
     "type": "Text",
-    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
+    "description": ""
    },
    {
     "field": "nombre_municipio",
     "name": "Nombre Municipio",
     "type": "Text",
     "description": ""
+   },
+   {
+    "field": "tipo_centro_poblado",
+    "name": "Tipo*",
+    "type": "Text",
+    "description": "* CM (Cabecera municipal), CP (Centro poblado), ANM (Área no municipalizada)."
    }
   ]
  },
@@ -170,9 +170,9 @@
   "description": "Código de la división Político Administrativa del país, Actualización a corte 30 diciembre 2024.",
   "category": "Mapas Nacionales",
   "tags": [
-   "codigo",
    "divipola",
-   "departamento"
+   "departamento",
+   "codigo"
   ],
   "publisher": "Departamento Administrativo Nacional de Estadística - DANE",
   "attribution": "Departamento Administrativo Nacional de Estadísticas - DANE, Bogotá D.C.",
@@ -183,19 +183,13 @@
   "created_at": "2020-06-12T13:11:24.000Z",
   "updated_at": "2026-05-18T16:40:42.000Z",
   "data_updated_at": "2025-01-23T21:56:46.000Z",
-  "page_views_total": 21902,
-  "download_count": 2071,
+  "page_views_total": 22010,
+  "download_count": 2162,
   "license": "Creative Commons Attribution | Share Alike 4.0 International",
   "landing_page": "https://www.datos.gov.co/d/vcjz-niiq",
   "api_endpoint": "https://www.datos.gov.co/resource/vcjz-niiq.json",
   "csv_download": "https://www.datos.gov.co/api/views/vcjz-niiq/rows.csv?accessType=DOWNLOAD",
   "columns": [
-   {
-    "field": "latitud",
-    "name": "Latitud",
-    "type": "Text",
-    "description": ""
-   },
    {
     "field": "nombre_departamento",
     "name": "Nombre Departamento",
@@ -205,6 +199,12 @@
    {
     "field": "longitud",
     "name": "longitud",
+    "type": "Text",
+    "description": ""
+   },
+   {
+    "field": "latitud",
+    "name": "Latitud",
     "type": "Text",
     "description": ""
    },
@@ -224,10 +224,10 @@
   "description": "Rendimiento de arroz paddy verde expresados en toneladas por hectárea según zona semestre, sistema de producción y zona arrocera.",
   "category": "Agricultura y Desarrollo Rural",
   "tags": [
-   "arroz paddy",
-   "fedearroz",
    "arroz",
-   "fondo nacional del arroz"
+   "fondo nacional del arroz",
+   "arroz paddy",
+   "fedearroz"
   ],
   "publisher": "FEDERACION NACIONAL DE ARROCEROS FNA",
   "attribution": "DANE- FEDEARROZ",
@@ -238,48 +238,18 @@
   "created_at": "2026-10-09T17:01:31.000Z",
   "updated_at": "2026-10-15T13:16:59.000Z",
   "data_updated_at": "2026-10-15T13:16:59.000Z",
-  "page_views_total": 242,
-  "download_count": 46,
+  "page_views_total": 277,
+  "download_count": 54,
   "license": "",
   "landing_page": "https://www.datos.gov.co/d/q3f2-pgh3",
   "api_endpoint": "https://www.datos.gov.co/resource/q3f2-pgh3.json",
   "csv_download": "https://www.datos.gov.co/api/views/q3f2-pgh3/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "centro",
-    "name": "CENTRO",
-    "type": "Number",
-    "description": "Rendimientos calculados para  el respectivo periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
-   },
-   {
-    "field": "bajo_cauca",
-    "name": "BAJO CAUCA",
-    "type": "Number",
-    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Bajo Cauca que comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
-   },
-   {
-    "field": "santanderes",
-    "name": "SANTANDERES",
-    "type": "Number",
-    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Santanderes"
-   },
-   {
-    "field": "costa_norte",
-    "name": "COSTA NORTE",
-    "type": "Number",
-    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
-   },
-   {
-    "field": "llanos",
-    "name": "LLANOS",
-    "type": "Number",
-    "description": "Rendimientos calculados para  el respectivo periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
-   },
-   {
-    "field": "total_nacional",
-    "name": "TOTAL NACIONAL",
-    "type": "Number",
-    "description": "Rendimiento promedio nacional, calculado a partir de la ponderación del área cosechada en el respectivo periodo"
+    "field": "ano",
+    "name": "ANO",
+    "type": "Text",
+    "description": "Indica el año al cual corresponde  esta información"
    },
    {
     "field": "semestre",
@@ -294,10 +264,40 @@
     "description": "sistema de producción (riego /secano)"
    },
    {
-    "field": "ano",
-    "name": "ANO",
-    "type": "Text",
-    "description": "Indica el año al cual corresponde  esta información"
+    "field": "bajo_cauca",
+    "name": "BAJO CAUCA",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Bajo Cauca que comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
+   },
+   {
+    "field": "llanos",
+    "name": "LLANOS",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
+   },
+   {
+    "field": "santanderes",
+    "name": "SANTANDERES",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Santanderes"
+   },
+   {
+    "field": "total_nacional",
+    "name": "TOTAL NACIONAL",
+    "type": "Number",
+    "description": "Rendimiento promedio nacional, calculado a partir de la ponderación del área cosechada en el respectivo periodo"
+   },
+   {
+    "field": "centro",
+    "name": "CENTRO",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
+   },
+   {
+    "field": "costa_norte",
+    "name": "COSTA NORTE",
+    "type": "Number",
+    "description": "Rendimientos calculados para  el respectivo periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
    }
   ]
  },
@@ -310,8 +310,8 @@
   "category": "Agricultura y Desarrollo Rural",
   "tags": [
    "fondo nacional del arroz",
-   "arroz",
    "siembras",
+   "arroz",
    "arroz paddy"
   ],
   "publisher": "FEDERACION NACIONAL DE ARROCEROS FNA",
@@ -323,24 +323,54 @@
   "created_at": "2026-10-09T15:31:57.000Z",
   "updated_at": "2026-10-09T16:26:45.000Z",
   "data_updated_at": "2026-10-09T16:26:34.000Z",
-  "page_views_total": 120,
-  "download_count": 24,
+  "page_views_total": 136,
+  "download_count": 28,
   "license": "",
   "landing_page": "https://www.datos.gov.co/d/ygbp-8y7a",
   "api_endpoint": "https://www.datos.gov.co/resource/ygbp-8y7a.json",
   "csv_download": "https://www.datos.gov.co/api/views/ygbp-8y7a/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "santanderes",
-    "name": "SANTANDERES",
+    "field": "llanos",
+    "name": "LLANOS",
     "type": "Number",
-    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Santanderes"
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
    },
    {
     "field": "bajo_cauca",
     "name": "BAJO CAUCA",
     "type": "Number",
     "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Bajo Cauca que comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
+   },
+   {
+    "field": "total_nacional",
+    "name": "TOTAL NACIONAL",
+    "type": "Number",
+    "description": "sumatoria de los valores registrados por año, sistema  y semestre de cada zona arrocera"
+   },
+   {
+    "field": "semestre",
+    "name": "SEMESTRE",
+    "type": "Text",
+    "description": "Indica el semestre en que se realizaron las siembras de arroz"
+   },
+   {
+    "field": "costa_norte",
+    "name": "COSTA NORTE",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
+   },
+   {
+    "field": "centro",
+    "name": "CENTRO",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
+   },
+   {
+    "field": "santanderes",
+    "name": "SANTANDERES",
+    "type": "Number",
+    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Santanderes"
    },
    {
     "field": "ano",
@@ -353,36 +383,6 @@
     "name": "SISTEMA",
     "type": "Text",
     "description": "indica en qué sistema de producción se realizaron las siembras"
-   },
-   {
-    "field": "semestre",
-    "name": "SEMESTRE",
-    "type": "Text",
-    "description": "Indica el semestre en que se realizaron las siembras de arroz"
-   },
-   {
-    "field": "centro",
-    "name": "CENTRO",
-    "type": "Number",
-    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Centro que comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
-   },
-   {
-    "field": "costa_norte",
-    "name": "COSTA NORTE",
-    "type": "Number",
-    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia."
-   },
-   {
-    "field": "llanos",
-    "name": "LLANOS",
-    "type": "Number",
-    "description": "Hectáreas de arroz sembradas en el correspondiente periodo en la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
-   },
-   {
-    "field": "total_nacional",
-    "name": "TOTAL NACIONAL",
-    "type": "Number",
-    "description": "sumatoria de los valores registrados por año, sistema  y semestre de cada zona arrocera"
    }
   ]
  },
@@ -394,9 +394,9 @@
   "description": "producción semestral de arroz paddy verde según sistema de producción y zona arrocera.",
   "category": "Agricultura y Desarrollo Rural",
   "tags": [
-   "arroz paddy",
+   "arroz",
    "fondo nacional del arroz",
-   "arroz"
+   "arroz paddy"
   ],
   "publisher": "FEDERACION NACIONAL DE ARROCEROS FNA",
   "attribution": "DANE- FEDEARROZ",
@@ -407,36 +407,18 @@
   "created_at": "2026-10-09T16:41:30.000Z",
   "updated_at": "2026-11-09T15:45:17.000Z",
   "data_updated_at": "2026-11-09T15:45:17.000Z",
-  "page_views_total": 27,
-  "download_count": 0,
+  "page_views_total": 37,
+  "download_count": 3,
   "license": "",
   "landing_page": "https://www.datos.gov.co/d/9ukf-8mhd",
   "api_endpoint": "https://www.datos.gov.co/resource/9ukf-8mhd.json",
   "csv_download": "https://www.datos.gov.co/api/views/9ukf-8mhd/rows.csv?accessType=DOWNLOAD",
   "columns": [
    {
-    "field": "centro",
-    "name": "CENTRO",
-    "type": "Number",
-    "description": "la zona centro comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
-   },
-   {
-    "field": "ano",
-    "name": "ANO",
-    "type": "Text",
-    "description": "Indica el año al cual corresponde  esta información"
-   },
-   {
     "field": "semestre",
     "name": "SEMESTRE",
     "type": "Text",
     "description": "corresponde al semestre en el que se obtuvo esta producción"
-   },
-   {
-    "field": "bajo_cauca",
-    "name": "BAJO CAUCA",
-    "type": "Number",
-    "description": "Comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
    },
    {
     "field": "sistema",
@@ -445,16 +427,28 @@
     "description": "sistema de producción de arroz en el que se obtuvo el producto cosechado"
    },
    {
+    "field": "costa_norte",
+    "name": "COSTA NORTE",
+    "type": "Number",
+    "description": "la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia"
+   },
+   {
+    "field": "bajo_cauca",
+    "name": "BAJO CAUCA",
+    "type": "Number",
+    "description": "Comprende los departamentos de  Antioquia, Bolívar, Chocó, Córdoba y Sucre."
+   },
+   {
     "field": "total_nacional",
     "name": "TOTAL NACIONAL",
     "type": "Number",
     "description": "agrega la suma de la producción de todas las zonas arroceras en el respectivo periodo"
    },
    {
-    "field": "santanderes",
-    "name": "SANTANDERES",
+    "field": "centro",
+    "name": "CENTRO",
     "type": "Number",
-    "description": "producción reportada en los departamentos de Santander y Norte de Santander"
+    "description": "la zona centro comprende los departamentos de Caquetá, Cauca, Cundinamarca, Huila, Nariño, Tolima y Valle del Cauca."
    },
    {
     "field": "llanos",
@@ -463,10 +457,16 @@
     "description": "la zona Llanos que comprende Arauca, Casanare, Guaviare, Meta, Vichada y el municipio de Paratebueno en Cundinamarca."
    },
    {
-    "field": "costa_norte",
-    "name": "COSTA NORTE",
+    "field": "santanderes",
+    "name": "SANTANDERES",
     "type": "Number",
-    "description": "la zona de Costa Norte que comprende Atlántico, Cesar, La Guajira, Magdalena y el municipio de Yondó en Antioquia"
+    "description": "producción reportada en los departamentos de Santander y Norte de Santander"
+   },
+   {
+    "field": "ano",
+    "name": "ANO",
+    "type": "Text",
+    "description": "Indica el año al cual corresponde  esta información"
    }
   ]
  }
